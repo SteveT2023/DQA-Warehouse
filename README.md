@@ -7,3 +7,4 @@ This project is a hands-on exploration of **Data Quality Analysis (DQA)**. Using
 
 ## 📂 Project Structure
 * `README.md`: An introduction to the project.
+* `/Datasets`: Contains the raw and cleaned dataset.
