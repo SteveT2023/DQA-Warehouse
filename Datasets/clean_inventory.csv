@@ -1,1001 +1,1001 @@
 Unique_ID,Product_ID,Product_Name,Category,Warehouse,Location,Quantity,Price,Supplier,Status,Last_Restocked
-1,1102," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 1",300,9.99,"Supplier C","In Stock",NULL
-2,1315," widget a ",TOYS,"Warehouse 3","Aisle 1",100,49.99,"Supplier B","In Stock",2023-01-15
-3,1435," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 4",200,19.99,"Supplier C","Out of Stock",NULL
-4,1013," widget a ",TOYS,"Warehouse 2","Aisle 5",50,19.99,"Supplier C","Low Stock",2023-04-25
-5,1241," gadget y ",FURNITURE,"Warehouse 1","Aisle 2",300,29.99,"Supplier D","Low Stock",NULL
-6,1776," gadget y ",TOYS,"Warehouse 3","Aisle 4",300,49.99,"Supplier C","Out of Stock",2023-03-05
-7,1860," widget a ",CLOTHING,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","In Stock",2022-12-20
-8,1270," gadget z ",TOYS,"Warehouse 2","Aisle 4",50,49.99,"Supplier B","In Stock",2022-12-20
-9,1345," gadget z ",FURNITURE,"Warehouse 3","Aisle 4",200,19.99,"Supplier A","In Stock",2022-12-20
-10,1106," widget a ",FURNITURE,"Warehouse 3","Aisle 3",200,9.99,"Supplier D","Out of Stock",2023-04-25
-11,1564," widget b ",FURNITURE,"Warehouse 1","Aisle 1",100,NULL,"Supplier C","Low Stock",2023-01-15
-12,1897," widget c ",FURNITURE,"Warehouse 3","Aisle 4",100,NULL,"Supplier C","Low Stock",2022-12-20
-13,1071," widget b ",CLOTHING,"Warehouse 3","Aisle 5",300,NULL,"Supplier A","In Stock",2022-12-20
-14,1700," widget a ",CLOTHING,"Warehouse 2","Aisle 2",200,49.99,"Supplier B","In Stock",2022-12-20
-15,1339," widget c ",FURNITURE,"Warehouse 3","Aisle 1",300,9.99,"Supplier B","In Stock",2023-03-05
-16,1091," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 5",300,49.99,"Supplier A","Out of Stock",2023-01-15
-17,1366," gadget x ",CLOTHING,"Warehouse 3","Aisle 2",150,19.99,"Supplier A","In Stock",2023-03-05
-18,1020," widget c ",CLOTHING,"Warehouse 1","Aisle 5",200,9.99,"Supplier D","Out of Stock",2022-12-20
-19,1614," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 3",300,9.99,"Supplier B","Out of Stock",2023-03-05
-20,1121," widget b ",TOYS,"Warehouse 1","Aisle 2",50,19.99,"Supplier C","Out of Stock",2022-12-20
-21,1955," widget b ",ELECTRONICS,"Warehouse 1","Aisle 5",150,29.99,"Supplier B","Out of Stock",2022-12-20
-22,1962," widget c ",TOYS,"Warehouse 2","Aisle 4",50,NULL,"Supplier D","Low Stock",2022-12-20
-23,1466," widget a ",CLOTHING,"Warehouse 3","Aisle 1",NULL,49.99,"Supplier B","In Stock",2023-01-15
-24,1733," gadget x ",FURNITURE,"Warehouse 3","Aisle 4",150,29.99,"Supplier D","Low Stock",2023-04-25
-25,1510," widget c ",TOYS,"Warehouse 2","Aisle 4",300,9.99,"Supplier B","In Stock",2023-03-05
-26,1454," gadget z ",TOYS,"Warehouse 1","Aisle 3",150,NULL,"Supplier C","In Stock",NULL
-27,1427," widget b ",ELECTRONICS,"Warehouse 2","Aisle 3",100,19.99,"Supplier D","In Stock",2022-12-20
-28,1508," widget b ",ELECTRONICS,"Warehouse 2","Aisle 3",200,49.99,"Supplier A","In Stock",2022-12-20
-29,1775," widget b ",TOYS,"Warehouse 3","Aisle 5",NULL,9.99,"Supplier A","In Stock",2022-12-20
-30,1146," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 4",50,19.99,"Supplier A","In Stock",2022-12-20
-31,1147," widget b ",TOYS,"Warehouse 2","Aisle 2",100,19.99,"Supplier C","Low Stock",2023-04-25
-32,1942," gadget z ",TOYS,"Warehouse 3","Aisle 4",150,NULL,"Supplier C","Out of Stock",2023-04-25
-33,1034," widget c ",TOYS,"Warehouse 1","Aisle 2",200,19.99,"Supplier C","Out of Stock",2023-03-05
-34,1205," widget c ",ELECTRONICS,"Warehouse 3","Aisle 3",50,19.99,"Supplier A","Low Stock",2023-03-05
-35,1080," widget b ",ELECTRONICS,"Warehouse 1","Aisle 3",150,19.99,"Supplier C","In Stock",2023-03-05
-36,1484," widget a ",ELECTRONICS,"Warehouse 3","Aisle 5",200,49.99,"Supplier C","Low Stock",NULL
-37,1931," gadget x ",TOYS,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier D","Out of Stock",2023-04-25
-38,1863," gadget z ",CLOTHING,"Warehouse 2","Aisle 3",150,9.99,"Supplier A","Low Stock",2023-03-05
-39,1561," widget a ",CLOTHING,"Warehouse 3","Aisle 2",50,49.99,"Supplier A","Out of Stock",NULL
-40,1871," gadget z ",CLOTHING,"Warehouse 1","Aisle 3",50,49.99,"Supplier D","Out of Stock",2022-12-20
-41,1214," gadget z ",FURNITURE,"Warehouse 2","Aisle 1",50,9.99,"Supplier A","Low Stock",2023-01-15
-42,1330," widget c ",TOYS,"Warehouse 3","Aisle 4",150,9.99,"Supplier B","In Stock",2023-04-25
-43,1387," widget a ",FURNITURE,"Warehouse 2","Aisle 2",NULL,29.99,"Supplier D","In Stock",NULL
-44,1458," widget c ",FURNITURE,"Warehouse 2","Aisle 3",300,49.99,"Supplier A","Low Stock",2023-03-05
-45,1406," gadget x ",CLOTHING,"Warehouse 2","Aisle 3",100,29.99,"Supplier A","Out of Stock",2023-03-05
-46,1230," widget b ",TOYS,"Warehouse 1","Aisle 1",50,49.99,"Supplier A","Low Stock",NULL
-47,1001," gadget x ",TOYS,"Warehouse 3","Aisle 3",150,19.99,"Supplier C","Low Stock",2023-04-25
-48,1389," gadget z ",FURNITURE,"Warehouse 2","Aisle 5",100,NULL,"Supplier D","Out of Stock",2023-03-05
-49,1565," widget b ",CLOTHING,"Warehouse 3","Aisle 5",NULL,49.99,"Supplier C","In Stock",2022-12-20
-50,1710," gadget x ",ELECTRONICS,"Warehouse 1","Aisle 5",50,19.99,"Supplier B","Out of Stock",NULL
-51,1105," widget c ",FURNITURE,"Warehouse 1","Aisle 2",NULL,49.99,"Supplier B","Out of Stock",2023-01-15
-52,1771," widget a ",TOYS,"Warehouse 3","Aisle 5",NULL,19.99,"Supplier C","Out of Stock",2023-01-15
-53,1087," widget a ",TOYS,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","Out of Stock",2023-01-15
-54,1821," gadget y ",TOYS,"Warehouse 2","Aisle 2",50,49.99,"Supplier D","Low Stock",NULL
-55,1819," widget a ",FURNITURE,"Warehouse 2","Aisle 3",200,29.99,"Supplier B","Low Stock",2022-12-20
-56,1372," gadget y ",FURNITURE,"Warehouse 2","Aisle 1",200,49.99,"Supplier A","Low Stock",2023-03-05
-57,1099," widget a ",ELECTRONICS,"Warehouse 2","Aisle 5",300,49.99,"Supplier B","Out of Stock",2023-03-05
-58,1748," widget c ",FURNITURE,"Warehouse 1","Aisle 4",200,19.99,"Supplier D","Out of Stock",2022-12-20
-59,1871," widget b ",CLOTHING,"Warehouse 2","Aisle 2",100,NULL,"Supplier D","Out of Stock",2023-04-25
-60,1663," widget a ",FURNITURE,"Warehouse 2","Aisle 5",50,49.99,"Supplier C","Low Stock",2023-03-05
-61,1130," widget c ",TOYS,"Warehouse 1","Aisle 5",300,9.99,"Supplier B","Out of Stock",2022-12-20
-62,1488," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 1",300,9.99,"Supplier A","Out of Stock",2022-12-20
-63,1928," widget b ",TOYS,"Warehouse 1","Aisle 4",300,29.99,"Supplier C","Low Stock",2023-04-25
-64,1935," widget a ",FURNITURE,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier B","In Stock",2023-04-25
-65,1476," gadget y ",TOYS,"Warehouse 1","Aisle 5",200,29.99,"Supplier B","Out of Stock",2023-03-05
-66,1702," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 5",100,29.99,"Supplier C","Out of Stock",2023-01-15
-67,1401," widget b ",FURNITURE,"Warehouse 3","Aisle 2",150,49.99,"Supplier D","In Stock",NULL
-68,1661," widget a ",CLOTHING,"Warehouse 2","Aisle 1",50,49.99,"Supplier C","Low Stock",2023-03-05
-69,1729," widget a ",CLOTHING,"Warehouse 3","Aisle 4",150,19.99,"Supplier A","In Stock",2023-04-25
-70,1308," gadget y ",CLOTHING,"Warehouse 1","Aisle 1",300,NULL,"Supplier C","Out of Stock",2023-04-25
-71,1555," widget b ",CLOTHING,"Warehouse 2","Aisle 5",200,19.99,"Supplier A","Low Stock",NULL
-72,1161," widget a ",CLOTHING,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier C","In Stock",NULL
-73,1769," gadget z ",TOYS,"Warehouse 1","Aisle 1",200,29.99,"Supplier B","In Stock",2023-04-25
-74,1201," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 4",100,9.99,"Supplier C","In Stock",NULL
-75,1654," widget a ",TOYS,"Warehouse 2","Aisle 5",100,49.99,"Supplier A","In Stock",2023-04-25
-76,1343," gadget x ",FURNITURE,"Warehouse 2","Aisle 4",100,49.99,"Supplier B","In Stock",2023-04-25
-77,1491," widget a ",ELECTRONICS,"Warehouse 1","Aisle 5",100,19.99,"Supplier D","Out of Stock",2023-01-15
-78,1957," gadget x ",ELECTRONICS,"Warehouse 1","Aisle 2",150,49.99,"Supplier A","Low Stock",2022-12-20
-79,1413," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier C","Out of Stock",2022-12-20
-80,1639," widget b ",ELECTRONICS,"Warehouse 1","Aisle 5",200,9.99,"Supplier D","In Stock",2023-01-15
-81,1170," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",150,29.99,"Supplier A","Low Stock",NULL
-82,1995," gadget y ",TOYS,"Warehouse 1","Aisle 4",300,19.99,"Supplier D","Out of Stock",NULL
-83,1805," gadget y ",FURNITURE,"Warehouse 2","Aisle 2",300,9.99,"Supplier C","Low Stock",2023-01-15
-84,1269," widget b ",CLOTHING,"Warehouse 2","Aisle 1",150,29.99,"Supplier D","Low Stock",NULL
-85,1385," gadget z ",CLOTHING,"Warehouse 1","Aisle 4",50,19.99,"Supplier B","In Stock",NULL
-86,1862," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 1",NULL,NULL,"Supplier D","In Stock",2022-12-20
-87,1191," widget c ",CLOTHING,"Warehouse 2","Aisle 3",100,19.99,"Supplier A","Low Stock",2022-12-20
-88,1815," gadget y ",TOYS,"Warehouse 2","Aisle 5",300,NULL,"Supplier C","Low Stock",2022-12-20
-89,1270," widget b ",CLOTHING,"Warehouse 3","Aisle 5",200,19.99,"Supplier B","Out of Stock",2023-04-25
-90,1455," gadget y ",FURNITURE,"Warehouse 2","Aisle 3",100,NULL,"Supplier B","Low Stock",2023-03-05
-91,1955," gadget y ",CLOTHING,"Warehouse 2","Aisle 5",100,49.99,"Supplier B","Out of Stock",2023-03-05
-92,1276," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",NULL,19.99,"Supplier C","Out of Stock",2023-04-25
-93,1160," gadget y ",FURNITURE,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier B","Low Stock",NULL
-94,1459," gadget y ",CLOTHING,"Warehouse 3","Aisle 2",100,NULL,"Supplier D","Out of Stock",2022-12-20
-95,1313," widget b ",TOYS,"Warehouse 3","Aisle 4",300,19.99,"Supplier A","In Stock",2023-01-15
-96,1021," widget b ",CLOTHING,"Warehouse 1","Aisle 4",150,19.99,"Supplier B","Low Stock",2023-04-25
-97,1540," widget b ",ELECTRONICS,"Warehouse 2","Aisle 1",100,29.99,"Supplier B","Low Stock",2023-03-05
-98,1461," gadget z ",TOYS,"Warehouse 2","Aisle 4",200,NULL,"Supplier B","In Stock",2023-01-15
-99,1035," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 1",100,49.99,"Supplier A","In Stock",2022-12-20
-100,1252," widget c ",ELECTRONICS,"Warehouse 2","Aisle 2",100,29.99,"Supplier D","In Stock",2023-01-15
-101,1726," widget c ",ELECTRONICS,"Warehouse 3","Aisle 1",200,9.99,"Supplier B","In Stock",2023-01-15
-102,1524," gadget z ",CLOTHING,"Warehouse 3","Aisle 1",300,49.99,"Supplier B","In Stock",2023-01-15
-103,1251," widget c ",ELECTRONICS,"Warehouse 1","Aisle 5",100,29.99,"Supplier B","Low Stock",NULL
-104,1701," widget c ",TOYS,"Warehouse 2","Aisle 4",100,29.99,"Supplier C","Out of Stock",2023-04-25
-105,1747," widget a ",CLOTHING,"Warehouse 1","Aisle 3",200,9.99,"Supplier C","In Stock",2022-12-20
-106,1856," gadget y ",FURNITURE,"Warehouse 1","Aisle 3",50,9.99,"Supplier B","In Stock",2022-12-20
-107,1560," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 4",150,49.99,"Supplier C","Low Stock",NULL
-108,1295," widget c ",TOYS,"Warehouse 2","Aisle 5",150,9.99,"Supplier C","Low Stock",NULL
-109,1474," widget a ",FURNITURE,"Warehouse 2","Aisle 4",200,29.99,"Supplier D","Out of Stock",2023-03-05
-110,1724," widget a ",ELECTRONICS,"Warehouse 3","Aisle 5",150,9.99,"Supplier B","Out of Stock",2023-01-15
-111,1058," gadget z ",FURNITURE,"Warehouse 1","Aisle 1",150,NULL,"Supplier C","In Stock",2023-01-15
-112,1719," widget c ",FURNITURE,"Warehouse 1","Aisle 1",100,NULL,"Supplier C","Out of Stock",2022-12-20
-113,1159," widget b ",ELECTRONICS,"Warehouse 1","Aisle 3",100,49.99,"Supplier A","Low Stock",NULL
-114,1510," widget a ",ELECTRONICS,"Warehouse 2","Aisle 3",200,NULL,"Supplier D","In Stock",NULL
-115,1748," gadget z ",CLOTHING,"Warehouse 2","Aisle 1",300,49.99,"Supplier C","Low Stock",2023-03-05
-116,1681," widget c ",FURNITURE,"Warehouse 1","Aisle 2",50,29.99,"Supplier D","In Stock",2023-04-25
-117,1337," gadget x ",FURNITURE,"Warehouse 3","Aisle 5",50,NULL,"Supplier B","Out of Stock",2023-04-25
-118,1878," gadget x ",TOYS,"Warehouse 2","Aisle 2",150,9.99,"Supplier D","In Stock",2022-12-20
-119,1052," widget a ",FURNITURE,"Warehouse 3","Aisle 5",50,29.99,"Supplier C","Low Stock",2023-03-05
-120,1791," widget c ",ELECTRONICS,"Warehouse 1","Aisle 5",300,NULL,"Supplier D","Out of Stock",2023-04-25
-121,1921," widget c ",TOYS,"Warehouse 1","Aisle 3",100,49.99,"Supplier C","In Stock",2023-04-25
-122,1216," widget c ",CLOTHING,"Warehouse 1","Aisle 3",300,NULL,"Supplier C","Low Stock",2023-01-15
-123,1550," gadget z ",CLOTHING,"Warehouse 1","Aisle 1",NULL,19.99,"Supplier B","Low Stock",2023-01-15
-124,1337," widget c ",CLOTHING,"Warehouse 3","Aisle 2",50,9.99,"Supplier C","Out of Stock",2023-01-15
-125,1871," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 2",100,19.99,"Supplier B","In Stock",2023-04-25
-126,1763," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","In Stock",2022-12-20
-127,1187," widget b ",ELECTRONICS,"Warehouse 2","Aisle 2",200,NULL,"Supplier C","In Stock",2023-04-25
-128,1475," gadget y ",FURNITURE,"Warehouse 3","Aisle 3",50,NULL,"Supplier D","Out of Stock",2023-03-05
-129,1379," gadget y ",CLOTHING,"Warehouse 2","Aisle 2",100,9.99,"Supplier A","In Stock",2023-04-25
-130,1699," gadget y ",CLOTHING,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier B","Out of Stock",NULL
-131,1492," widget b ",CLOTHING,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier A","Out of Stock",2023-03-05
-132,1975," gadget x ",TOYS,"Warehouse 1","Aisle 4",300,NULL,"Supplier C","Low Stock",2023-01-15
-133,1040," widget c ",FURNITURE,"Warehouse 1","Aisle 3",50,29.99,"Supplier B","Low Stock",2023-01-15
-134,1782," gadget z ",FURNITURE,"Warehouse 3","Aisle 4",200,NULL,"Supplier C","Out of Stock",2022-12-20
-135,1156," widget c ",TOYS,"Warehouse 1","Aisle 2",300,9.99,"Supplier D","Low Stock",NULL
-136,1014," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",100,19.99,"Supplier D","Out of Stock",2023-01-15
-137,1640," gadget z ",CLOTHING,"Warehouse 3","Aisle 5",200,29.99,"Supplier A","Out of Stock",2023-01-15
-138,1189," widget a ",FURNITURE,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier A","Low Stock",2023-04-25
-139,1957," widget a ",FURNITURE,"Warehouse 2","Aisle 2",200,29.99,"Supplier A","Low Stock",2023-01-15
-140,1686," widget b ",CLOTHING,"Warehouse 1","Aisle 4",NULL,NULL,"Supplier A","Low Stock",2023-03-05
-141,1778," widget a ",CLOTHING,"Warehouse 3","Aisle 1",200,29.99,"Supplier B","Low Stock",2023-01-15
-142,1987," widget a ",CLOTHING,"Warehouse 2","Aisle 4",200,19.99,"Supplier B","Low Stock",NULL
-143,1957," gadget x ",TOYS,"Warehouse 3","Aisle 5",50,19.99,"Supplier A","Low Stock",2023-03-05
-144,1562," widget b ",ELECTRONICS,"Warehouse 2","Aisle 4",150,29.99,"Supplier C","Low Stock",2022-12-20
-145,1875," widget b ",CLOTHING,"Warehouse 1","Aisle 5",NULL,49.99,"Supplier D","In Stock",2022-12-20
-146,1952," widget a ",FURNITURE,"Warehouse 3","Aisle 3",NULL,9.99,"Supplier C","In Stock",2023-01-15
-147,1472," widget a ",CLOTHING,"Warehouse 1","Aisle 1",50,NULL,"Supplier A","Low Stock",2022-12-20
-148,1566," widget b ",CLOTHING,"Warehouse 3","Aisle 1",200,49.99,"Supplier D","Out of Stock",2023-04-25
-149,1945," widget a ",CLOTHING,"Warehouse 2","Aisle 2",200,29.99,"Supplier C","In Stock",2023-04-25
-150,1812," gadget y ",CLOTHING,"Warehouse 1","Aisle 5",300,9.99,"Supplier D","Low Stock",NULL
-151,1243," gadget z ",TOYS,"Warehouse 2","Aisle 1",200,9.99,"Supplier B","In Stock",2023-04-25
-152,1831," gadget z ",TOYS,"Warehouse 2","Aisle 4",300,NULL,"Supplier D","Low Stock",2022-12-20
-153,1504," widget c ",CLOTHING,"Warehouse 3","Aisle 3",50,19.99,"Supplier C","Out of Stock",2022-12-20
-154,1064," widget b ",TOYS,"Warehouse 1","Aisle 4",100,NULL,"Supplier A","In Stock",2022-12-20
-155,1856," gadget x ",CLOTHING,"Warehouse 1","Aisle 5",150,9.99,"Supplier D","Low Stock",2022-12-20
-156,1838," widget b ",CLOTHING,"Warehouse 3","Aisle 4",150,9.99,"Supplier D","Out of Stock",2023-04-25
-157,1130," widget c ",ELECTRONICS,"Warehouse 3","Aisle 5",200,9.99,"Supplier C","In Stock",2023-03-05
-158,1520," gadget y ",FURNITURE,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","In Stock",2022-12-20
-159,1484," widget b ",CLOTHING,"Warehouse 3","Aisle 2",100,NULL,"Supplier C","In Stock",2022-12-20
-160,1343," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 4",300,NULL,"Supplier D","Out of Stock",2023-04-25
-161,1128," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 3",NULL,49.99,"Supplier A","In Stock",2023-01-15
-162,1150," widget b ",CLOTHING,"Warehouse 3","Aisle 5",200,29.99,"Supplier B","Out of Stock",2023-03-05
-163,1818," gadget x ",TOYS,"Warehouse 3","Aisle 4",150,29.99,"Supplier B","Low Stock",NULL
-164,1414," gadget z ",FURNITURE,"Warehouse 1","Aisle 5",300,NULL,"Supplier D","In Stock",NULL
-165,1646," widget a ",ELECTRONICS,"Warehouse 1","Aisle 2",NULL,49.99,"Supplier A","In Stock",2023-01-15
-166,1838," widget a ",FURNITURE,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","In Stock",2022-12-20
-167,1020," gadget z ",TOYS,"Warehouse 3","Aisle 4",300,19.99,"Supplier D","In Stock",2022-12-20
-168,1698," gadget x ",CLOTHING,"Warehouse 1","Aisle 3",100,29.99,"Supplier D","Out of Stock",2023-01-15
-169,1840," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 3",150,49.99,"Supplier C","In Stock",2023-04-25
-170,1242," widget c ",TOYS,"Warehouse 1","Aisle 5",50,29.99,"Supplier B","In Stock",NULL
-171,1166," gadget y ",FURNITURE,"Warehouse 2","Aisle 3",50,29.99,"Supplier C","In Stock",NULL
-172,1085," widget b ",CLOTHING,"Warehouse 2","Aisle 5",150,NULL,"Supplier D","In Stock",2022-12-20
-173,1795," widget a ",FURNITURE,"Warehouse 3","Aisle 5",50,49.99,"Supplier B","Low Stock",2022-12-20
-174,1577," gadget y ",FURNITURE,"Warehouse 2","Aisle 2",150,19.99,"Supplier B","Out of Stock",NULL
-175,1989," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","In Stock",2023-04-25
-176,1681," gadget z ",CLOTHING,"Warehouse 3","Aisle 5",150,49.99,"Supplier B","In Stock",2022-12-20
-177,1297," widget c ",TOYS,"Warehouse 2","Aisle 5",300,9.99,"Supplier C","Out of Stock",2023-04-25
-178,1556," gadget x ",CLOTHING,"Warehouse 1","Aisle 3",50,49.99,"Supplier C","Out of Stock",2023-04-25
-179,1610," widget c ",CLOTHING,"Warehouse 3","Aisle 5",300,19.99,"Supplier D","In Stock",2022-12-20
-180,1573," widget b ",ELECTRONICS,"Warehouse 2","Aisle 3",200,NULL,"Supplier A","Out of Stock",NULL
-181,1262," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 1",100,49.99,"Supplier C","In Stock",2023-01-15
-182,1273," gadget z ",TOYS,"Warehouse 1","Aisle 3",300,NULL,"Supplier A","In Stock",2023-04-25
-183,1763," gadget z ",CLOTHING,"Warehouse 1","Aisle 4",50,29.99,"Supplier C","Low Stock",2022-12-20
-184,1143," widget c ",FURNITURE,"Warehouse 2","Aisle 3",300,49.99,"Supplier A","Out of Stock",2023-01-15
-185,1345," widget c ",ELECTRONICS,"Warehouse 1","Aisle 1",50,29.99,"Supplier D","In Stock",2023-01-15
-186,1387," gadget z ",TOYS,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier C","Low Stock",NULL
-187,1600," widget c ",CLOTHING,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier D","Low Stock",2022-12-20
-188,1952," widget b ",FURNITURE,"Warehouse 2","Aisle 2",NULL,29.99,"Supplier B","Out of Stock",2022-12-20
-189,1645," widget c ",CLOTHING,"Warehouse 1","Aisle 2",100,49.99,"Supplier C","Low Stock",2023-01-15
-190,1795," widget c ",CLOTHING,"Warehouse 1","Aisle 5",300,29.99,"Supplier B","In Stock",2023-01-15
-191,1027," gadget y ",FURNITURE,"Warehouse 1","Aisle 4",NULL,9.99,"Supplier A","Low Stock",2023-04-25
-192,1045," widget c ",ELECTRONICS,"Warehouse 1","Aisle 1",300,29.99,"Supplier C","In Stock",2022-12-20
-193,1619," gadget z ",CLOTHING,"Warehouse 2","Aisle 2",100,29.99,"Supplier B","In Stock",NULL
-194,1372," gadget x ",CLOTHING,"Warehouse 2","Aisle 3",200,29.99,"Supplier C","Out of Stock",NULL
-195,1555," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 1",100,19.99,"Supplier C","In Stock",2022-12-20
-196,1339," widget a ",FURNITURE,"Warehouse 2","Aisle 3",150,19.99,"Supplier A","Low Stock",2022-12-20
-197,1517," widget a ",CLOTHING,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier C","Low Stock",2023-01-15
-198,1797," widget a ",ELECTRONICS,"Warehouse 3","Aisle 1",100,49.99,"Supplier C","Out of Stock",2023-01-15
-199,1098," widget b ",CLOTHING,"Warehouse 2","Aisle 1",150,49.99,"Supplier A","Out of Stock",NULL
-200,1957," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 3",300,29.99,"Supplier A","Out of Stock",2023-04-25
-201,1891," widget c ",CLOTHING,"Warehouse 2","Aisle 5",50,NULL,"Supplier B","Out of Stock",NULL
-202,1744," gadget z ",TOYS,"Warehouse 1","Aisle 3",150,NULL,"Supplier A","Low Stock",2023-03-05
-203,1036," widget b ",TOYS,"Warehouse 3","Aisle 4",50,29.99,"Supplier A","Out of Stock",2023-03-05
-204,1279," widget b ",FURNITURE,"Warehouse 1","Aisle 3",150,19.99,"Supplier A","Out of Stock",NULL
-205,1348," widget c ",CLOTHING,"Warehouse 1","Aisle 5",NULL,19.99,"Supplier C","Out of Stock",2023-04-25
-206,1496," widget b ",TOYS,"Warehouse 2","Aisle 1",200,NULL,"Supplier C","In Stock",2023-03-05
-207,1301," widget c ",ELECTRONICS,"Warehouse 2","Aisle 5",NULL,19.99,"Supplier C","Out of Stock",NULL
-208,1180," widget a ",CLOTHING,"Warehouse 2","Aisle 2",300,NULL,"Supplier B","Low Stock",2023-01-15
-209,1623," widget b ",FURNITURE,"Warehouse 2","Aisle 4",300,29.99,"Supplier B","Out of Stock",2023-04-25
-210,1606," widget c ",FURNITURE,"Warehouse 2","Aisle 2",100,49.99,"Supplier D","Low Stock",2023-04-25
-211,1647," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 1",150,49.99,"Supplier A","In Stock",2022-12-20
-212,1571," gadget x ",CLOTHING,"Warehouse 3","Aisle 1",150,49.99,"Supplier C","Out of Stock",2023-01-15
-213,1098," widget c ",FURNITURE,"Warehouse 3","Aisle 4",200,29.99,"Supplier C","Out of Stock",2022-12-20
-214,1880," gadget y ",CLOTHING,"Warehouse 1","Aisle 1",100,49.99,"Supplier B","In Stock",NULL
-215,1471," widget a ",ELECTRONICS,"Warehouse 3","Aisle 4",100,29.99,"Supplier A","Low Stock",2023-01-15
-216,1699," gadget x ",FURNITURE,"Warehouse 3","Aisle 5",NULL,9.99,"Supplier B","Out of Stock",NULL
-217,1001," widget a ",FURNITURE,"Warehouse 2","Aisle 5",300,19.99,"Supplier A","Low Stock",NULL
-218,1062," gadget y ",CLOTHING,"Warehouse 1","Aisle 5",150,9.99,"Supplier B","In Stock",2023-01-15
-219,1330," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 3",100,49.99,"Supplier A","In Stock",2023-01-15
-220,1896," gadget x ",TOYS,"Warehouse 2","Aisle 4",150,49.99,"Supplier A","Out of Stock",NULL
-221,1138," widget a ",TOYS,"Warehouse 2","Aisle 3",200,29.99,"Supplier B","Out of Stock",2022-12-20
-222,1639," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 2",50,NULL,"Supplier D","Low Stock",2023-01-15
-223,1303," gadget z ",FURNITURE,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier D","In Stock",2023-04-25
-224,1498," gadget x ",TOYS,"Warehouse 2","Aisle 5",150,19.99,"Supplier C","Low Stock",2023-01-15
-225,1505," gadget z ",FURNITURE,"Warehouse 3","Aisle 2",NULL,19.99,"Supplier D","Out of Stock",2023-04-25
-226,1592," widget b ",FURNITURE,"Warehouse 2","Aisle 2",300,49.99,"Supplier D","Out of Stock",2022-12-20
-227,1253," widget c ",CLOTHING,"Warehouse 1","Aisle 3",150,19.99,"Supplier A","Out of Stock",2022-12-20
-228,1992," widget c ",ELECTRONICS,"Warehouse 3","Aisle 4",300,29.99,"Supplier C","Out of Stock",NULL
-229,1391," gadget z ",FURNITURE,"Warehouse 2","Aisle 3",NULL,9.99,"Supplier B","In Stock",2022-12-20
-230,1651," gadget x ",FURNITURE,"Warehouse 1","Aisle 4",200,19.99,"Supplier A","Low Stock",2023-03-05
-231,1452," gadget y ",TOYS,"Warehouse 1","Aisle 5",300,29.99,"Supplier B","Low Stock",2023-01-15
-232,1674," widget b ",CLOTHING,"Warehouse 3","Aisle 4",200,19.99,"Supplier A","Out of Stock",2022-12-20
-233,1036," gadget z ",FURNITURE,"Warehouse 3","Aisle 2",150,29.99,"Supplier A","Low Stock",2023-03-05
-234,1418," widget a ",TOYS,"Warehouse 1","Aisle 3",300,19.99,"Supplier A","Out of Stock",NULL
-235,1159," widget a ",TOYS,"Warehouse 3","Aisle 1",50,49.99,"Supplier A","In Stock",2022-12-20
-236,1288," gadget z ",TOYS,"Warehouse 1","Aisle 5",300,9.99,"Supplier B","In Stock",2023-01-15
-237,1008," widget a ",TOYS,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier C","In Stock",2022-12-20
-238,1378," widget b ",ELECTRONICS,"Warehouse 1","Aisle 1",300,19.99,"Supplier B","Low Stock",2023-03-05
-239,1772," gadget y ",CLOTHING,"Warehouse 2","Aisle 3",100,9.99,"Supplier B","Out of Stock",2022-12-20
-240,1232," gadget y ",FURNITURE,"Warehouse 2","Aisle 4",300,49.99,"Supplier A","Low Stock",2023-04-25
-241,1098," gadget y ",FURNITURE,"Warehouse 3","Aisle 1",200,29.99,"Supplier C","In Stock",NULL
-242,1489," widget c ",CLOTHING,"Warehouse 2","Aisle 4",300,9.99,"Supplier C","In Stock",2023-01-15
-243,1230," widget a ",ELECTRONICS,"Warehouse 1","Aisle 2",100,NULL,"Supplier A","Low Stock",2023-04-25
-244,1347," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 1",50,49.99,"Supplier D","Out of Stock",NULL
-245,1472," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 3",300,NULL,"Supplier A","In Stock",2022-12-20
-246,1040," widget b ",CLOTHING,"Warehouse 2","Aisle 1",300,29.99,"Supplier C","Low Stock",2022-12-20
-247,1230," gadget z ",CLOTHING,"Warehouse 1","Aisle 1",100,49.99,"Supplier B","In Stock",NULL
-248,1027," widget a ",CLOTHING,"Warehouse 1","Aisle 2",50,19.99,"Supplier C","Low Stock",2022-12-20
-249,1134," widget a ",FURNITURE,"Warehouse 1","Aisle 3",200,19.99,"Supplier D","Out of Stock",2023-03-05
-250,1115," widget c ",TOYS,"Warehouse 2","Aisle 4",100,NULL,"Supplier C","Low Stock",2023-04-25
-251,1200," gadget z ",TOYS,"Warehouse 1","Aisle 5",50,NULL,"Supplier A","Out of Stock",NULL
-252,1189," widget c ",FURNITURE,"Warehouse 1","Aisle 4",300,29.99,"Supplier C","Low Stock",2023-03-05
-253,1190," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 2",300,NULL,"Supplier A","Low Stock",2023-03-05
-254,1658," widget c ",ELECTRONICS,"Warehouse 1","Aisle 3",150,9.99,"Supplier A","Low Stock",NULL
-255,1252," widget a ",CLOTHING,"Warehouse 2","Aisle 4",50,29.99,"Supplier A","In Stock",2023-03-05
-256,1815," widget a ",CLOTHING,"Warehouse 2","Aisle 2",NULL,9.99,"Supplier A","In Stock",2022-12-20
-257,1224," gadget z ",FURNITURE,"Warehouse 3","Aisle 1",150,29.99,"Supplier C","In Stock",2023-03-05
-258,1980," gadget x ",FURNITURE,"Warehouse 3","Aisle 2",50,NULL,"Supplier A","In Stock",2023-03-05
-259,1207," gadget z ",TOYS,"Warehouse 3","Aisle 3",300,49.99,"Supplier D","Low Stock",2023-04-25
-260,1384," gadget z ",TOYS,"Warehouse 2","Aisle 5",50,29.99,"Supplier C","Out of Stock",2023-03-05
-261,1927," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 1",150,19.99,"Supplier B","In Stock",2022-12-20
-262,1130," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 4",NULL,29.99,"Supplier D","Out of Stock",2023-04-25
-263,1376," gadget z ",FURNITURE,"Warehouse 3","Aisle 1",50,29.99,"Supplier D","Out of Stock",2023-04-25
-264,1982," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 5",200,19.99,"Supplier D","Low Stock",2023-04-25
-265,1282," widget a ",FURNITURE,"Warehouse 2","Aisle 5",200,9.99,"Supplier A","Out of Stock",2023-01-15
-266,1160," widget a ",TOYS,"Warehouse 1","Aisle 4",50,NULL,"Supplier D","In Stock",2023-04-25
-267,1957," widget c ",TOYS,"Warehouse 3","Aisle 5",100,NULL,"Supplier D","Out of Stock",NULL
-268,1403," gadget z ",FURNITURE,"Warehouse 2","Aisle 1",200,29.99,"Supplier C","Low Stock",2023-01-15
-269,1255," widget a ",TOYS,"Warehouse 2","Aisle 2",300,NULL,"Supplier B","Out of Stock",2023-03-05
-270,1151," widget b ",CLOTHING,"Warehouse 2","Aisle 4",150,19.99,"Supplier A","Low Stock",NULL
-271,1322," gadget y ",FURNITURE,"Warehouse 1","Aisle 3",200,19.99,"Supplier C","Out of Stock",2023-03-05
-272,1839," gadget z ",CLOTHING,"Warehouse 1","Aisle 5",300,NULL,"Supplier A","Out of Stock",NULL
-273,1053," widget b ",ELECTRONICS,"Warehouse 2","Aisle 1",NULL,NULL,"Supplier B","In Stock",2022-12-20
-274,1632," widget c ",FURNITURE,"Warehouse 1","Aisle 5",150,NULL,"Supplier B","Low Stock",2022-12-20
-275,1127," widget c ",ELECTRONICS,"Warehouse 1","Aisle 4",50,NULL,"Supplier B","Low Stock",2023-01-15
-276,1779," widget c ",FURNITURE,"Warehouse 1","Aisle 4",200,NULL,"Supplier B","Low Stock",2022-12-20
-277,1627," gadget y ",FURNITURE,"Warehouse 2","Aisle 4",50,29.99,"Supplier A","Low Stock",2023-03-05
-278,1017," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 1",150,NULL,"Supplier C","In Stock",2023-01-15
-279,1929," gadget y ",TOYS,"Warehouse 1","Aisle 5",200,49.99,"Supplier B","Out of Stock",2023-01-15
-280,1119," gadget y ",TOYS,"Warehouse 3","Aisle 5",NULL,49.99,"Supplier D","In Stock",2023-03-05
-281,1672," widget c ",ELECTRONICS,"Warehouse 3","Aisle 2",100,NULL,"Supplier B","In Stock",NULL
-282,1919," widget b ",TOYS,"Warehouse 3","Aisle 5",NULL,NULL,"Supplier D","In Stock",2023-01-15
-283,1032," widget a ",ELECTRONICS,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier D","In Stock",2023-04-25
-284,1047," widget b ",FURNITURE,"Warehouse 2","Aisle 5",50,49.99,"Supplier C","Out of Stock",2023-04-25
-285,1627," widget a ",FURNITURE,"Warehouse 1","Aisle 5",100,49.99,"Supplier D","In Stock",2023-04-25
-286,1502," gadget x ",FURNITURE,"Warehouse 1","Aisle 4",NULL,9.99,"Supplier B","Out of Stock",2023-01-15
-287,1586," gadget z ",CLOTHING,"Warehouse 3","Aisle 4",150,29.99,"Supplier A","In Stock",2022-12-20
-288,1624," gadget z ",CLOTHING,"Warehouse 2","Aisle 2",300,49.99,"Supplier D","Out of Stock",NULL
-289,1967," gadget y ",CLOTHING,"Warehouse 3","Aisle 1",300,NULL,"Supplier B","Low Stock",2023-03-05
-290,1972," gadget x ",FURNITURE,"Warehouse 3","Aisle 1",50,9.99,"Supplier C","In Stock",NULL
-291,1744," gadget z ",FURNITURE,"Warehouse 1","Aisle 1",150,29.99,"Supplier D","In Stock",2023-03-05
-292,1419," gadget x ",FURNITURE,"Warehouse 2","Aisle 1",150,29.99,"Supplier D","Low Stock",2023-01-15
-293,1258," widget b ",TOYS,"Warehouse 1","Aisle 4",300,9.99,"Supplier D","In Stock",2023-03-05
-294,1358," gadget x ",FURNITURE,"Warehouse 3","Aisle 3",300,29.99,"Supplier B","Low Stock",2022-12-20
-295,1421," gadget y ",TOYS,"Warehouse 1","Aisle 3",150,9.99,"Supplier C","Low Stock",2023-01-15
-296,1406," widget a ",TOYS,"Warehouse 1","Aisle 3",200,19.99,"Supplier B","Low Stock",2022-12-20
-297,1709," gadget x ",FURNITURE,"Warehouse 2","Aisle 2",100,19.99,"Supplier B","Out of Stock",2023-04-25
-298,1103," gadget x ",FURNITURE,"Warehouse 2","Aisle 1",50,49.99,"Supplier A","Out of Stock",NULL
-299,1792," widget b ",TOYS,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier B","Out of Stock",NULL
-300,1573," widget a ",ELECTRONICS,"Warehouse 2","Aisle 3",100,29.99,"Supplier A","Out of Stock",2023-04-25
-301,1455," widget c ",TOYS,"Warehouse 2","Aisle 1",200,19.99,"Supplier D","In Stock",2023-01-15
-302,1851," gadget y ",CLOTHING,"Warehouse 2","Aisle 4",150,49.99,"Supplier A","Low Stock",2023-03-05
-303,1727," widget c ",FURNITURE,"Warehouse 2","Aisle 5",200,9.99,"Supplier A","In Stock",NULL
-304,1410," gadget x ",CLOTHING,"Warehouse 1","Aisle 2",50,49.99,"Supplier B","Out of Stock",2023-04-25
-305,1253," gadget y ",FURNITURE,"Warehouse 2","Aisle 5",NULL,29.99,"Supplier C","Out of Stock",2023-01-15
-306,1804," gadget y ",CLOTHING,"Warehouse 2","Aisle 2",NULL,19.99,"Supplier B","Low Stock",2023-01-15
-307,1226," gadget y ",FURNITURE,"Warehouse 1","Aisle 5",300,9.99,"Supplier C","Out of Stock",2022-12-20
-308,1111," gadget x ",FURNITURE,"Warehouse 3","Aisle 5",200,9.99,"Supplier C","Out of Stock",2023-01-15
-309,1648," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 4",200,29.99,"Supplier C","In Stock",NULL
-310,1317," gadget z ",CLOTHING,"Warehouse 2","Aisle 3",300,NULL,"Supplier B","In Stock",2023-04-25
-311,1098," gadget x ",CLOTHING,"Warehouse 1","Aisle 3",50,19.99,"Supplier A","In Stock",2023-03-05
-312,1676," widget a ",TOYS,"Warehouse 2","Aisle 3",300,49.99,"Supplier B","In Stock",NULL
-313,1683," gadget z ",CLOTHING,"Warehouse 3","Aisle 5",300,NULL,"Supplier D","Low Stock",2022-12-20
-314,1734," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 3",150,9.99,"Supplier B","Low Stock",NULL
-315,1224," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,19.99,"Supplier D","In Stock",NULL
-316,1565," widget b ",ELECTRONICS,"Warehouse 3","Aisle 2",100,19.99,"Supplier B","In Stock",2023-04-25
-317,1818," gadget z ",TOYS,"Warehouse 3","Aisle 4",100,29.99,"Supplier D","In Stock",2023-01-15
-318,1871," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 4",300,NULL,"Supplier B","Low Stock",2023-01-15
-319,1233," widget c ",TOYS,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier A","Out of Stock",2022-12-20
-320,1725," widget b ",FURNITURE,"Warehouse 2","Aisle 5",50,9.99,"Supplier A","Out of Stock",2023-04-25
-321,1683," gadget z ",FURNITURE,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier A","In Stock",2023-01-15
-322,1986," gadget x ",CLOTHING,"Warehouse 3","Aisle 3",300,NULL,"Supplier D","In Stock",2022-12-20
-323,1509," gadget x ",TOYS,"Warehouse 3","Aisle 2",300,29.99,"Supplier D","Low Stock",2023-03-05
-324,1569," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 4",50,29.99,"Supplier D","Out of Stock",2023-04-25
-325,1546," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 4",300,19.99,"Supplier A","Low Stock",NULL
-326,1322," widget a ",TOYS,"Warehouse 1","Aisle 2",100,9.99,"Supplier A","In Stock",2022-12-20
-327,1960," widget b ",CLOTHING,"Warehouse 1","Aisle 5",NULL,NULL,"Supplier A","Out of Stock",2022-12-20
-328,1663," widget a ",ELECTRONICS,"Warehouse 1","Aisle 2",NULL,19.99,"Supplier D","Out of Stock",2023-04-25
-329,1871," widget a ",FURNITURE,"Warehouse 2","Aisle 1",100,NULL,"Supplier B","Low Stock",2022-12-20
-330,1974," widget b ",FURNITURE,"Warehouse 3","Aisle 5",100,49.99,"Supplier B","Low Stock",NULL
-331,1685," gadget x ",CLOTHING,"Warehouse 1","Aisle 2",300,NULL,"Supplier D","In Stock",2023-01-15
-332,1738," gadget y ",TOYS,"Warehouse 3","Aisle 1",50,49.99,"Supplier A","Low Stock",2022-12-20
-333,1791," widget a ",FURNITURE,"Warehouse 3","Aisle 1",200,29.99,"Supplier A","Low Stock",NULL
-334,1826," widget c ",ELECTRONICS,"Warehouse 2","Aisle 5",100,19.99,"Supplier B","In Stock",2023-03-05
-335,1373," widget b ",TOYS,"Warehouse 2","Aisle 3",150,9.99,"Supplier A","Out of Stock",2023-03-05
-336,1612," widget b ",FURNITURE,"Warehouse 1","Aisle 4",150,NULL,"Supplier B","Low Stock",NULL
-337,1625," widget a ",CLOTHING,"Warehouse 3","Aisle 2",300,NULL,"Supplier A","In Stock",2023-01-15
-338,1671," widget c ",TOYS,"Warehouse 3","Aisle 3",200,19.99,"Supplier A","Low Stock",NULL
-339,1942," gadget z ",FURNITURE,"Warehouse 3","Aisle 1",100,19.99,"Supplier C","Low Stock",NULL
-340,1472," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 1",100,19.99,"Supplier A","Out of Stock",2023-04-25
-341,1287," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 3",50,49.99,"Supplier B","Out of Stock",2023-01-15
-342,1607," gadget y ",CLOTHING,"Warehouse 3","Aisle 2",200,29.99,"Supplier A","Low Stock",2023-01-15
-343,1461," widget c ",ELECTRONICS,"Warehouse 1","Aisle 2",100,9.99,"Supplier A","Low Stock",2022-12-20
-344,1098," widget b ",ELECTRONICS,"Warehouse 2","Aisle 4",300,49.99,"Supplier C","Low Stock",2023-04-25
-345,1942," gadget z ",FURNITURE,"Warehouse 3","Aisle 5",100,29.99,"Supplier C","Low Stock",NULL
-346,1471," gadget x ",ELECTRONICS,"Warehouse 1","Aisle 1",150,NULL,"Supplier C","Low Stock",2022-12-20
-347,1642," widget c ",ELECTRONICS,"Warehouse 3","Aisle 4",300,29.99,"Supplier D","Low Stock",NULL
-348,1152," widget c ",FURNITURE,"Warehouse 3","Aisle 2",50,49.99,"Supplier D","Low Stock",NULL
-349,1853," gadget z ",CLOTHING,"Warehouse 3","Aisle 3",NULL,9.99,"Supplier C","Low Stock",2022-12-20
-350,1768," widget c ",FURNITURE,"Warehouse 1","Aisle 1",100,NULL,"Supplier B","Low Stock",2023-01-15
-351,1662," gadget x ",TOYS,"Warehouse 2","Aisle 3",100,29.99,"Supplier C","Low Stock",NULL
-352,1961," gadget y ",TOYS,"Warehouse 3","Aisle 5",NULL,19.99,"Supplier B","In Stock",2023-03-05
-353,1004," gadget z ",CLOTHING,"Warehouse 1","Aisle 3",50,19.99,"Supplier B","Out of Stock",NULL
-354,1638," widget a ",FURNITURE,"Warehouse 3","Aisle 5",300,29.99,"Supplier C","In Stock",2023-03-05
-355,1154," widget a ",FURNITURE,"Warehouse 3","Aisle 4",300,NULL,"Supplier D","Out of Stock",2023-03-05
-356,1217," widget c ",CLOTHING,"Warehouse 3","Aisle 3",50,29.99,"Supplier D","Low Stock",NULL
-357,1489," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 4",200,NULL,"Supplier D","Low Stock",2023-04-25
-358,1502," gadget x ",TOYS,"Warehouse 1","Aisle 2",200,29.99,"Supplier A","In Stock",2022-12-20
-359,1385," gadget z ",FURNITURE,"Warehouse 2","Aisle 3",100,49.99,"Supplier D","Low Stock",2022-12-20
-360,1766," gadget y ",CLOTHING,"Warehouse 1","Aisle 4",200,49.99,"Supplier C","Out of Stock",2023-01-15
-361,1985," widget c ",ELECTRONICS,"Warehouse 2","Aisle 3",150,49.99,"Supplier D","In Stock",2022-12-20
-362,1860," widget c ",ELECTRONICS,"Warehouse 1","Aisle 3",150,NULL,"Supplier C","In Stock",2023-03-05
-363,1397," widget b ",ELECTRONICS,"Warehouse 1","Aisle 4",100,29.99,"Supplier A","In Stock",2023-03-05
-364,1913," widget c ",ELECTRONICS,"Warehouse 3","Aisle 4",150,29.99,"Supplier B","In Stock",2023-01-15
-365,1870," widget b ",ELECTRONICS,"Warehouse 3","Aisle 4",150,19.99,"Supplier D","Low Stock",2023-03-05
-366,1895," gadget x ",FURNITURE,"Warehouse 1","Aisle 4",300,NULL,"Supplier B","Out of Stock",2023-01-15
-367,1794," gadget z ",CLOTHING,"Warehouse 3","Aisle 2",200,19.99,"Supplier B","In Stock",2023-04-25
-368,1232," gadget y ",FURNITURE,"Warehouse 1","Aisle 2",150,19.99,"Supplier C","Out of Stock",2023-01-15
-369,1392," widget c ",ELECTRONICS,"Warehouse 1","Aisle 4",200,NULL,"Supplier C","Low Stock",NULL
-370,1691," gadget z ",CLOTHING,"Warehouse 3","Aisle 2",300,NULL,"Supplier A","In Stock",NULL
-371,1112," widget b ",CLOTHING,"Warehouse 2","Aisle 4",NULL,9.99,"Supplier B","In Stock",NULL
-372,1829," gadget z ",CLOTHING,"Warehouse 1","Aisle 4",150,49.99,"Supplier A","Out of Stock",2022-12-20
-373,1206," widget c ",FURNITURE,"Warehouse 1","Aisle 3",50,NULL,"Supplier B","Low Stock",NULL
-374,1496," gadget x ",FURNITURE,"Warehouse 1","Aisle 2",50,49.99,"Supplier C","In Stock",2023-04-25
-375,1014," widget a ",FURNITURE,"Warehouse 3","Aisle 1",150,NULL,"Supplier D","Out of Stock",2023-01-15
-376,1441," widget c ",CLOTHING,"Warehouse 2","Aisle 2",200,NULL,"Supplier B","Out of Stock",2023-04-25
-377,1857," gadget y ",CLOTHING,"Warehouse 3","Aisle 3",300,29.99,"Supplier A","Out of Stock",2023-03-05
-378,1563," gadget x ",FURNITURE,"Warehouse 1","Aisle 2",150,49.99,"Supplier C","In Stock",2022-12-20
-379,1553," gadget x ",FURNITURE,"Warehouse 1","Aisle 3",100,29.99,"Supplier C","Low Stock",2023-04-25
-380,1891," widget b ",FURNITURE,"Warehouse 1","Aisle 1",200,49.99,"Supplier B","Out of Stock",2023-01-15
-381,1460," widget a ",TOYS,"Warehouse 1","Aisle 3",150,NULL,"Supplier B","In Stock",NULL
-382,1690," widget a ",TOYS,"Warehouse 2","Aisle 2",150,9.99,"Supplier B","Out of Stock",2023-03-05
-383,1574," gadget z ",FURNITURE,"Warehouse 3","Aisle 1",100,49.99,"Supplier A","Out of Stock",2023-04-25
-384,1863," widget b ",CLOTHING,"Warehouse 2","Aisle 3",150,9.99,"Supplier C","In Stock",2022-12-20
-385,1742," gadget z ",TOYS,"Warehouse 3","Aisle 5",150,29.99,"Supplier A","Out of Stock",2023-03-05
-386,1240," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 3",150,49.99,"Supplier A","Low Stock",2023-04-25
-387,1563," widget a ",ELECTRONICS,"Warehouse 3","Aisle 2",200,49.99,"Supplier A","In Stock",2023-01-15
-388,1095," widget a ",ELECTRONICS,"Warehouse 3","Aisle 4",100,19.99,"Supplier D","Low Stock",2022-12-20
-389,1899," gadget y ",CLOTHING,"Warehouse 3","Aisle 3",150,29.99,"Supplier D","In Stock",2023-04-25
-390,1784," widget c ",ELECTRONICS,"Warehouse 2","Aisle 1",300,49.99,"Supplier A","In Stock",2023-04-25
-391,1057," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 5",150,19.99,"Supplier D","In Stock",2023-04-25
-392,1950," widget c ",FURNITURE,"Warehouse 1","Aisle 2",300,9.99,"Supplier D","Low Stock",NULL
-393,1345," gadget x ",FURNITURE,"Warehouse 2","Aisle 4",NULL,29.99,"Supplier D","Out of Stock",2023-01-15
-394,1103," widget c ",TOYS,"Warehouse 1","Aisle 1",300,9.99,"Supplier D","Out of Stock",2023-01-15
-395,1740," widget b ",CLOTHING,"Warehouse 3","Aisle 2",200,NULL,"Supplier C","Out of Stock",2022-12-20
-396,1928," gadget z ",TOYS,"Warehouse 1","Aisle 4",200,49.99,"Supplier C","Out of Stock",2023-03-05
-397,1473," gadget z ",FURNITURE,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier C","Out of Stock",NULL
-398,1392," gadget z ",CLOTHING,"Warehouse 2","Aisle 4",NULL,9.99,"Supplier B","In Stock",2023-03-05
-399,1116," gadget x ",TOYS,"Warehouse 3","Aisle 5",100,29.99,"Supplier D","In Stock",NULL
-400,1810," gadget y ",TOYS,"Warehouse 1","Aisle 1",200,49.99,"Supplier C","Low Stock",2023-01-15
-401,1245," widget a ",TOYS,"Warehouse 2","Aisle 1",100,9.99,"Supplier D","Out of Stock",NULL
-402,1829," widget a ",FURNITURE,"Warehouse 3","Aisle 3",NULL,29.99,"Supplier A","In Stock",2023-04-25
-403,1175," gadget y ",FURNITURE,"Warehouse 1","Aisle 2",50,29.99,"Supplier A","In Stock",NULL
-404,1790," widget b ",FURNITURE,"Warehouse 1","Aisle 1",150,29.99,"Supplier A","Out of Stock",2023-01-15
-405,1038," gadget y ",TOYS,"Warehouse 3","Aisle 2",50,29.99,"Supplier D","In Stock",2022-12-20
-406,1476," gadget z ",CLOTHING,"Warehouse 3","Aisle 1",NULL,NULL,"Supplier B","Low Stock",2023-04-25
-407,1681," widget c ",FURNITURE,"Warehouse 2","Aisle 2",300,9.99,"Supplier C","In Stock",2022-12-20
-408,1758," widget b ",CLOTHING,"Warehouse 1","Aisle 5",NULL,19.99,"Supplier B","In Stock",NULL
-409,1537," widget a ",TOYS,"Warehouse 1","Aisle 4",300,NULL,"Supplier B","Out of Stock",2023-01-15
-410,1866," gadget z ",CLOTHING,"Warehouse 3","Aisle 4",300,29.99,"Supplier B","In Stock",2022-12-20
-411,1817," widget c ",FURNITURE,"Warehouse 3","Aisle 1",50,9.99,"Supplier C","In Stock",2023-03-05
-412,1267," widget a ",CLOTHING,"Warehouse 2","Aisle 5",50,19.99,"Supplier B","Low Stock",2023-04-25
-413,1509," gadget x ",FURNITURE,"Warehouse 2","Aisle 4",50,NULL,"Supplier C","In Stock",2023-03-05
-414,1806," widget a ",TOYS,"Warehouse 2","Aisle 2",50,29.99,"Supplier B","Out of Stock",2023-04-25
-415,1385," gadget x ",TOYS,"Warehouse 3","Aisle 3",300,19.99,"Supplier B","Out of Stock",2023-04-25
-416,1920," widget b ",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier D","Out of Stock",2023-03-05
-417,1386," widget a ",TOYS,"Warehouse 3","Aisle 3",300,19.99,"Supplier B","Low Stock",2023-04-25
-418,1407," widget b ",CLOTHING,"Warehouse 1","Aisle 1",200,19.99,"Supplier B","Low Stock",2023-01-15
-419,1112," widget b ",TOYS,"Warehouse 3","Aisle 5",50,19.99,"Supplier B","Out of Stock",2023-03-05
-420,1524," gadget z ",CLOTHING,"Warehouse 1","Aisle 2",300,29.99,"Supplier C","Low Stock",NULL
-421,1126," gadget z ",FURNITURE,"Warehouse 3","Aisle 5",150,19.99,"Supplier C","Low Stock",2022-12-20
-422,1827," gadget x ",FURNITURE,"Warehouse 1","Aisle 3",150,NULL,"Supplier A","Out of Stock",2023-03-05
-423,1392," widget c ",ELECTRONICS,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier C","Low Stock",NULL
-424,1505," widget a ",FURNITURE,"Warehouse 1","Aisle 2",150,9.99,"Supplier C","Out of Stock",2023-03-05
-425,1907," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 4",150,49.99,"Supplier C","Out of Stock",2022-12-20
-426,1612," gadget z ",TOYS,"Warehouse 2","Aisle 5",300,29.99,"Supplier D","In Stock",2023-04-25
-427,1640," widget a ",TOYS,"Warehouse 3","Aisle 5",200,49.99,"Supplier D","Low Stock",2023-03-05
-428,1057," widget b ",TOYS,"Warehouse 1","Aisle 5",300,9.99,"Supplier A","Out of Stock",NULL
-429,1902," widget b ",CLOTHING,"Warehouse 1","Aisle 5",200,19.99,"Supplier A","Low Stock",2023-04-25
-430,1633," widget c ",ELECTRONICS,"Warehouse 3","Aisle 2",NULL,19.99,"Supplier C","Low Stock",NULL
-431,1624," gadget z ",CLOTHING,"Warehouse 2","Aisle 1",NULL,9.99,"Supplier C","In Stock",2023-03-05
-432,1824," gadget z ",TOYS,"Warehouse 2","Aisle 2",150,9.99,"Supplier C","Low Stock",2022-12-20
-433,1512," widget a ",TOYS,"Warehouse 3","Aisle 4",200,19.99,"Supplier C","Out of Stock",2023-03-05
-434,1951," gadget y ",CLOTHING,"Warehouse 3","Aisle 1",50,49.99,"Supplier C","Low Stock",2022-12-20
-435,1877," gadget x ",FURNITURE,"Warehouse 2","Aisle 4",200,NULL,"Supplier A","Out of Stock",2023-04-25
-436,1750," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 1",300,19.99,"Supplier B","Low Stock",2023-04-25
-437,1080," gadget z ",CLOTHING,"Warehouse 1","Aisle 1",NULL,NULL,"Supplier D","Out of Stock",2023-01-15
-438,1035," gadget z ",CLOTHING,"Warehouse 1","Aisle 5",100,49.99,"Supplier D","Low Stock",NULL
-439,1801," widget a ",CLOTHING,"Warehouse 1","Aisle 3",300,49.99,"Supplier D","In Stock",NULL
-440,1698," widget c ",FURNITURE,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier B","Low Stock",2022-12-20
-441,1684," widget c ",FURNITURE,"Warehouse 3","Aisle 5",300,NULL,"Supplier B","Low Stock",2022-12-20
-442,1095," widget b ",FURNITURE,"Warehouse 1","Aisle 2",200,29.99,"Supplier B","Out of Stock",2022-12-20
-443,1112," gadget x ",FURNITURE,"Warehouse 1","Aisle 5",50,NULL,"Supplier B","In Stock",2023-01-15
-444,1019," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 2",200,9.99,"Supplier D","Low Stock",NULL
-445,1637," gadget y ",FURNITURE,"Warehouse 1","Aisle 3",50,NULL,"Supplier A","Out of Stock",2023-01-15
-446,1320," widget a ",ELECTRONICS,"Warehouse 1","Aisle 2",NULL,29.99,"Supplier C","Out of Stock",2023-03-05
-447,1117," widget a ",TOYS,"Warehouse 3","Aisle 1",NULL,49.99,"Supplier B","Low Stock",2022-12-20
-448,1001," gadget y ",FURNITURE,"Warehouse 1","Aisle 5",200,49.99,"Supplier C","Low Stock",2022-12-20
-449,1559," widget a ",ELECTRONICS,"Warehouse 1","Aisle 1",300,19.99,"Supplier B","Out of Stock",2023-04-25
-450,1641," widget c ",FURNITURE,"Warehouse 2","Aisle 3",50,29.99,"Supplier D","Out of Stock",2023-01-15
-451,1600," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 5",300,49.99,"Supplier B","Out of Stock",2023-01-15
-452,1775," gadget y ",TOYS,"Warehouse 3","Aisle 5",300,NULL,"Supplier B","In Stock",2023-04-25
-453,1487," gadget z ",TOYS,"Warehouse 3","Aisle 1",150,9.99,"Supplier D","Out of Stock",2022-12-20
-454,1511," widget c ",CLOTHING,"Warehouse 2","Aisle 3",200,29.99,"Supplier A","Low Stock",2022-12-20
-455,1236," widget c ",ELECTRONICS,"Warehouse 2","Aisle 3",300,19.99,"Supplier A","In Stock",2022-12-20
-456,1399," widget b ",ELECTRONICS,"Warehouse 3","Aisle 5",50,9.99,"Supplier C","Low Stock",2023-03-05
-457,1219," widget c ",TOYS,"Warehouse 2","Aisle 5",50,19.99,"Supplier B","Low Stock",2023-01-15
-458,1337," widget b ",CLOTHING,"Warehouse 3","Aisle 5",200,9.99,"Supplier D","Low Stock",2023-04-25
-459,1884," gadget z ",CLOTHING,"Warehouse 2","Aisle 4",200,9.99,"Supplier B","In Stock",2023-03-05
-460,1565," widget a ",TOYS,"Warehouse 1","Aisle 3",300,19.99,"Supplier B","Out of Stock",NULL
-461,1896," gadget x ",FURNITURE,"Warehouse 2","Aisle 4",300,19.99,"Supplier D","Low Stock",2023-04-25
-462,1854," gadget z ",TOYS,"Warehouse 1","Aisle 1",50,29.99,"Supplier B","Out of Stock",2023-01-15
-463,1653," widget b ",CLOTHING,"Warehouse 1","Aisle 4",NULL,NULL,"Supplier B","In Stock",NULL
-464,1271," widget b ",TOYS,"Warehouse 2","Aisle 5",50,49.99,"Supplier A","In Stock",2023-03-05
-465,1996," widget b ",ELECTRONICS,"Warehouse 3","Aisle 1",200,9.99,"Supplier A","In Stock",2023-01-15
-466,1188," widget b ",TOYS,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier C","Low Stock",2023-01-15
-467,1705," widget c ",ELECTRONICS,"Warehouse 1","Aisle 4",50,49.99,"Supplier B","Out of Stock",2022-12-20
-468,1998," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier B","In Stock",2023-03-05
-469,1821," widget c ",TOYS,"Warehouse 3","Aisle 1",100,NULL,"Supplier B","Out of Stock",2023-04-25
-470,1735," widget b ",CLOTHING,"Warehouse 3","Aisle 1",300,9.99,"Supplier D","In Stock",NULL
-471,1703," gadget y ",TOYS,"Warehouse 3","Aisle 1",300,9.99,"Supplier A","Low Stock",2023-04-25
-472,1162," gadget y ",FURNITURE,"Warehouse 3","Aisle 4",300,9.99,"Supplier D","Low Stock",2022-12-20
-473,1446," widget b ",CLOTHING,"Warehouse 1","Aisle 3",100,49.99,"Supplier B","In Stock",NULL
-474,1719," gadget x ",CLOTHING,"Warehouse 3","Aisle 5",150,29.99,"Supplier C","Out of Stock",2023-01-15
-475,1971," widget c ",FURNITURE,"Warehouse 1","Aisle 5",50,29.99,"Supplier A","In Stock",2022-12-20
-476,1956," widget c ",TOYS,"Warehouse 3","Aisle 4",300,NULL,"Supplier D","Out of Stock",2022-12-20
-477,1882," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 3",300,49.99,"Supplier A","In Stock",2022-12-20
-478,1680," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 3",50,49.99,"Supplier C","Low Stock",2022-12-20
-479,1995," widget b ",CLOTHING,"Warehouse 2","Aisle 3",NULL,NULL,"Supplier B","Low Stock",NULL
-480,1470," widget b ",TOYS,"Warehouse 1","Aisle 4",NULL,49.99,"Supplier D","In Stock",2023-03-05
-481,1580," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 2",100,29.99,"Supplier C","In Stock",NULL
-482,1160," gadget z ",FURNITURE,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier B","In Stock",2023-04-25
-483,1142," gadget x ",FURNITURE,"Warehouse 2","Aisle 1",150,9.99,"Supplier C","In Stock",2022-12-20
-484,1789," widget c ",ELECTRONICS,"Warehouse 3","Aisle 1",200,49.99,"Supplier A","Low Stock",2023-01-15
-485,1579," gadget z ",TOYS,"Warehouse 1","Aisle 1",50,NULL,"Supplier B","Low Stock",2022-12-20
-486,1091," widget a ",TOYS,"Warehouse 2","Aisle 1",200,NULL,"Supplier A","In Stock",2023-04-25
-487,1860," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 2",100,9.99,"Supplier D","Out of Stock",NULL
-488,1353," gadget x ",FURNITURE,"Warehouse 3","Aisle 3",300,19.99,"Supplier B","Out of Stock",2023-04-25
-489,1246," widget b ",ELECTRONICS,"Warehouse 3","Aisle 5",200,NULL,"Supplier A","Out of Stock",2023-03-05
-490,1962," gadget y ",CLOTHING,"Warehouse 2","Aisle 4",150,49.99,"Supplier D","In Stock",2023-01-15
-491,1833," widget b ",ELECTRONICS,"Warehouse 1","Aisle 5",100,NULL,"Supplier A","In Stock",2023-03-05
-492,1075," widget b ",ELECTRONICS,"Warehouse 1","Aisle 5",200,19.99,"Supplier A","Low Stock",2023-04-25
-493,1153," gadget x ",TOYS,"Warehouse 1","Aisle 4",100,29.99,"Supplier D","Out of Stock",2023-01-15
-494,1224," gadget y ",FURNITURE,"Warehouse 2","Aisle 2",100,NULL,"Supplier B","In Stock",2023-04-25
-495,1655," widget a ",CLOTHING,"Warehouse 3","Aisle 5",300,49.99,"Supplier C","Low Stock",2023-01-15
-496,1384," widget b ",FURNITURE,"Warehouse 3","Aisle 2",100,29.99,"Supplier A","Out of Stock",2023-04-25
-497,1434," gadget z ",FURNITURE,"Warehouse 1","Aisle 3",150,29.99,"Supplier C","Out of Stock",2022-12-20
-498,1996," widget b ",FURNITURE,"Warehouse 3","Aisle 2",100,19.99,"Supplier C","Low Stock",2022-12-20
-499,1085," widget a ",TOYS,"Warehouse 1","Aisle 4",200,NULL,"Supplier A","In Stock",2023-01-15
-500,1402," gadget x ",TOYS,"Warehouse 3","Aisle 4",NULL,9.99,"Supplier D","Low Stock",NULL
-501,1696," gadget y ",TOYS,"Warehouse 2","Aisle 1",50,NULL,"Supplier C","Low Stock",NULL
-502,1637," widget b ",FURNITURE,"Warehouse 3","Aisle 4",NULL,29.99,"Supplier B","Out of Stock",2023-03-05
-503,1284," widget a ",CLOTHING,"Warehouse 2","Aisle 2",NULL,19.99,"Supplier B","Out of Stock",2022-12-20
-504,1129," gadget y ",FURNITURE,"Warehouse 3","Aisle 4",200,49.99,"Supplier C","In Stock",2023-01-15
-505,1973," gadget z ",FURNITURE,"Warehouse 2","Aisle 1",100,29.99,"Supplier C","In Stock",2023-04-25
-506,1219," widget b ",FURNITURE,"Warehouse 2","Aisle 2",200,49.99,"Supplier D","Low Stock",2023-03-05
-507,1068," gadget x ",FURNITURE,"Warehouse 3","Aisle 2",150,19.99,"Supplier D","Out of Stock",2022-12-20
-508,1046," gadget y ",FURNITURE,"Warehouse 1","Aisle 5",100,9.99,"Supplier D","In Stock",2023-01-15
-509,1800," widget b ",FURNITURE,"Warehouse 1","Aisle 1",150,49.99,"Supplier A","In Stock",2023-01-15
-510,1093," widget b ",FURNITURE,"Warehouse 3","Aisle 4",100,29.99,"Supplier A","Low Stock",NULL
-511,1749," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 4",NULL,NULL,"Supplier B","Out of Stock",2023-03-05
-512,1957," gadget y ",TOYS,"Warehouse 3","Aisle 2",200,19.99,"Supplier C","Low Stock",2022-12-20
-513,1397," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 2",50,9.99,"Supplier A","Out of Stock",2023-03-05
-514,1799," gadget y ",TOYS,"Warehouse 3","Aisle 2",NULL,49.99,"Supplier A","In Stock",NULL
-515,1052," widget b ",CLOTHING,"Warehouse 1","Aisle 2",150,19.99,"Supplier A","In Stock",2023-01-15
-516,1276," widget c ",TOYS,"Warehouse 3","Aisle 5",150,49.99,"Supplier A","Low Stock",2022-12-20
-517,1683," gadget x ",TOYS,"Warehouse 2","Aisle 2",100,19.99,"Supplier A","Low Stock",NULL
-518,1729," widget a ",CLOTHING,"Warehouse 3","Aisle 4",NULL,19.99,"Supplier B","In Stock",NULL
-519,1452," widget c ",ELECTRONICS,"Warehouse 1","Aisle 3",50,NULL,"Supplier B","Low Stock",NULL
-520,1671," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 4",100,29.99,"Supplier B","In Stock",2023-03-05
-521,1726," widget a ",TOYS,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier D","Out of Stock",2023-03-05
-522,1203," widget a ",FURNITURE,"Warehouse 3","Aisle 3",150,29.99,"Supplier B","In Stock",NULL
-523,1815," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 4",200,9.99,"Supplier D","Low Stock",2023-04-25
-524,1958," widget a ",FURNITURE,"Warehouse 1","Aisle 4",300,19.99,"Supplier D","In Stock",2023-04-25
-525,1911," gadget z ",CLOTHING,"Warehouse 1","Aisle 1",200,NULL,"Supplier D","In Stock",NULL
-526,1915," widget b ",ELECTRONICS,"Warehouse 3","Aisle 5",50,19.99,"Supplier B","Low Stock",NULL
-527,1853," widget c ",TOYS,"Warehouse 1","Aisle 4",300,9.99,"Supplier B","Low Stock",2023-01-15
-528,1709," widget a ",ELECTRONICS,"Warehouse 1","Aisle 5",200,29.99,"Supplier A","In Stock",2023-04-25
-529,1217," widget c ",CLOTHING,"Warehouse 3","Aisle 1",150,19.99,"Supplier D","Out of Stock",2023-01-15
-530,1503," gadget y ",CLOTHING,"Warehouse 2","Aisle 2",150,49.99,"Supplier B","Out of Stock",2023-01-15
-531,1050," widget c ",FURNITURE,"Warehouse 2","Aisle 1",50,19.99,"Supplier D","Low Stock",2023-01-15
-532,1415," widget a ",ELECTRONICS,"Warehouse 1","Aisle 4",200,NULL,"Supplier C","Low Stock",2022-12-20
-533,1895," gadget z ",FURNITURE,"Warehouse 3","Aisle 5",50,49.99,"Supplier D","In Stock",NULL
-534,1664," gadget y ",FURNITURE,"Warehouse 2","Aisle 4",150,9.99,"Supplier A","In Stock",2022-12-20
-535,1246," widget a ",TOYS,"Warehouse 3","Aisle 5",150,19.99,"Supplier C","Out of Stock",2023-04-25
-536,1835," widget c ",FURNITURE,"Warehouse 3","Aisle 3",150,NULL,"Supplier D","In Stock",2023-01-15
-537,1697," gadget z ",FURNITURE,"Warehouse 2","Aisle 3",50,19.99,"Supplier A","Out of Stock",2022-12-20
-538,1391," widget b ",TOYS,"Warehouse 2","Aisle 5",50,29.99,"Supplier A","Out of Stock",2023-03-05
-539,1438," gadget z ",TOYS,"Warehouse 2","Aisle 2",300,19.99,"Supplier B","Low Stock",NULL
-540,1134," widget a ",ELECTRONICS,"Warehouse 3","Aisle 2",150,NULL,"Supplier D","Out of Stock",2022-12-20
-541,1202," widget c ",TOYS,"Warehouse 3","Aisle 4",200,NULL,"Supplier C","In Stock",2023-03-05
-542,1194," widget a ",ELECTRONICS,"Warehouse 3","Aisle 1",150,9.99,"Supplier A","Low Stock",2022-12-20
-543,1574," widget a ",FURNITURE,"Warehouse 2","Aisle 4",50,9.99,"Supplier D","Low Stock",2023-01-15
-544,1183," gadget z ",FURNITURE,"Warehouse 3","Aisle 2",NULL,NULL,"Supplier D","Low Stock",2023-04-25
-545,1189," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 3",150,9.99,"Supplier A","Out of Stock",2023-04-25
-546,1124," widget c ",FURNITURE,"Warehouse 1","Aisle 2",100,19.99,"Supplier A","Low Stock",2022-12-20
-547,1400," gadget x ",TOYS,"Warehouse 1","Aisle 4",100,9.99,"Supplier B","In Stock",2023-04-25
-548,1149," widget c ",CLOTHING,"Warehouse 2","Aisle 1",50,19.99,"Supplier B","In Stock",2023-03-05
-549,1122," widget a ",CLOTHING,"Warehouse 1","Aisle 2",100,49.99,"Supplier C","In Stock",2023-03-05
-550,1639," widget c ",ELECTRONICS,"Warehouse 2","Aisle 2",50,29.99,"Supplier C","Out of Stock",2022-12-20
-551,1313," widget a ",TOYS,"Warehouse 1","Aisle 4",50,9.99,"Supplier D","Out of Stock",2023-03-05
-552,1032," gadget x ",CLOTHING,"Warehouse 1","Aisle 3",NULL,29.99,"Supplier A","Low Stock",2023-01-15
-553,1569," gadget x ",CLOTHING,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier A","Out of Stock",2023-04-25
-554,1400," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 2",50,NULL,"Supplier B","Low Stock",2023-04-25
-555,1766," gadget z ",CLOTHING,"Warehouse 3","Aisle 3",150,29.99,"Supplier D","In Stock",2023-01-15
-556,1293," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 1",50,NULL,"Supplier D","Out of Stock",2022-12-20
-557,1473," widget b ",FURNITURE,"Warehouse 1","Aisle 5",100,29.99,"Supplier D","In Stock",2023-04-25
-558,1341," widget b ",ELECTRONICS,"Warehouse 2","Aisle 5",150,19.99,"Supplier D","Out of Stock",2022-12-20
-559,1431," gadget x ",FURNITURE,"Warehouse 1","Aisle 2",NULL,9.99,"Supplier A","Out of Stock",NULL
-560,1304," widget c ",CLOTHING,"Warehouse 2","Aisle 1",200,NULL,"Supplier B","Low Stock",2023-03-05
-561,1340," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",NULL,19.99,"Supplier B","Low Stock",2023-03-05
-562,1691," gadget z ",TOYS,"Warehouse 1","Aisle 2",100,29.99,"Supplier D","Low Stock",2022-12-20
-563,1279," gadget x ",TOYS,"Warehouse 1","Aisle 4",NULL,19.99,"Supplier D","In Stock",2023-03-05
-564,1550," widget a ",ELECTRONICS,"Warehouse 1","Aisle 1",300,49.99,"Supplier B","Low Stock",2022-12-20
-565,1681," gadget z ",CLOTHING,"Warehouse 2","Aisle 3",100,9.99,"Supplier A","Low Stock",2022-12-20
-566,1836," widget b ",ELECTRONICS,"Warehouse 1","Aisle 1",150,NULL,"Supplier C","Low Stock",2023-03-05
-567,1687," gadget x ",CLOTHING,"Warehouse 1","Aisle 1",50,NULL,"Supplier B","Out of Stock",2023-03-05
-568,1611," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 2",50,19.99,"Supplier A","Out of Stock",2023-03-05
-569,1837," widget c ",ELECTRONICS,"Warehouse 2","Aisle 2",150,9.99,"Supplier D","In Stock",2023-03-05
-570,1883," gadget z ",TOYS,"Warehouse 3","Aisle 1",50,9.99,"Supplier B","In Stock",2022-12-20
-571,1459," gadget x ",CLOTHING,"Warehouse 1","Aisle 3",50,NULL,"Supplier B","Out of Stock",NULL
-572,1288," widget b ",FURNITURE,"Warehouse 2","Aisle 5",NULL,29.99,"Supplier A","Low Stock",2023-01-15
-573,1782," gadget x ",FURNITURE,"Warehouse 2","Aisle 2",300,29.99,"Supplier A","Low Stock",2023-01-15
-574,1954," gadget x ",CLOTHING,"Warehouse 2","Aisle 1",150,49.99,"Supplier C","Low Stock",2023-03-05
-575,1253," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 1",100,19.99,"Supplier A","In Stock",2023-01-15
-576,1882," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 4",50,19.99,"Supplier B","Low Stock",2022-12-20
-577,1733," widget a ",CLOTHING,"Warehouse 3","Aisle 5",50,9.99,"Supplier B","Low Stock",2023-03-05
-578,1053," gadget x ",CLOTHING,"Warehouse 3","Aisle 4",300,49.99,"Supplier A","In Stock",2023-03-05
-579,1356," widget b ",ELECTRONICS,"Warehouse 3","Aisle 4",200,9.99,"Supplier B","In Stock",2023-04-25
-580,1609," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",NULL,19.99,"Supplier D","Out of Stock",2023-03-05
-581,1022," gadget y ",FURNITURE,"Warehouse 3","Aisle 5",NULL,49.99,"Supplier D","Out of Stock",2023-01-15
-582,1197," widget c ",TOYS,"Warehouse 2","Aisle 2",100,9.99,"Supplier A","In Stock",2023-03-05
-583,1469," gadget y ",TOYS,"Warehouse 3","Aisle 4",300,NULL,"Supplier B","In Stock",NULL
-584,1761," gadget x ",CLOTHING,"Warehouse 3","Aisle 3",50,NULL,"Supplier D","Out of Stock",2023-01-15
-585,1981," widget a ",CLOTHING,"Warehouse 1","Aisle 5",NULL,19.99,"Supplier B","Low Stock",2023-04-25
-586,1443," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 4",NULL,29.99,"Supplier A","Out of Stock",2023-04-25
-587,1374," widget b ",TOYS,"Warehouse 1","Aisle 5",50,29.99,"Supplier A","Out of Stock",2023-04-25
-588,1906," widget b ",FURNITURE,"Warehouse 1","Aisle 2",300,29.99,"Supplier A","Low Stock",2023-04-25
-589,1612," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 3",NULL,19.99,"Supplier B","Out of Stock",NULL
-590,1510," gadget x ",FURNITURE,"Warehouse 3","Aisle 2",150,29.99,"Supplier A","Out of Stock",2022-12-20
-591,1992," gadget y ",TOYS,"Warehouse 2","Aisle 5",150,29.99,"Supplier D","In Stock",2023-03-05
-592,1751," widget c ",FURNITURE,"Warehouse 1","Aisle 1",200,29.99,"Supplier D","Low Stock",2023-01-15
-593,1021," widget a ",TOYS,"Warehouse 3","Aisle 3",300,NULL,"Supplier A","Low Stock",2023-03-05
-594,1749," gadget x ",TOYS,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier C","Low Stock",NULL
-595,1669," widget b ",FURNITURE,"Warehouse 2","Aisle 4",150,19.99,"Supplier C","In Stock",NULL
-596,1143," widget c ",TOYS,"Warehouse 3","Aisle 2",100,9.99,"Supplier D","In Stock",2023-03-05
-597,1037," widget a ",TOYS,"Warehouse 2","Aisle 2",50,49.99,"Supplier B","In Stock",NULL
-598,1229," gadget z ",FURNITURE,"Warehouse 2","Aisle 4",300,9.99,"Supplier A","Low Stock",2023-01-15
-599,1608," widget a ",FURNITURE,"Warehouse 2","Aisle 1",50,49.99,"Supplier C","In Stock",2023-01-15
-600,1200," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 5",150,19.99,"Supplier C","In Stock",2022-12-20
-601,1364," widget c ",FURNITURE,"Warehouse 1","Aisle 2",300,9.99,"Supplier C","In Stock",2023-03-05
-602,1123," gadget x ",CLOTHING,"Warehouse 3","Aisle 4",200,29.99,"Supplier C","Low Stock",2022-12-20
-603,1186," gadget y ",CLOTHING,"Warehouse 1","Aisle 1",NULL,19.99,"Supplier B","In Stock",2023-04-25
-604,1325," widget c ",ELECTRONICS,"Warehouse 2","Aisle 5",200,9.99,"Supplier C","In Stock",2023-03-05
-605,1562," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",300,19.99,"Supplier C","Low Stock",NULL
-606,1521," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 3",100,29.99,"Supplier B","Low Stock",2023-03-05
-607,1437," gadget z ",FURNITURE,"Warehouse 1","Aisle 4",200,49.99,"Supplier D","Out of Stock",2023-03-05
-608,1757," widget b ",TOYS,"Warehouse 1","Aisle 5",300,29.99,"Supplier D","Low Stock",2023-01-15
-609,1463," widget a ",TOYS,"Warehouse 1","Aisle 4",150,49.99,"Supplier A","In Stock",NULL
-610,1775," widget a ",ELECTRONICS,"Warehouse 3","Aisle 4",100,29.99,"Supplier C","In Stock",NULL
-611,1348," gadget y ",TOYS,"Warehouse 2","Aisle 3",150,9.99,"Supplier C","Out of Stock",2022-12-20
-612,1263," gadget z ",TOYS,"Warehouse 3","Aisle 3",NULL,9.99,"Supplier B","Low Stock",2022-12-20
-613,1282," gadget z ",FURNITURE,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier B","Out of Stock",2023-04-25
-614,1052," widget b ",CLOTHING,"Warehouse 2","Aisle 5",100,29.99,"Supplier D","In Stock",2022-12-20
-615,1026," widget c ",CLOTHING,"Warehouse 3","Aisle 4",50,NULL,"Supplier A","Out of Stock",2023-04-25
-616,1225," widget a ",FURNITURE,"Warehouse 1","Aisle 2",200,9.99,"Supplier C","Out of Stock",2023-04-25
-617,1770," gadget z ",CLOTHING,"Warehouse 3","Aisle 1",300,19.99,"Supplier D","Low Stock",2023-03-05
-618,1659," gadget x ",FURNITURE,"Warehouse 3","Aisle 1",300,49.99,"Supplier C","Low Stock",2023-01-15
-619,1763," gadget z ",TOYS,"Warehouse 3","Aisle 3",200,49.99,"Supplier B","Low Stock",2023-04-25
-620,1954," widget c ",TOYS,"Warehouse 2","Aisle 3",NULL,9.99,"Supplier B","Out of Stock",2023-01-15
-621,1276," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 4",50,NULL,"Supplier D","Low Stock",2022-12-20
-622,1797," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 3",50,29.99,"Supplier A","Out of Stock",NULL
-623,1608," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 5",150,NULL,"Supplier C","Out of Stock",2022-12-20
-624,1931," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 1",200,29.99,"Supplier A","Low Stock",2022-12-20
-625,1283," widget b ",CLOTHING,"Warehouse 2","Aisle 2",150,49.99,"Supplier D","Out of Stock",2023-03-05
-626,1402," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","Out of Stock",2022-12-20
-627,1878," gadget z ",CLOTHING,"Warehouse 2","Aisle 3",150,NULL,"Supplier C","Low Stock",2022-12-20
-628,1345," gadget y ",FURNITURE,"Warehouse 1","Aisle 2",150,NULL,"Supplier C","Out of Stock",2023-01-15
-629,1959," gadget x ",TOYS,"Warehouse 3","Aisle 1",200,29.99,"Supplier A","Out of Stock",2023-03-05
-630,1836," gadget z ",CLOTHING,"Warehouse 3","Aisle 3",150,NULL,"Supplier A","In Stock",2023-04-25
-631,1480," gadget z ",CLOTHING,"Warehouse 1","Aisle 2",50,29.99,"Supplier A","Out of Stock",2023-03-05
-632,1099," widget b ",CLOTHING,"Warehouse 1","Aisle 4",150,9.99,"Supplier C","In Stock",2023-04-25
-633,1801," gadget x ",TOYS,"Warehouse 1","Aisle 2",100,9.99,"Supplier D","Low Stock",2023-04-25
-634,1179," gadget z ",TOYS,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","Low Stock",2022-12-20
-635,1452," widget a ",ELECTRONICS,"Warehouse 1","Aisle 5",100,29.99,"Supplier A","In Stock",2023-03-05
-636,1222," widget c ",CLOTHING,"Warehouse 2","Aisle 3",150,49.99,"Supplier D","Out of Stock",2023-04-25
-637,1828," widget a ",ELECTRONICS,"Warehouse 1","Aisle 5",NULL,49.99,"Supplier B","Low Stock",2022-12-20
-638,1905," widget a ",TOYS,"Warehouse 2","Aisle 5",300,49.99,"Supplier D","Out of Stock",2023-04-25
-639,1815," gadget z ",CLOTHING,"Warehouse 1","Aisle 1",150,29.99,"Supplier C","Out of Stock",NULL
-640,1761," widget c ",FURNITURE,"Warehouse 2","Aisle 4",50,49.99,"Supplier D","Out of Stock",2022-12-20
-641,1658," widget c ",FURNITURE,"Warehouse 1","Aisle 1",150,9.99,"Supplier B","In Stock",2022-12-20
-642,1658," gadget y ",FURNITURE,"Warehouse 1","Aisle 2",150,19.99,"Supplier C","Low Stock",NULL
-643,1571," widget b ",FURNITURE,"Warehouse 3","Aisle 2",100,NULL,"Supplier B","Out of Stock",2023-03-05
-644,1515," gadget y ",CLOTHING,"Warehouse 2","Aisle 2",50,29.99,"Supplier A","Low Stock",NULL
-645,1441," gadget x ",FURNITURE,"Warehouse 3","Aisle 5",100,49.99,"Supplier A","Low Stock",2023-01-15
-646,1619," widget a ",ELECTRONICS,"Warehouse 2","Aisle 1",200,19.99,"Supplier C","Out of Stock",NULL
-647,1825," widget c ",TOYS,"Warehouse 3","Aisle 2",100,29.99,"Supplier D","In Stock",2023-03-05
-648,1500," widget a ",TOYS,"Warehouse 2","Aisle 5",100,19.99,"Supplier D","Low Stock",2022-12-20
-649,1546," widget a ",CLOTHING,"Warehouse 1","Aisle 4",50,NULL,"Supplier D","Low Stock",NULL
-650,1625," gadget y ",CLOTHING,"Warehouse 3","Aisle 1",150,NULL,"Supplier B","Low Stock",2023-03-05
-651,1004," gadget y ",CLOTHING,"Warehouse 3","Aisle 3",300,29.99,"Supplier A","In Stock",2023-03-05
-652,1191," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 1",200,NULL,"Supplier C","Low Stock",2023-03-05
-653,1492," widget a ",ELECTRONICS,"Warehouse 3","Aisle 3",100,29.99,"Supplier D","In Stock",2023-04-25
-654,1102," widget c ",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier A","Low Stock",NULL
-655,1074," widget b ",FURNITURE,"Warehouse 1","Aisle 3",200,9.99,"Supplier D","Out of Stock",2023-01-15
-656,1195," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 5",50,19.99,"Supplier B","Low Stock",NULL
-657,1412," widget a ",ELECTRONICS,"Warehouse 3","Aisle 1",200,29.99,"Supplier B","Out of Stock",NULL
-658,1773," widget c ",FURNITURE,"Warehouse 1","Aisle 2",300,9.99,"Supplier C","In Stock",2023-04-25
-659,1048," widget a ",TOYS,"Warehouse 2","Aisle 4",200,NULL,"Supplier B","Low Stock",2022-12-20
-660,1375," widget a ",FURNITURE,"Warehouse 1","Aisle 3",50,NULL,"Supplier D","Low Stock",2023-01-15
-661,1511," widget b ",ELECTRONICS,"Warehouse 2","Aisle 3",150,49.99,"Supplier C","Low Stock",NULL
-662,1419," gadget x ",CLOTHING,"Warehouse 1","Aisle 4",150,NULL,"Supplier C","Out of Stock",2023-04-25
-663,1876," gadget x ",FURNITURE,"Warehouse 3","Aisle 2",50,49.99,"Supplier A","In Stock",2022-12-20
-664,1016," gadget x ",TOYS,"Warehouse 3","Aisle 5",50,NULL,"Supplier D","Low Stock",2023-04-25
-665,1991," gadget y ",CLOTHING,"Warehouse 1","Aisle 5",200,NULL,"Supplier D","Low Stock",2022-12-20
-666,1171," widget a ",ELECTRONICS,"Warehouse 3","Aisle 4",100,49.99,"Supplier B","Out of Stock",NULL
-667,1883," gadget x ",FURNITURE,"Warehouse 2","Aisle 2",200,49.99,"Supplier B","Out of Stock",NULL
-668,1219," gadget y ",CLOTHING,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier A","Out of Stock",2023-04-25
-669,1157," widget b ",ELECTRONICS,"Warehouse 3","Aisle 4",50,29.99,"Supplier B","Out of Stock",2022-12-20
-670,1349," widget b ",FURNITURE,"Warehouse 3","Aisle 4",NULL,NULL,"Supplier A","In Stock",2022-12-20
-671,1476," widget a ",ELECTRONICS,"Warehouse 1","Aisle 3",50,9.99,"Supplier C","Out of Stock",2022-12-20
-672,1046," widget b ",CLOTHING,"Warehouse 2","Aisle 1",200,29.99,"Supplier A","Low Stock",2023-01-15
-673,1866," widget a ",FURNITURE,"Warehouse 2","Aisle 3",200,19.99,"Supplier B","Low Stock",NULL
-674,1822," gadget y ",TOYS,"Warehouse 3","Aisle 1",50,29.99,"Supplier B","Out of Stock",2022-12-20
-675,1935," gadget x ",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,NULL,"Supplier D","Out of Stock",2023-01-15
-676,1819," widget c ",ELECTRONICS,"Warehouse 3","Aisle 4",200,NULL,"Supplier D","Out of Stock",2023-04-25
-677,1655," widget b ",ELECTRONICS,"Warehouse 2","Aisle 2",300,NULL,"Supplier A","Out of Stock",2022-12-20
-678,1268," widget b ",ELECTRONICS,"Warehouse 2","Aisle 5",200,9.99,"Supplier A","Out of Stock",2023-01-15
-679,1369," widget c ",CLOTHING,"Warehouse 3","Aisle 4",NULL,19.99,"Supplier B","In Stock",2023-03-05
-680,1728," gadget z ",CLOTHING,"Warehouse 1","Aisle 5",300,9.99,"Supplier B","Out of Stock",2023-04-25
-681,1607," widget c ",CLOTHING,"Warehouse 1","Aisle 5",NULL,NULL,"Supplier B","Low Stock",2023-04-25
-682,1276," widget c ",CLOTHING,"Warehouse 2","Aisle 5",50,29.99,"Supplier D","Out of Stock",2023-04-25
-683,1635," gadget x ",ELECTRONICS,"Warehouse 1","Aisle 1",150,29.99,"Supplier A","Low Stock",2023-03-05
-684,1414," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 4",200,29.99,"Supplier B","Low Stock",2023-03-05
-685,1760," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",200,29.99,"Supplier A","Out of Stock",2023-04-25
-686,1768," widget b ",TOYS,"Warehouse 1","Aisle 4",200,19.99,"Supplier C","Out of Stock",2023-01-15
-687,1105," gadget x ",ELECTRONICS,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier A","In Stock",2023-01-15
-688,1675," widget a ",FURNITURE,"Warehouse 1","Aisle 3",50,9.99,"Supplier B","Low Stock",2022-12-20
-689,1786," gadget y ",CLOTHING,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier D","Low Stock",NULL
-690,1324," gadget y ",TOYS,"Warehouse 1","Aisle 2",300,NULL,"Supplier B","Low Stock",2023-03-05
-691,1669," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 2",50,49.99,"Supplier B","In Stock",NULL
-692,1393," gadget y ",TOYS,"Warehouse 3","Aisle 2",150,29.99,"Supplier B","Out of Stock",NULL
-693,1444," gadget z ",TOYS,"Warehouse 1","Aisle 2",300,49.99,"Supplier B","In Stock",2023-01-15
-694,1515," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 4",300,19.99,"Supplier B","In Stock",2023-01-15
-695,1658," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 4",150,NULL,"Supplier A","In Stock",NULL
-696,1868," gadget z ",FURNITURE,"Warehouse 1","Aisle 2",150,9.99,"Supplier A","Out of Stock",2023-04-25
-697,1875," gadget y ",CLOTHING,"Warehouse 3","Aisle 2",NULL,9.99,"Supplier B","Low Stock",2023-01-15
-698,1015," widget c ",ELECTRONICS,"Warehouse 2","Aisle 2",NULL,49.99,"Supplier B","Low Stock",2022-12-20
-699,1456," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 3",100,19.99,"Supplier D","In Stock",2023-04-25
-700,1181," widget c ",ELECTRONICS,"Warehouse 2","Aisle 1",50,29.99,"Supplier A","In Stock",2023-03-05
-701,1791," widget c ",TOYS,"Warehouse 2","Aisle 4",NULL,NULL,"Supplier C","Low Stock",2023-01-15
-702,1166," gadget y ",CLOTHING,"Warehouse 2","Aisle 1",100,NULL,"Supplier B","Out of Stock",2023-04-25
-703,1090," gadget z ",FURNITURE,"Warehouse 2","Aisle 2",NULL,19.99,"Supplier A","Low Stock",2022-12-20
-704,1713," widget b ",CLOTHING,"Warehouse 3","Aisle 5",300,9.99,"Supplier D","Out of Stock",2023-01-15
-705,1335," gadget x ",TOYS,"Warehouse 3","Aisle 5",100,NULL,"Supplier A","Low Stock",2023-01-15
-706,1758," widget a ",TOYS,"Warehouse 1","Aisle 5",150,NULL,"Supplier B","Low Stock",2023-01-15
-707,1919," widget a ",CLOTHING,"Warehouse 1","Aisle 2",NULL,NULL,"Supplier D","Low Stock",2023-03-05
-708,1257," widget c ",CLOTHING,"Warehouse 3","Aisle 1",50,19.99,"Supplier A","Low Stock",NULL
-709,1191," widget b ",CLOTHING,"Warehouse 3","Aisle 1",100,19.99,"Supplier B","In Stock",NULL
-710,1496," widget c ",TOYS,"Warehouse 2","Aisle 3",300,29.99,"Supplier A","In Stock",NULL
-711,1738," widget a ",ELECTRONICS,"Warehouse 2","Aisle 1",150,49.99,"Supplier B","In Stock",2023-01-15
-712,1987," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 4",300,49.99,"Supplier D","In Stock",2023-03-05
-713,1688," gadget x ",FURNITURE,"Warehouse 3","Aisle 3",200,49.99,"Supplier D","Low Stock",NULL
-714,1857," widget c ",FURNITURE,"Warehouse 3","Aisle 2",150,19.99,"Supplier B","Out of Stock",2023-01-15
-715,1895," widget b ",CLOTHING,"Warehouse 1","Aisle 1",NULL,NULL,"Supplier C","Low Stock",2022-12-20
-716,1098," widget c ",TOYS,"Warehouse 1","Aisle 2",300,49.99,"Supplier D","Out of Stock",NULL
-717,1530," widget b ",TOYS,"Warehouse 1","Aisle 1",100,49.99,"Supplier B","Low Stock",2023-03-05
-718,1547," widget b ",TOYS,"Warehouse 2","Aisle 1",200,9.99,"Supplier C","In Stock",NULL
-719,1038," widget a ",FURNITURE,"Warehouse 1","Aisle 2",200,NULL,"Supplier C","In Stock",2023-04-25
-720,1977," widget a ",ELECTRONICS,"Warehouse 3","Aisle 1",100,29.99,"Supplier B","Low Stock",2023-04-25
-721,1159," gadget z ",TOYS,"Warehouse 1","Aisle 3",150,29.99,"Supplier C","Out of Stock",2023-01-15
-722,1125," widget b ",CLOTHING,"Warehouse 3","Aisle 2",50,NULL,"Supplier D","Out of Stock",2023-04-25
-723,1998," gadget y ",TOYS,"Warehouse 3","Aisle 4",300,19.99,"Supplier B","Out of Stock",2023-04-25
-724,1474," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 4",300,49.99,"Supplier D","Low Stock",2023-01-15
-725,1450," widget a ",ELECTRONICS,"Warehouse 2","Aisle 5",200,9.99,"Supplier D","Out of Stock",2023-03-05
-726,1095," widget b ",FURNITURE,"Warehouse 3","Aisle 4",150,19.99,"Supplier A","Low Stock",2022-12-20
-727,1172," widget a ",FURNITURE,"Warehouse 2","Aisle 4",300,NULL,"Supplier C","Low Stock",2023-01-15
-728,1663," widget b ",FURNITURE,"Warehouse 3","Aisle 1",200,19.99,"Supplier C","In Stock",2023-01-15
-729,1652," widget b ",TOYS,"Warehouse 2","Aisle 1",300,9.99,"Supplier C","Low Stock",2022-12-20
-730,1851," gadget y ",CLOTHING,"Warehouse 2","Aisle 2",50,49.99,"Supplier D","Low Stock",2023-01-15
-731,1662," widget a ",ELECTRONICS,"Warehouse 3","Aisle 3",150,19.99,"Supplier D","Out of Stock",2023-03-05
-732,1753," widget c ",FURNITURE,"Warehouse 1","Aisle 5",200,9.99,"Supplier A","Low Stock",2023-01-15
-733,1189," widget b ",FURNITURE,"Warehouse 2","Aisle 5",300,49.99,"Supplier C","Out of Stock",NULL
-734,1735," gadget y ",CLOTHING,"Warehouse 2","Aisle 5",300,19.99,"Supplier D","Low Stock",2023-01-15
-735,1219," gadget z ",FURNITURE,"Warehouse 2","Aisle 2",100,19.99,"Supplier A","Low Stock",2023-04-25
-736,1656," gadget z ",TOYS,"Warehouse 1","Aisle 5",300,NULL,"Supplier A","In Stock",2022-12-20
-737,1036," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 1",200,29.99,"Supplier D","Out of Stock",2023-01-15
-738,1779," widget b ",FURNITURE,"Warehouse 2","Aisle 1",150,49.99,"Supplier C","In Stock",2022-12-20
-739,1368," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 1",50,19.99,"Supplier B","In Stock",2023-03-05
-740,1119," gadget z ",ELECTRONICS,"Warehouse 3","Aisle 4",100,NULL,"Supplier C","In Stock",2023-03-05
-741,1694," gadget y ",TOYS,"Warehouse 2","Aisle 3",150,9.99,"Supplier D","In Stock",NULL
-742,1663," widget a ",TOYS,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier A","Low Stock",2023-01-15
-743,1524," widget a ",FURNITURE,"Warehouse 3","Aisle 4",300,NULL,"Supplier C","Low Stock",2023-03-05
-744,1830," widget a ",TOYS,"Warehouse 2","Aisle 4",NULL,29.99,"Supplier D","Out of Stock",NULL
-745,1907," widget b ",TOYS,"Warehouse 2","Aisle 5",50,NULL,"Supplier B","Out of Stock",NULL
-746,1278," widget c ",CLOTHING,"Warehouse 3","Aisle 1",150,NULL,"Supplier A","Out of Stock",2022-12-20
-747,1786," widget b ",CLOTHING,"Warehouse 1","Aisle 2",50,49.99,"Supplier B","Out of Stock",NULL
-748,1689," gadget x ",TOYS,"Warehouse 2","Aisle 1",150,19.99,"Supplier C","Out of Stock",2023-03-05
-749,1603," gadget y ",FURNITURE,"Warehouse 2","Aisle 3",300,9.99,"Supplier C","Low Stock",2023-03-05
-750,1674," gadget x ",CLOTHING,"Warehouse 1","Aisle 3",300,29.99,"Supplier B","Out of Stock",2023-04-25
-751,1379," widget c ",ELECTRONICS,"Warehouse 2","Aisle 3",200,29.99,"Supplier B","In Stock",2022-12-20
-752,1544," widget c ",ELECTRONICS,"Warehouse 2","Aisle 5",300,NULL,"Supplier D","Out of Stock",2023-01-15
-753,1637," gadget y ",FURNITURE,"Warehouse 1","Aisle 2",200,NULL,"Supplier B","Low Stock",2023-01-15
-754,1216," widget b ",FURNITURE,"Warehouse 2","Aisle 1",100,NULL,"Supplier C","Out of Stock",2023-04-25
-755,1057," gadget y ",TOYS,"Warehouse 1","Aisle 4",NULL,9.99,"Supplier B","Low Stock",2022-12-20
-756,1866," widget c ",ELECTRONICS,"Warehouse 3","Aisle 2",50,49.99,"Supplier A","Out of Stock",2023-01-15
-757,1928," gadget x ",FURNITURE,"Warehouse 1","Aisle 4",150,49.99,"Supplier B","In Stock",2023-03-05
-758,1659," gadget z ",CLOTHING,"Warehouse 2","Aisle 1",200,19.99,"Supplier B","In Stock",NULL
-759,1872," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier D","In Stock",NULL
-760,1956," widget c ",TOYS,"Warehouse 1","Aisle 2",300,NULL,"Supplier A","In Stock",2023-04-25
-761,1475," widget a ",FURNITURE,"Warehouse 2","Aisle 1",50,29.99,"Supplier B","Out of Stock",2023-01-15
-762,1797," widget b ",FURNITURE,"Warehouse 3","Aisle 1",100,49.99,"Supplier C","Out of Stock",2023-04-25
-763,1690," widget a ",FURNITURE,"Warehouse 3","Aisle 5",300,49.99,"Supplier D","Out of Stock",2023-03-05
-764,1455," widget a ",FURNITURE,"Warehouse 3","Aisle 3",50,19.99,"Supplier A","In Stock",2023-03-05
-765,1272," gadget z ",CLOTHING,"Warehouse 1","Aisle 2",NULL,29.99,"Supplier C","In Stock",2022-12-20
-766,1828," widget c ",ELECTRONICS,"Warehouse 3","Aisle 1",150,19.99,"Supplier D","In Stock",NULL
-767,1880," gadget x ",CLOTHING,"Warehouse 1","Aisle 5",200,9.99,"Supplier A","Out of Stock",2023-03-05
-768,1426," gadget z ",FURNITURE,"Warehouse 2","Aisle 2",100,49.99,"Supplier B","Out of Stock",NULL
-769,1894," gadget x ",TOYS,"Warehouse 2","Aisle 4",50,9.99,"Supplier B","Low Stock",2023-03-05
-770,1061," widget c ",CLOTHING,"Warehouse 2","Aisle 1",NULL,9.99,"Supplier C","In Stock",2023-01-15
-771,1612," widget c ",ELECTRONICS,"Warehouse 1","Aisle 4",300,NULL,"Supplier D","Out of Stock",2023-04-25
-772,1595," widget b ",ELECTRONICS,"Warehouse 2","Aisle 1",150,NULL,"Supplier C","Out of Stock",NULL
-773,1267," gadget y ",CLOTHING,"Warehouse 3","Aisle 3",300,9.99,"Supplier A","In Stock",2023-03-05
-774,1879," widget c ",FURNITURE,"Warehouse 2","Aisle 2",NULL,NULL,"Supplier D","Low Stock",2023-04-25
-775,1834," widget c ",CLOTHING,"Warehouse 3","Aisle 2",50,29.99,"Supplier A","Low Stock",NULL
-776,1728," widget b ",TOYS,"Warehouse 3","Aisle 3",300,NULL,"Supplier C","Low Stock",2023-04-25
-777,1341," widget a ",ELECTRONICS,"Warehouse 2","Aisle 1",100,19.99,"Supplier B","In Stock",2023-01-15
-778,1396," gadget z ",CLOTHING,"Warehouse 1","Aisle 5",100,29.99,"Supplier A","In Stock",2023-03-05
-779,1576," widget b ",ELECTRONICS,"Warehouse 2","Aisle 1",200,49.99,"Supplier B","Out of Stock",2023-03-05
-780,1698," widget c ",FURNITURE,"Warehouse 3","Aisle 1",NULL,29.99,"Supplier C","Out of Stock",2022-12-20
-781,1416," widget a ",CLOTHING,"Warehouse 2","Aisle 1",50,49.99,"Supplier D","Out of Stock",2023-03-05
-782,1360," widget b ",FURNITURE,"Warehouse 1","Aisle 3",200,49.99,"Supplier D","Out of Stock",2023-03-05
-783,1018," gadget x ",CLOTHING,"Warehouse 2","Aisle 5",100,29.99,"Supplier A","Out of Stock",2023-03-05
-784,1176," gadget x ",TOYS,"Warehouse 3","Aisle 4",300,29.99,"Supplier A","Low Stock",2023-03-05
-785,1167," widget b ",FURNITURE,"Warehouse 3","Aisle 5",50,9.99,"Supplier B","Out of Stock",2023-04-25
-786,1611," gadget y ",CLOTHING,"Warehouse 3","Aisle 4",100,NULL,"Supplier A","Out of Stock",2023-03-05
-787,1841," widget b ",TOYS,"Warehouse 1","Aisle 4",NULL,19.99,"Supplier B","In Stock",NULL
-788,1395," widget b ",CLOTHING,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier C","In Stock",2023-01-15
-789,1042," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 5",100,9.99,"Supplier D","In Stock",2023-01-15
-790,1555," widget a ",TOYS,"Warehouse 2","Aisle 5",50,9.99,"Supplier B","Low Stock",2022-12-20
-791,1284," widget a ",CLOTHING,"Warehouse 1","Aisle 5",150,49.99,"Supplier A","Out of Stock",2023-04-25
-792,1396," widget a ",TOYS,"Warehouse 1","Aisle 1",150,29.99,"Supplier D","In Stock",NULL
-793,1934," widget a ",TOYS,"Warehouse 1","Aisle 3",50,49.99,"Supplier B","In Stock",2023-03-05
-794,1011," widget a ",CLOTHING,"Warehouse 3","Aisle 1",300,9.99,"Supplier D","Low Stock",2023-03-05
-795,1000," gadget y ",FURNITURE,"Warehouse 1","Aisle 2",100,49.99,"Supplier C","Low Stock",2023-01-15
-796,1606," widget a ",CLOTHING,"Warehouse 2","Aisle 5",NULL,19.99,"Supplier D","Out of Stock",NULL
-797,1386," widget c ",CLOTHING,"Warehouse 1","Aisle 2",50,19.99,"Supplier B","Low Stock",2023-04-25
-798,1301," gadget y ",FURNITURE,"Warehouse 3","Aisle 1",100,NULL,"Supplier D","In Stock",2022-12-20
-799,1972," widget b ",CLOTHING,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier B","Out of Stock",NULL
-800,1897," widget c ",CLOTHING,"Warehouse 3","Aisle 4",100,9.99,"Supplier B","Out of Stock",2022-12-20
-801,1347," widget c ",FURNITURE,"Warehouse 3","Aisle 3",100,NULL,"Supplier B","In Stock",2022-12-20
-802,1252," widget b ",FURNITURE,"Warehouse 3","Aisle 5",300,9.99,"Supplier B","Out of Stock",2023-01-15
-803,1189," widget b ",CLOTHING,"Warehouse 2","Aisle 2",150,19.99,"Supplier A","In Stock",2023-04-25
-804,1444," widget c ",TOYS,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","In Stock",2023-01-15
-805,1498," widget a ",FURNITURE,"Warehouse 1","Aisle 1",150,19.99,"Supplier A","In Stock",2023-01-15
-806,1504," widget b ",FURNITURE,"Warehouse 3","Aisle 4",NULL,19.99,"Supplier C","In Stock",2023-01-15
-807,1232," gadget y ",FURNITURE,"Warehouse 1","Aisle 1",50,29.99,"Supplier A","In Stock",2022-12-20
-808,1190," gadget z ",CLOTHING,"Warehouse 1","Aisle 2",200,9.99,"Supplier B","Low Stock",2023-03-05
-809,1914," widget c ",ELECTRONICS,"Warehouse 1","Aisle 1",200,NULL,"Supplier B","In Stock",2023-03-05
-810,1507," widget a ",ELECTRONICS,"Warehouse 1","Aisle 2",200,29.99,"Supplier B","Out of Stock",2022-12-20
-811,1075," widget b ",FURNITURE,"Warehouse 3","Aisle 4",100,29.99,"Supplier A","In Stock",2023-01-15
-812,1368," widget c ",ELECTRONICS,"Warehouse 1","Aisle 3",200,19.99,"Supplier D","Out of Stock",NULL
-813,1264," gadget x ",TOYS,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier B","Low Stock",2022-12-20
-814,1753," widget c ",FURNITURE,"Warehouse 1","Aisle 2",200,29.99,"Supplier C","In Stock",2022-12-20
-815,1408," widget c ",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,29.99,"Supplier C","In Stock",2023-04-25
-816,1454," widget a ",CLOTHING,"Warehouse 3","Aisle 1",100,9.99,"Supplier A","Low Stock",2022-12-20
-817,1034," widget c ",ELECTRONICS,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier C","In Stock",2023-04-25
-818,1823," gadget z ",TOYS,"Warehouse 2","Aisle 5",NULL,29.99,"Supplier B","Low Stock",2023-04-25
-819,1795," gadget x ",FURNITURE,"Warehouse 1","Aisle 1",150,49.99,"Supplier D","In Stock",2023-03-05
-820,1726," widget b ",ELECTRONICS,"Warehouse 2","Aisle 5",300,9.99,"Supplier A","Out of Stock",2023-04-25
-821,1928," gadget y ",TOYS,"Warehouse 1","Aisle 4",NULL,49.99,"Supplier D","In Stock",2022-12-20
-822,1848," gadget y ",CLOTHING,"Warehouse 3","Aisle 4",NULL,29.99,"Supplier C","Out of Stock",2023-03-05
-823,1933," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 3",100,9.99,"Supplier D","Out of Stock",2023-01-15
-824,1089," gadget x ",FURNITURE,"Warehouse 3","Aisle 3",150,19.99,"Supplier A","Low Stock",2023-01-15
-825,1116," widget a ",TOYS,"Warehouse 1","Aisle 1",300,29.99,"Supplier A","Low Stock",NULL
-826,1775," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier B","Out of Stock",2023-03-05
-827,1133," widget a ",CLOTHING,"Warehouse 2","Aisle 4",100,9.99,"Supplier D","In Stock",2022-12-20
-828,1057," gadget x ",FURNITURE,"Warehouse 3","Aisle 4",200,49.99,"Supplier B","In Stock",2023-03-05
-829,1604," widget c ",FURNITURE,"Warehouse 2","Aisle 4",200,29.99,"Supplier D","In Stock",2023-01-15
-830,1555," gadget z ",FURNITURE,"Warehouse 1","Aisle 3",300,9.99,"Supplier A","Low Stock",NULL
-831,1684," gadget y ",FURNITURE,"Warehouse 2","Aisle 4",50,19.99,"Supplier A","Out of Stock",2023-04-25
-832,1671," widget b ",ELECTRONICS,"Warehouse 3","Aisle 3",200,29.99,"Supplier B","Low Stock",2022-12-20
-833,1921," gadget z ",TOYS,"Warehouse 1","Aisle 4",200,9.99,"Supplier D","Out of Stock",2022-12-20
-834,1172," widget c ",TOYS,"Warehouse 1","Aisle 2",150,9.99,"Supplier C","In Stock",2023-04-25
-835,1969," gadget z ",TOYS,"Warehouse 1","Aisle 4",100,NULL,"Supplier B","Low Stock",2023-04-25
-836,1828," widget a ",CLOTHING,"Warehouse 1","Aisle 5",100,NULL,"Supplier D","In Stock",2023-04-25
-837,1601," widget b ",TOYS,"Warehouse 3","Aisle 3",NULL,49.99,"Supplier D","Low Stock",2023-04-25
-838,1814," widget c ",CLOTHING,"Warehouse 1","Aisle 2",NULL,9.99,"Supplier A","In Stock",2023-04-25
-839,1148," widget c ",ELECTRONICS,"Warehouse 2","Aisle 3",100,29.99,"Supplier C","In Stock",2023-01-15
-840,1079," gadget x ",CLOTHING,"Warehouse 2","Aisle 3",NULL,49.99,"Supplier B","Out of Stock",2023-04-25
-841,1885," gadget y ",CLOTHING,"Warehouse 3","Aisle 2",300,49.99,"Supplier D","Out of Stock",2023-03-05
-842,1212," widget a ",CLOTHING,"Warehouse 2","Aisle 1",150,29.99,"Supplier D","In Stock",2023-03-05
-843,1717," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 3",300,19.99,"Supplier A","Out of Stock",NULL
-844,1202," widget c ",CLOTHING,"Warehouse 2","Aisle 1",300,19.99,"Supplier A","Out of Stock",NULL
-845,1763," widget a ",TOYS,"Warehouse 1","Aisle 1",150,19.99,"Supplier D","Out of Stock",2023-04-25
-846,1228," widget b ",CLOTHING,"Warehouse 1","Aisle 3",100,49.99,"Supplier D","Out of Stock",2023-04-25
-847,1675," gadget x ",FURNITURE,"Warehouse 1","Aisle 4",NULL,49.99,"Supplier D","In Stock",2022-12-20
-848,1226," widget b ",ELECTRONICS,"Warehouse 1","Aisle 3",300,29.99,"Supplier D","Low Stock",2023-01-15
-849,1658," widget a ",TOYS,"Warehouse 1","Aisle 4",150,19.99,"Supplier B","Low Stock",NULL
-850,1531," widget a ",CLOTHING,"Warehouse 1","Aisle 2",200,49.99,"Supplier C","Low Stock",2023-04-25
-851,1440," gadget y ",TOYS,"Warehouse 1","Aisle 5",200,19.99,"Supplier B","In Stock",2022-12-20
-852,1417," gadget x ",CLOTHING,"Warehouse 3","Aisle 4",NULL,NULL,"Supplier D","In Stock",2022-12-20
-853,1114," widget c ",FURNITURE,"Warehouse 3","Aisle 1",150,9.99,"Supplier C","In Stock",2023-03-05
-854,1401," widget c ",CLOTHING,"Warehouse 3","Aisle 4",300,49.99,"Supplier B","Out of Stock",2023-01-15
-855,1616," gadget y ",TOYS,"Warehouse 3","Aisle 5",100,19.99,"Supplier B","Low Stock",2023-03-05
-856,1046," widget c ",FURNITURE,"Warehouse 3","Aisle 1",NULL,9.99,"Supplier A","Out of Stock",NULL
-857,1902," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 5",300,49.99,"Supplier C","Low Stock",NULL
-858,1734," gadget z ",TOYS,"Warehouse 3","Aisle 2",100,NULL,"Supplier A","In Stock",2023-03-05
-859,1383," widget a ",FURNITURE,"Warehouse 1","Aisle 4",100,19.99,"Supplier C","Low Stock",NULL
-860,1195," widget c ",TOYS,"Warehouse 1","Aisle 2",NULL,NULL,"Supplier C","Low Stock",2023-01-15
-861,1563," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 4",50,NULL,"Supplier B","In Stock",2022-12-20
-862,1850," widget b ",TOYS,"Warehouse 3","Aisle 2",300,49.99,"Supplier D","Low Stock",2023-01-15
-863,1505," widget a ",ELECTRONICS,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier B","Low Stock",2023-04-25
-864,1366," gadget y ",TOYS,"Warehouse 2","Aisle 3",100,29.99,"Supplier D","In Stock",2022-12-20
-865,1143," widget b ",CLOTHING,"Warehouse 1","Aisle 3",50,NULL,"Supplier A","In Stock",2023-01-15
-866,1884," gadget x ",FURNITURE,"Warehouse 1","Aisle 4",200,29.99,"Supplier C","Out of Stock",2022-12-20
-867,1068," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 3",300,49.99,"Supplier C","Low Stock",2023-03-05
-868,1098," widget b ",TOYS,"Warehouse 2","Aisle 2",50,29.99,"Supplier B","Out of Stock",NULL
-869,1395," widget c ",ELECTRONICS,"Warehouse 1","Aisle 1",50,49.99,"Supplier C","In Stock",2022-12-20
-870,1024," widget b ",ELECTRONICS,"Warehouse 1","Aisle 2",50,19.99,"Supplier B","Low Stock",2023-01-15
-871,1947," widget b ",FURNITURE,"Warehouse 1","Aisle 5",100,49.99,"Supplier B","Out of Stock",2023-03-05
-872,1232," widget b ",ELECTRONICS,"Warehouse 3","Aisle 3",300,NULL,"Supplier D","In Stock",NULL
-873,1304," gadget x ",CLOTHING,"Warehouse 3","Aisle 2",100,9.99,"Supplier B","In Stock",2023-04-25
-874,1525," gadget z ",CLOTHING,"Warehouse 1","Aisle 1",150,49.99,"Supplier D","Low Stock",NULL
-875,1890," gadget z ",CLOTHING,"Warehouse 2","Aisle 4",100,9.99,"Supplier D","Out of Stock",2023-04-25
-876,1142," widget c ",CLOTHING,"Warehouse 3","Aisle 2",100,NULL,"Supplier B","Low Stock",2022-12-20
-877,1468," widget c ",ELECTRONICS,"Warehouse 3","Aisle 3",200,9.99,"Supplier B","Out of Stock",2023-03-05
-878,1414," gadget y ",CLOTHING,"Warehouse 1","Aisle 5",200,NULL,"Supplier B","In Stock",NULL
-879,1483," gadget y ",TOYS,"Warehouse 1","Aisle 5",150,9.99,"Supplier D","In Stock",NULL
-880,1512," widget b ",ELECTRONICS,"Warehouse 3","Aisle 3",150,49.99,"Supplier A","Low Stock",2023-03-05
-881,1564," gadget y ",TOYS,"Warehouse 3","Aisle 3",150,NULL,"Supplier C","In Stock",2023-03-05
-882,1372," widget b ",ELECTRONICS,"Warehouse 2","Aisle 3",300,49.99,"Supplier C","Out of Stock",2022-12-20
-883,1150," widget b ",CLOTHING,"Warehouse 1","Aisle 1",150,NULL,"Supplier B","In Stock",2023-04-25
-884,1565," gadget z ",FURNITURE,"Warehouse 3","Aisle 5",100,19.99,"Supplier C","In Stock",2023-01-15
-885,1885," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 3",50,49.99,"Supplier B","In Stock",2023-01-15
-886,1258," gadget x ",CLOTHING,"Warehouse 1","Aisle 4",NULL,29.99,"Supplier A","Out of Stock",2023-04-25
-887,1655," gadget y ",FURNITURE,"Warehouse 3","Aisle 2",NULL,49.99,"Supplier D","Out of Stock",2023-04-25
-888,1470," gadget x ",FURNITURE,"Warehouse 2","Aisle 1",50,29.99,"Supplier D","Out of Stock",2023-03-05
-889,1952," gadget y ",FURNITURE,"Warehouse 1","Aisle 5",200,49.99,"Supplier B","Low Stock",2023-01-15
-890,1970," gadget y ",CLOTHING,"Warehouse 1","Aisle 4",150,19.99,"Supplier C","In Stock",2023-01-15
-891,1011," widget a ",TOYS,"Warehouse 3","Aisle 1",NULL,29.99,"Supplier A","Low Stock",2023-01-15
-892,1143," widget c ",TOYS,"Warehouse 3","Aisle 1",300,NULL,"Supplier B","Low Stock",2023-01-15
-893,1568," widget c ",CLOTHING,"Warehouse 2","Aisle 1",300,49.99,"Supplier A","In Stock",2022-12-20
-894,1038," gadget z ",TOYS,"Warehouse 2","Aisle 3",200,NULL,"Supplier B","Low Stock",NULL
-895,1108," gadget x ",FURNITURE,"Warehouse 1","Aisle 5",300,19.99,"Supplier B","Out of Stock",2023-04-25
-896,1692," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 1",150,9.99,"Supplier A","Out of Stock",NULL
-897,1041," gadget z ",FURNITURE,"Warehouse 2","Aisle 5",150,49.99,"Supplier A","In Stock",2023-03-05
-898,1185," widget a ",ELECTRONICS,"Warehouse 1","Aisle 3",50,9.99,"Supplier C","Out of Stock",NULL
-899,1934," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 5",300,NULL,"Supplier B","In Stock",2023-04-25
-900,1397," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 3",100,49.99,"Supplier C","Low Stock",2022-12-20
-901,1222," gadget y ",FURNITURE,"Warehouse 2","Aisle 3",100,29.99,"Supplier C","Out of Stock",2022-12-20
-902,1329," widget b ",CLOTHING,"Warehouse 1","Aisle 1",50,9.99,"Supplier C","Out of Stock",2023-01-15
-903,1633," gadget x ",ELECTRONICS,"Warehouse 1","Aisle 4",50,19.99,"Supplier A","In Stock",NULL
-904,1132," widget a ",FURNITURE,"Warehouse 3","Aisle 3",50,NULL,"Supplier D","Out of Stock",2023-01-15
-905,1735," gadget y ",ELECTRONICS,"Warehouse 1","Aisle 5",300,29.99,"Supplier D","Low Stock",NULL
-906,1783," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 4",50,19.99,"Supplier C","Out of Stock",2022-12-20
-907,1162," gadget x ",CLOTHING,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","Out of Stock",NULL
-908,1967," gadget y ",CLOTHING,"Warehouse 1","Aisle 1",200,29.99,"Supplier D","Low Stock",2022-12-20
-909,1214," widget a ",TOYS,"Warehouse 3","Aisle 2",100,19.99,"Supplier D","In Stock",2023-03-05
-910,1357," widget c ",CLOTHING,"Warehouse 1","Aisle 1",200,49.99,"Supplier A","Low Stock",2023-03-05
-911,1971," widget b ",FURNITURE,"Warehouse 1","Aisle 4",100,49.99,"Supplier A","Out of Stock",NULL
-912,1732," widget b ",TOYS,"Warehouse 1","Aisle 1",150,19.99,"Supplier B","Out of Stock",2022-12-20
-913,1234," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 4",50,29.99,"Supplier A","Out of Stock",2022-12-20
-914,1407," widget c ",CLOTHING,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier B","Low Stock",2023-01-15
-915,1842," widget a ",FURNITURE,"Warehouse 1","Aisle 4",200,NULL,"Supplier B","Out of Stock",2022-12-20
-916,1657," gadget x ",TOYS,"Warehouse 2","Aisle 4",50,NULL,"Supplier B","Out of Stock",2023-01-15
-917,1667," widget b ",FURNITURE,"Warehouse 3","Aisle 1",100,NULL,"Supplier B","In Stock",2023-01-15
-918,1372," widget c ",ELECTRONICS,"Warehouse 2","Aisle 2",50,49.99,"Supplier C","Low Stock",2023-04-25
-919,1007," gadget y ",FURNITURE,"Warehouse 1","Aisle 4",150,9.99,"Supplier A","Low Stock",2023-04-25
-920,1750," gadget y ",FURNITURE,"Warehouse 3","Aisle 2",NULL,9.99,"Supplier A","Low Stock",2023-01-15
-921,1121," gadget y ",CLOTHING,"Warehouse 1","Aisle 1",150,19.99,"Supplier A","In Stock",2023-03-05
-922,1587," widget a ",FURNITURE,"Warehouse 3","Aisle 3",50,49.99,"Supplier B","Out of Stock",2023-04-25
-923,1347," widget a ",ELECTRONICS,"Warehouse 3","Aisle 5",200,29.99,"Supplier B","Out of Stock",2023-01-15
-924,1008," gadget z ",ELECTRONICS,"Warehouse 2","Aisle 1",100,49.99,"Supplier A","Out of Stock",NULL
-925,1073," widget a ",TOYS,"Warehouse 2","Aisle 5",300,9.99,"Supplier D","In Stock",NULL
-926,1675," gadget z ",TOYS,"Warehouse 2","Aisle 2",150,29.99,"Supplier D","In Stock",2023-03-05
-927,1953," widget c ",ELECTRONICS,"Warehouse 1","Aisle 3",50,49.99,"Supplier B","Low Stock",2023-03-05
-928,1089," widget c ",FURNITURE,"Warehouse 3","Aisle 1",150,9.99,"Supplier C","Low Stock",NULL
-929,1491," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 2",300,19.99,"Supplier A","In Stock",2022-12-20
-930,1647," gadget x ",ELECTRONICS,"Warehouse 2","Aisle 2",150,49.99,"Supplier C","Out of Stock",2022-12-20
-931,1912," gadget z ",TOYS,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier C","In Stock",2023-01-15
-932,1697," widget a ",FURNITURE,"Warehouse 1","Aisle 2",50,19.99,"Supplier B","Low Stock",2023-01-15
-933,1252," gadget z ",TOYS,"Warehouse 1","Aisle 3",200,49.99,"Supplier B","In Stock",2023-03-05
-934,1315," widget c ",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier A","Low Stock",NULL
-935,1229," widget b ",CLOTHING,"Warehouse 1","Aisle 2",300,9.99,"Supplier D","Low Stock",2023-03-05
-936,1177," widget c ",ELECTRONICS,"Warehouse 3","Aisle 2",300,49.99,"Supplier B","In Stock",2023-01-15
-937,1518," gadget x ",CLOTHING,"Warehouse 3","Aisle 4",150,29.99,"Supplier A","In Stock",2023-01-15
-938,1539," widget a ",FURNITURE,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","In Stock",2023-04-25
-939,1731," gadget y ",TOYS,"Warehouse 3","Aisle 4",150,29.99,"Supplier B","Out of Stock",2023-03-05
-940,1173," widget b ",FURNITURE,"Warehouse 1","Aisle 4",50,49.99,"Supplier B","In Stock",NULL
-941,1868," widget c ",ELECTRONICS,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","Out of Stock",2023-04-25
-942,1652," gadget z ",TOYS,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier B","In Stock",2022-12-20
-943,1040," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 5",50,NULL,"Supplier D","Out of Stock",2022-12-20
-944,1167," gadget y ",CLOTHING,"Warehouse 1","Aisle 1",NULL,29.99,"Supplier B","Out of Stock",NULL
-945,1739," widget a ",ELECTRONICS,"Warehouse 2","Aisle 1",200,19.99,"Supplier D","Low Stock",2023-04-25
-946,1169," widget a ",FURNITURE,"Warehouse 1","Aisle 4",300,9.99,"Supplier D","In Stock",2023-03-05
-947,1703," gadget y ",TOYS,"Warehouse 2","Aisle 4",100,NULL,"Supplier A","In Stock",2023-01-15
-948,1392," widget a ",FURNITURE,"Warehouse 1","Aisle 5",200,29.99,"Supplier A","Low Stock",2022-12-20
-949,1945," gadget y ",FURNITURE,"Warehouse 1","Aisle 3",100,9.99,"Supplier C","Low Stock",2023-04-25
-950,1922," widget b ",TOYS,"Warehouse 1","Aisle 4",NULL,19.99,"Supplier B","In Stock",2023-04-25
-951,1501," gadget x ",CLOTHING,"Warehouse 3","Aisle 5",50,NULL,"Supplier D","In Stock",2023-01-15
-952,1958," widget c ",FURNITURE,"Warehouse 2","Aisle 3",300,29.99,"Supplier A","Out of Stock",2022-12-20
-953,1144," gadget z ",TOYS,"Warehouse 1","Aisle 1",50,49.99,"Supplier B","In Stock",2023-04-25
-954,1200," gadget x ",FURNITURE,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier C","In Stock",2023-03-05
-955,1928," gadget y ",CLOTHING,"Warehouse 3","Aisle 2",NULL,NULL,"Supplier D","In Stock",2023-03-05
-956,1723," widget c ",FURNITURE,"Warehouse 1","Aisle 3",NULL,29.99,"Supplier A","Out of Stock",2023-03-05
-957,1794," gadget z ",CLOTHING,"Warehouse 3","Aisle 5",50,19.99,"Supplier C","Out of Stock",2023-03-05
-958,1460," gadget y ",TOYS,"Warehouse 1","Aisle 4",200,NULL,"Supplier C","In Stock",2023-04-25
-959,1731," widget b ",FURNITURE,"Warehouse 2","Aisle 1",150,9.99,"Supplier B","Out of Stock",2023-04-25
-960,1633," widget a ",TOYS,"Warehouse 1","Aisle 3",NULL,9.99,"Supplier C","Low Stock",NULL
-961,1751," widget a ",TOYS,"Warehouse 3","Aisle 3",50,29.99,"Supplier B","In Stock",2023-04-25
-962,1924," widget c ",FURNITURE,"Warehouse 3","Aisle 1",150,9.99,"Supplier B","In Stock",2023-01-15
-963,1193," widget a ",ELECTRONICS,"Warehouse 2","Aisle 4",200,19.99,"Supplier A","Low Stock",NULL
-964,1516," widget a ",FURNITURE,"Warehouse 1","Aisle 1",150,19.99,"Supplier C","Out of Stock",NULL
-965,1908," widget b ",TOYS,"Warehouse 1","Aisle 1",150,29.99,"Supplier D","In Stock",2022-12-20
-966,1028," gadget x ",CLOTHING,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier D","In Stock",2023-01-15
-967,1164," gadget x ",CLOTHING,"Warehouse 3","Aisle 5",200,NULL,"Supplier A","Out of Stock",2023-03-05
-968,1421," widget c ",ELECTRONICS,"Warehouse 3","Aisle 1",100,9.99,"Supplier B","In Stock",2022-12-20
-969,1557," widget b ",TOYS,"Warehouse 3","Aisle 2",300,NULL,"Supplier A","Out of Stock",2023-03-05
-970,1338," widget b ",ELECTRONICS,"Warehouse 2","Aisle 4",100,49.99,"Supplier D","In Stock",NULL
-971,1546," widget c ",FURNITURE,"Warehouse 2","Aisle 2",NULL,9.99,"Supplier C","Out of Stock",2023-01-15
-972,1252," gadget y ",CLOTHING,"Warehouse 3","Aisle 4",200,NULL,"Supplier A","In Stock",2023-03-05
-973,1389," gadget z ",ELECTRONICS,"Warehouse 1","Aisle 5",300,29.99,"Supplier D","Low Stock",2023-01-15
-974,1593," widget b ",CLOTHING,"Warehouse 1","Aisle 1",100,NULL,"Supplier A","Out of Stock",2023-04-25
-975,1882," gadget x ",FURNITURE,"Warehouse 2","Aisle 5",200,9.99,"Supplier D","Out of Stock",2023-03-05
-976,1647," gadget y ",CLOTHING,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier B","Low Stock",NULL
-977,1495," gadget y ",TOYS,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier C","Out of Stock",2023-01-15
-978,1364," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 1",300,19.99,"Supplier D","Low Stock",2022-12-20
-979,1832," widget c ",CLOTHING,"Warehouse 1","Aisle 2",50,NULL,"Supplier A","Low Stock",2023-03-05
-980,1341," gadget x ",ELECTRONICS,"Warehouse 3","Aisle 1",200,49.99,"Supplier D","In Stock",2023-04-25
-981,1499," gadget z ",TOYS,"Warehouse 2","Aisle 3",NULL,NULL,"Supplier B","Low Stock",2023-01-15
-982,1656," gadget z ",FURNITURE,"Warehouse 1","Aisle 5",50,9.99,"Supplier A","Out of Stock",2023-03-05
-983,1510," widget c ",ELECTRONICS,"Warehouse 2","Aisle 3",300,NULL,"Supplier D","Low Stock",2023-04-25
-984,1326," gadget z ",TOYS,"Warehouse 1","Aisle 2",50,19.99,"Supplier D","Low Stock",NULL
-985,1216," gadget y ",CLOTHING,"Warehouse 3","Aisle 4",NULL,9.99,"Supplier D","In Stock",NULL
-986,1300," widget b ",ELECTRONICS,"Warehouse 2","Aisle 1",100,29.99,"Supplier D","Out of Stock",2022-12-20
-987,1131," widget a ",ELECTRONICS,"Warehouse 1","Aisle 5",200,49.99,"Supplier A","Low Stock",2023-04-25
-988,1803," gadget x ",CLOTHING,"Warehouse 1","Aisle 4",200,49.99,"Supplier B","In Stock",NULL
-989,1069," gadget x ",FURNITURE,"Warehouse 3","Aisle 3",100,NULL,"Supplier D","Low Stock",NULL
-990,1251," widget c ",CLOTHING,"Warehouse 3","Aisle 5",NULL,9.99,"Supplier A","Out of Stock",2022-12-20
-991,1255," widget b ",CLOTHING,"Warehouse 2","Aisle 4",150,9.99,"Supplier B","In Stock",2023-04-25
-992,1708," gadget z ",TOYS,"Warehouse 3","Aisle 1",200,NULL,"Supplier C","Low Stock",2023-03-05
-993,1814," gadget y ",ELECTRONICS,"Warehouse 3","Aisle 1",NULL,19.99,"Supplier B","In Stock",NULL
-994,1920," gadget y ",FURNITURE,"Warehouse 1","Aisle 5",100,29.99,"Supplier A","Out of Stock",2023-01-15
-995,1449," gadget x ",FURNITURE,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier B","Out of Stock",NULL
-996,1009," widget b ",FURNITURE,"Warehouse 2","Aisle 2",100,NULL,"Supplier C","In Stock",2023-01-15
-997,1823," gadget y ",ELECTRONICS,"Warehouse 2","Aisle 3",300,19.99,"Supplier B","In Stock",2022-12-20
-998,1797," gadget z ",TOYS,"Warehouse 3","Aisle 5",150,9.99,"Supplier C","Low Stock",2023-03-05
-999,1241," widget c ",FURNITURE,"Warehouse 2","Aisle 2",100,49.99,"Supplier C","Low Stock",2022-12-20
-1000,1250," widget a ",CLOTHING,"Warehouse 1","Aisle 3",100,49.99,"Supplier B","Out of Stock",2022-12-20
+1,1102,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 1",300,9.99,"Supplier C","In Stock",NULL
+2,1315,"widget a",TOYS,"Warehouse 3","Aisle 1",100,49.99,"Supplier B","In Stock",2023-01-15
+3,1435,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 4",200,19.99,"Supplier C","In Stock",NULL
+4,1013,"widget a",TOYS,"Warehouse 2","Aisle 5",50,19.99,"Supplier C","Low Stock",2023-04-25
+5,1241,"gadget y",FURNITURE,"Warehouse 1","Aisle 2",300,29.99,"Supplier D","In Stock",NULL
+6,1776,"gadget y",TOYS,"Warehouse 3","Aisle 4",300,49.99,"Supplier C","In Stock",2023-03-05
+7,1860,"widget a",CLOTHING,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","In Stock",2022-12-20
+8,1270,"gadget z",TOYS,"Warehouse 2","Aisle 4",50,49.99,"Supplier B","Low Stock",2022-12-20
+9,1345,"gadget z",FURNITURE,"Warehouse 3","Aisle 4",200,19.99,"Supplier A","In Stock",2022-12-20
+10,1106,"widget a",FURNITURE,"Warehouse 3","Aisle 3",200,9.99,"Supplier D","In Stock",2023-04-25
+11,1564,"widget b",FURNITURE,"Warehouse 1","Aisle 1",100,NULL,"Supplier C","In Stock",2023-01-15
+12,1897,"widget c",FURNITURE,"Warehouse 3","Aisle 4",100,NULL,"Supplier C","In Stock",2022-12-20
+13,1071,"widget b",CLOTHING,"Warehouse 3","Aisle 5",300,NULL,"Supplier A","In Stock",2022-12-20
+14,1700,"widget a",CLOTHING,"Warehouse 2","Aisle 2",200,49.99,"Supplier B","In Stock",2022-12-20
+15,1339,"widget c",FURNITURE,"Warehouse 3","Aisle 1",300,9.99,"Supplier B","In Stock",2023-03-05
+16,1091,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 5",300,49.99,"Supplier A","In Stock",2023-01-15
+17,1366,"gadget x",CLOTHING,"Warehouse 3","Aisle 2",150,19.99,"Supplier A","In Stock",2023-03-05
+18,1020,"widget c",CLOTHING,"Warehouse 1","Aisle 5",200,9.99,"Supplier D","In Stock",2022-12-20
+19,1614,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 3",300,9.99,"Supplier B","In Stock",2023-03-05
+20,1121,"widget b",TOYS,"Warehouse 1","Aisle 2",50,19.99,"Supplier C","Low Stock",2022-12-20
+21,1955,"widget b",ELECTRONICS,"Warehouse 1","Aisle 5",150,29.99,"Supplier B","In Stock",2022-12-20
+22,1962,"widget c",TOYS,"Warehouse 2","Aisle 4",50,NULL,"Supplier D","Low Stock",2022-12-20
+23,1466,"widget a",CLOTHING,"Warehouse 3","Aisle 1",NULL,49.99,"Supplier B","Out of Stock",2023-01-15
+24,1733,"gadget x",FURNITURE,"Warehouse 3","Aisle 4",150,29.99,"Supplier D","In Stock",2023-04-25
+25,1510,"widget c",TOYS,"Warehouse 2","Aisle 4",300,9.99,"Supplier B","In Stock",2023-03-05
+26,1454,"gadget z",TOYS,"Warehouse 1","Aisle 3",150,NULL,"Supplier C","In Stock",NULL
+27,1427,"widget b",ELECTRONICS,"Warehouse 2","Aisle 3",100,19.99,"Supplier D","In Stock",2022-12-20
+28,1508,"widget b",ELECTRONICS,"Warehouse 2","Aisle 3",200,49.99,"Supplier A","In Stock",2022-12-20
+29,1775,"widget b",TOYS,"Warehouse 3","Aisle 5",NULL,9.99,"Supplier A","Out of Stock",2022-12-20
+30,1146,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 4",50,19.99,"Supplier A","Low Stock",2022-12-20
+31,1147,"widget b",TOYS,"Warehouse 2","Aisle 2",100,19.99,"Supplier C","In Stock",2023-04-25
+32,1942,"gadget z",TOYS,"Warehouse 3","Aisle 4",150,NULL,"Supplier C","In Stock",2023-04-25
+33,1034,"widget c",TOYS,"Warehouse 1","Aisle 2",200,19.99,"Supplier C","In Stock",2023-03-05
+34,1205,"widget c",ELECTRONICS,"Warehouse 3","Aisle 3",50,19.99,"Supplier A","Low Stock",2023-03-05
+35,1080,"widget b",ELECTRONICS,"Warehouse 1","Aisle 3",150,19.99,"Supplier C","In Stock",2023-03-05
+36,1484,"widget a",ELECTRONICS,"Warehouse 3","Aisle 5",200,49.99,"Supplier C","In Stock",NULL
+37,1931,"gadget x",TOYS,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier D","Out of Stock",2023-04-25
+38,1863,"gadget z",CLOTHING,"Warehouse 2","Aisle 3",150,9.99,"Supplier A","In Stock",2023-03-05
+39,1561,"widget a",CLOTHING,"Warehouse 3","Aisle 2",50,49.99,"Supplier A","Low Stock",NULL
+40,1871,"gadget z",CLOTHING,"Warehouse 1","Aisle 3",50,49.99,"Supplier D","Low Stock",2022-12-20
+41,1214,"gadget z",FURNITURE,"Warehouse 2","Aisle 1",50,9.99,"Supplier A","Low Stock",2023-01-15
+42,1330,"widget c",TOYS,"Warehouse 3","Aisle 4",150,9.99,"Supplier B","In Stock",2023-04-25
+43,1387,"widget a",FURNITURE,"Warehouse 2","Aisle 2",NULL,29.99,"Supplier D","Out of Stock",NULL
+44,1458,"widget c",FURNITURE,"Warehouse 2","Aisle 3",300,49.99,"Supplier A","In Stock",2023-03-05
+45,1406,"gadget x",CLOTHING,"Warehouse 2","Aisle 3",100,29.99,"Supplier A","In Stock",2023-03-05
+46,1230,"widget b",TOYS,"Warehouse 1","Aisle 1",50,49.99,"Supplier A","Low Stock",NULL
+47,1001,"gadget x",TOYS,"Warehouse 3","Aisle 3",150,19.99,"Supplier C","In Stock",2023-04-25
+48,1389,"gadget z",FURNITURE,"Warehouse 2","Aisle 5",100,NULL,"Supplier D","In Stock",2023-03-05
+49,1565,"widget b",CLOTHING,"Warehouse 3","Aisle 5",NULL,49.99,"Supplier C","Out of Stock",2022-12-20
+50,1710,"gadget x",ELECTRONICS,"Warehouse 1","Aisle 5",50,19.99,"Supplier B","Low Stock",NULL
+51,1105,"widget c",FURNITURE,"Warehouse 1","Aisle 2",NULL,49.99,"Supplier B","Out of Stock",2023-01-15
+52,1771,"widget a",TOYS,"Warehouse 3","Aisle 5",NULL,19.99,"Supplier C","Out of Stock",2023-01-15
+53,1087,"widget a",TOYS,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","Low Stock",2023-01-15
+54,1821,"gadget y",TOYS,"Warehouse 2","Aisle 2",50,49.99,"Supplier D","Low Stock",NULL
+55,1819,"widget a",FURNITURE,"Warehouse 2","Aisle 3",200,29.99,"Supplier B","In Stock",2022-12-20
+56,1372,"gadget y",FURNITURE,"Warehouse 2","Aisle 1",200,49.99,"Supplier A","In Stock",2023-03-05
+57,1099,"widget a",ELECTRONICS,"Warehouse 2","Aisle 5",300,49.99,"Supplier B","In Stock",2023-03-05
+58,1748,"widget c",FURNITURE,"Warehouse 1","Aisle 4",200,19.99,"Supplier D","In Stock",2022-12-20
+59,1871,"widget b",CLOTHING,"Warehouse 2","Aisle 2",100,NULL,"Supplier D","In Stock",2023-04-25
+60,1663,"widget a",FURNITURE,"Warehouse 2","Aisle 5",50,49.99,"Supplier C","Low Stock",2023-03-05
+61,1130,"widget c",TOYS,"Warehouse 1","Aisle 5",300,9.99,"Supplier B","In Stock",2022-12-20
+62,1488,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 1",300,9.99,"Supplier A","In Stock",2022-12-20
+63,1928,"widget b",TOYS,"Warehouse 1","Aisle 4",300,29.99,"Supplier C","In Stock",2023-04-25
+64,1935,"widget a",FURNITURE,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier B","Out of Stock",2023-04-25
+65,1476,"gadget y",TOYS,"Warehouse 1","Aisle 5",200,29.99,"Supplier B","In Stock",2023-03-05
+66,1702,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 5",100,29.99,"Supplier C","In Stock",2023-01-15
+67,1401,"widget b",FURNITURE,"Warehouse 3","Aisle 2",150,49.99,"Supplier D","In Stock",NULL
+68,1661,"widget a",CLOTHING,"Warehouse 2","Aisle 1",50,49.99,"Supplier C","Low Stock",2023-03-05
+69,1729,"widget a",CLOTHING,"Warehouse 3","Aisle 4",150,19.99,"Supplier A","In Stock",2023-04-25
+70,1308,"gadget y",CLOTHING,"Warehouse 1","Aisle 1",300,NULL,"Supplier C","In Stock",2023-04-25
+71,1555,"widget b",CLOTHING,"Warehouse 2","Aisle 5",200,19.99,"Supplier A","In Stock",NULL
+72,1161,"widget a",CLOTHING,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier C","Out of Stock",NULL
+73,1769,"gadget z",TOYS,"Warehouse 1","Aisle 1",200,29.99,"Supplier B","In Stock",2023-04-25
+74,1201,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 4",100,9.99,"Supplier C","In Stock",NULL
+75,1654,"widget a",TOYS,"Warehouse 2","Aisle 5",100,49.99,"Supplier A","In Stock",2023-04-25
+76,1343,"gadget x",FURNITURE,"Warehouse 2","Aisle 4",100,49.99,"Supplier B","In Stock",2023-04-25
+77,1491,"widget a",ELECTRONICS,"Warehouse 1","Aisle 5",100,19.99,"Supplier D","In Stock",2023-01-15
+78,1957,"gadget x",ELECTRONICS,"Warehouse 1","Aisle 2",150,49.99,"Supplier A","In Stock",2022-12-20
+79,1413,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier C","In Stock",2022-12-20
+80,1639,"widget b",ELECTRONICS,"Warehouse 1","Aisle 5",200,9.99,"Supplier D","In Stock",2023-01-15
+81,1170,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",150,29.99,"Supplier A","In Stock",NULL
+82,1995,"gadget y",TOYS,"Warehouse 1","Aisle 4",300,19.99,"Supplier D","In Stock",NULL
+83,1805,"gadget y",FURNITURE,"Warehouse 2","Aisle 2",300,9.99,"Supplier C","In Stock",2023-01-15
+84,1269,"widget b",CLOTHING,"Warehouse 2","Aisle 1",150,29.99,"Supplier D","In Stock",NULL
+85,1385,"gadget z",CLOTHING,"Warehouse 1","Aisle 4",50,19.99,"Supplier B","Low Stock",NULL
+86,1862,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 1",NULL,NULL,"Supplier D","Out of Stock",2022-12-20
+87,1191,"widget c",CLOTHING,"Warehouse 2","Aisle 3",100,19.99,"Supplier A","In Stock",2022-12-20
+88,1815,"gadget y",TOYS,"Warehouse 2","Aisle 5",300,NULL,"Supplier C","In Stock",2022-12-20
+89,1270,"widget b",CLOTHING,"Warehouse 3","Aisle 5",200,19.99,"Supplier B","In Stock",2023-04-25
+90,1455,"gadget y",FURNITURE,"Warehouse 2","Aisle 3",100,NULL,"Supplier B","In Stock",2023-03-05
+91,1955,"gadget y",CLOTHING,"Warehouse 2","Aisle 5",100,49.99,"Supplier B","In Stock",2023-03-05
+92,1276,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",NULL,19.99,"Supplier C","Out of Stock",2023-04-25
+93,1160,"gadget y",FURNITURE,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier B","Out of Stock",NULL
+94,1459,"gadget y",CLOTHING,"Warehouse 3","Aisle 2",100,NULL,"Supplier D","In Stock",2022-12-20
+95,1313,"widget b",TOYS,"Warehouse 3","Aisle 4",300,19.99,"Supplier A","In Stock",2023-01-15
+96,1021,"widget b",CLOTHING,"Warehouse 1","Aisle 4",150,19.99,"Supplier B","In Stock",2023-04-25
+97,1540,"widget b",ELECTRONICS,"Warehouse 2","Aisle 1",100,29.99,"Supplier B","In Stock",2023-03-05
+98,1461,"gadget z",TOYS,"Warehouse 2","Aisle 4",200,NULL,"Supplier B","In Stock",2023-01-15
+99,1035,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 1",100,49.99,"Supplier A","In Stock",2022-12-20
+100,1252,"widget c",ELECTRONICS,"Warehouse 2","Aisle 2",100,29.99,"Supplier D","In Stock",2023-01-15
+101,1726,"widget c",ELECTRONICS,"Warehouse 3","Aisle 1",200,9.99,"Supplier B","In Stock",2023-01-15
+102,1524,"gadget z",CLOTHING,"Warehouse 3","Aisle 1",300,49.99,"Supplier B","In Stock",2023-01-15
+103,1251,"widget c",ELECTRONICS,"Warehouse 1","Aisle 5",100,29.99,"Supplier B","In Stock",NULL
+104,1701,"widget c",TOYS,"Warehouse 2","Aisle 4",100,29.99,"Supplier C","In Stock",2023-04-25
+105,1747,"widget a",CLOTHING,"Warehouse 1","Aisle 3",200,9.99,"Supplier C","In Stock",2022-12-20
+106,1856,"gadget y",FURNITURE,"Warehouse 1","Aisle 3",50,9.99,"Supplier B","Low Stock",2022-12-20
+107,1560,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 4",150,49.99,"Supplier C","In Stock",NULL
+108,1295,"widget c",TOYS,"Warehouse 2","Aisle 5",150,9.99,"Supplier C","In Stock",NULL
+109,1474,"widget a",FURNITURE,"Warehouse 2","Aisle 4",200,29.99,"Supplier D","In Stock",2023-03-05
+110,1724,"widget a",ELECTRONICS,"Warehouse 3","Aisle 5",150,9.99,"Supplier B","In Stock",2023-01-15
+111,1058,"gadget z",FURNITURE,"Warehouse 1","Aisle 1",150,NULL,"Supplier C","In Stock",2023-01-15
+112,1719,"widget c",FURNITURE,"Warehouse 1","Aisle 1",100,NULL,"Supplier C","In Stock",2022-12-20
+113,1159,"widget b",ELECTRONICS,"Warehouse 1","Aisle 3",100,49.99,"Supplier A","In Stock",NULL
+114,1510,"widget a",ELECTRONICS,"Warehouse 2","Aisle 3",200,NULL,"Supplier D","In Stock",NULL
+115,1748,"gadget z",CLOTHING,"Warehouse 2","Aisle 1",300,49.99,"Supplier C","In Stock",2023-03-05
+116,1681,"widget c",FURNITURE,"Warehouse 1","Aisle 2",50,29.99,"Supplier D","Low Stock",2023-04-25
+117,1337,"gadget x",FURNITURE,"Warehouse 3","Aisle 5",50,NULL,"Supplier B","Low Stock",2023-04-25
+118,1878,"gadget x",TOYS,"Warehouse 2","Aisle 2",150,9.99,"Supplier D","In Stock",2022-12-20
+119,1052,"widget a",FURNITURE,"Warehouse 3","Aisle 5",50,29.99,"Supplier C","Low Stock",2023-03-05
+120,1791,"widget c",ELECTRONICS,"Warehouse 1","Aisle 5",300,NULL,"Supplier D","In Stock",2023-04-25
+121,1921,"widget c",TOYS,"Warehouse 1","Aisle 3",100,49.99,"Supplier C","In Stock",2023-04-25
+122,1216,"widget c",CLOTHING,"Warehouse 1","Aisle 3",300,NULL,"Supplier C","In Stock",2023-01-15
+123,1550,"gadget z",CLOTHING,"Warehouse 1","Aisle 1",NULL,19.99,"Supplier B","Out of Stock",2023-01-15
+124,1337,"widget c",CLOTHING,"Warehouse 3","Aisle 2",50,9.99,"Supplier C","Low Stock",2023-01-15
+125,1871,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 2",100,19.99,"Supplier B","In Stock",2023-04-25
+126,1763,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","In Stock",2022-12-20
+127,1187,"widget b",ELECTRONICS,"Warehouse 2","Aisle 2",200,NULL,"Supplier C","In Stock",2023-04-25
+128,1475,"gadget y",FURNITURE,"Warehouse 3","Aisle 3",50,NULL,"Supplier D","Low Stock",2023-03-05
+129,1379,"gadget y",CLOTHING,"Warehouse 2","Aisle 2",100,9.99,"Supplier A","In Stock",2023-04-25
+130,1699,"gadget y",CLOTHING,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier B","Out of Stock",NULL
+131,1492,"widget b",CLOTHING,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier A","Out of Stock",2023-03-05
+132,1975,"gadget x",TOYS,"Warehouse 1","Aisle 4",300,NULL,"Supplier C","In Stock",2023-01-15
+133,1040,"widget c",FURNITURE,"Warehouse 1","Aisle 3",50,29.99,"Supplier B","Low Stock",2023-01-15
+134,1782,"gadget z",FURNITURE,"Warehouse 3","Aisle 4",200,NULL,"Supplier C","In Stock",2022-12-20
+135,1156,"widget c",TOYS,"Warehouse 1","Aisle 2",300,9.99,"Supplier D","In Stock",NULL
+136,1014,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",100,19.99,"Supplier D","In Stock",2023-01-15
+137,1640,"gadget z",CLOTHING,"Warehouse 3","Aisle 5",200,29.99,"Supplier A","In Stock",2023-01-15
+138,1189,"widget a",FURNITURE,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier A","Out of Stock",2023-04-25
+139,1957,"widget a",FURNITURE,"Warehouse 2","Aisle 2",200,29.99,"Supplier A","In Stock",2023-01-15
+140,1686,"widget b",CLOTHING,"Warehouse 1","Aisle 4",NULL,NULL,"Supplier A","Out of Stock",2023-03-05
+141,1778,"widget a",CLOTHING,"Warehouse 3","Aisle 1",200,29.99,"Supplier B","In Stock",2023-01-15
+142,1987,"widget a",CLOTHING,"Warehouse 2","Aisle 4",200,19.99,"Supplier B","In Stock",NULL
+143,1957,"gadget x",TOYS,"Warehouse 3","Aisle 5",50,19.99,"Supplier A","Low Stock",2023-03-05
+144,1562,"widget b",ELECTRONICS,"Warehouse 2","Aisle 4",150,29.99,"Supplier C","In Stock",2022-12-20
+145,1875,"widget b",CLOTHING,"Warehouse 1","Aisle 5",NULL,49.99,"Supplier D","Out of Stock",2022-12-20
+146,1952,"widget a",FURNITURE,"Warehouse 3","Aisle 3",NULL,9.99,"Supplier C","Out of Stock",2023-01-15
+147,1472,"widget a",CLOTHING,"Warehouse 1","Aisle 1",50,NULL,"Supplier A","Low Stock",2022-12-20
+148,1566,"widget b",CLOTHING,"Warehouse 3","Aisle 1",200,49.99,"Supplier D","In Stock",2023-04-25
+149,1945,"widget a",CLOTHING,"Warehouse 2","Aisle 2",200,29.99,"Supplier C","In Stock",2023-04-25
+150,1812,"gadget y",CLOTHING,"Warehouse 1","Aisle 5",300,9.99,"Supplier D","In Stock",NULL
+151,1243,"gadget z",TOYS,"Warehouse 2","Aisle 1",200,9.99,"Supplier B","In Stock",2023-04-25
+152,1831,"gadget z",TOYS,"Warehouse 2","Aisle 4",300,NULL,"Supplier D","In Stock",2022-12-20
+153,1504,"widget c",CLOTHING,"Warehouse 3","Aisle 3",50,19.99,"Supplier C","Low Stock",2022-12-20
+154,1064,"widget b",TOYS,"Warehouse 1","Aisle 4",100,NULL,"Supplier A","In Stock",2022-12-20
+155,1856,"gadget x",CLOTHING,"Warehouse 1","Aisle 5",150,9.99,"Supplier D","In Stock",2022-12-20
+156,1838,"widget b",CLOTHING,"Warehouse 3","Aisle 4",150,9.99,"Supplier D","In Stock",2023-04-25
+157,1130,"widget c",ELECTRONICS,"Warehouse 3","Aisle 5",200,9.99,"Supplier C","In Stock",2023-03-05
+158,1520,"gadget y",FURNITURE,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","In Stock",2022-12-20
+159,1484,"widget b",CLOTHING,"Warehouse 3","Aisle 2",100,NULL,"Supplier C","In Stock",2022-12-20
+160,1343,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 4",300,NULL,"Supplier D","In Stock",2023-04-25
+161,1128,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 3",NULL,49.99,"Supplier A","Out of Stock",2023-01-15
+162,1150,"widget b",CLOTHING,"Warehouse 3","Aisle 5",200,29.99,"Supplier B","In Stock",2023-03-05
+163,1818,"gadget x",TOYS,"Warehouse 3","Aisle 4",150,29.99,"Supplier B","In Stock",NULL
+164,1414,"gadget z",FURNITURE,"Warehouse 1","Aisle 5",300,NULL,"Supplier D","In Stock",NULL
+165,1646,"widget a",ELECTRONICS,"Warehouse 1","Aisle 2",NULL,49.99,"Supplier A","Out of Stock",2023-01-15
+166,1838,"widget a",FURNITURE,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","Low Stock",2022-12-20
+167,1020,"gadget z",TOYS,"Warehouse 3","Aisle 4",300,19.99,"Supplier D","In Stock",2022-12-20
+168,1698,"gadget x",CLOTHING,"Warehouse 1","Aisle 3",100,29.99,"Supplier D","In Stock",2023-01-15
+169,1840,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 3",150,49.99,"Supplier C","In Stock",2023-04-25
+170,1242,"widget c",TOYS,"Warehouse 1","Aisle 5",50,29.99,"Supplier B","Low Stock",NULL
+171,1166,"gadget y",FURNITURE,"Warehouse 2","Aisle 3",50,29.99,"Supplier C","Low Stock",NULL
+172,1085,"widget b",CLOTHING,"Warehouse 2","Aisle 5",150,NULL,"Supplier D","In Stock",2022-12-20
+173,1795,"widget a",FURNITURE,"Warehouse 3","Aisle 5",50,49.99,"Supplier B","Low Stock",2022-12-20
+174,1577,"gadget y",FURNITURE,"Warehouse 2","Aisle 2",150,19.99,"Supplier B","In Stock",NULL
+175,1989,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","In Stock",2023-04-25
+176,1681,"gadget z",CLOTHING,"Warehouse 3","Aisle 5",150,49.99,"Supplier B","In Stock",2022-12-20
+177,1297,"widget c",TOYS,"Warehouse 2","Aisle 5",300,9.99,"Supplier C","In Stock",2023-04-25
+178,1556,"gadget x",CLOTHING,"Warehouse 1","Aisle 3",50,49.99,"Supplier C","Low Stock",2023-04-25
+179,1610,"widget c",CLOTHING,"Warehouse 3","Aisle 5",300,19.99,"Supplier D","In Stock",2022-12-20
+180,1573,"widget b",ELECTRONICS,"Warehouse 2","Aisle 3",200,NULL,"Supplier A","In Stock",NULL
+181,1262,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 1",100,49.99,"Supplier C","In Stock",2023-01-15
+182,1273,"gadget z",TOYS,"Warehouse 1","Aisle 3",300,NULL,"Supplier A","In Stock",2023-04-25
+183,1763,"gadget z",CLOTHING,"Warehouse 1","Aisle 4",50,29.99,"Supplier C","Low Stock",2022-12-20
+184,1143,"widget c",FURNITURE,"Warehouse 2","Aisle 3",300,49.99,"Supplier A","In Stock",2023-01-15
+185,1345,"widget c",ELECTRONICS,"Warehouse 1","Aisle 1",50,29.99,"Supplier D","Low Stock",2023-01-15
+186,1387,"gadget z",TOYS,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier C","Out of Stock",NULL
+187,1600,"widget c",CLOTHING,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier D","Out of Stock",2022-12-20
+188,1952,"widget b",FURNITURE,"Warehouse 2","Aisle 2",NULL,29.99,"Supplier B","Out of Stock",2022-12-20
+189,1645,"widget c",CLOTHING,"Warehouse 1","Aisle 2",100,49.99,"Supplier C","In Stock",2023-01-15
+190,1795,"widget c",CLOTHING,"Warehouse 1","Aisle 5",300,29.99,"Supplier B","In Stock",2023-01-15
+191,1027,"gadget y",FURNITURE,"Warehouse 1","Aisle 4",NULL,9.99,"Supplier A","Out of Stock",2023-04-25
+192,1045,"widget c",ELECTRONICS,"Warehouse 1","Aisle 1",300,29.99,"Supplier C","In Stock",2022-12-20
+193,1619,"gadget z",CLOTHING,"Warehouse 2","Aisle 2",100,29.99,"Supplier B","In Stock",NULL
+194,1372,"gadget x",CLOTHING,"Warehouse 2","Aisle 3",200,29.99,"Supplier C","In Stock",NULL
+195,1555,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 1",100,19.99,"Supplier C","In Stock",2022-12-20
+196,1339,"widget a",FURNITURE,"Warehouse 2","Aisle 3",150,19.99,"Supplier A","In Stock",2022-12-20
+197,1517,"widget a",CLOTHING,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier C","Out of Stock",2023-01-15
+198,1797,"widget a",ELECTRONICS,"Warehouse 3","Aisle 1",100,49.99,"Supplier C","In Stock",2023-01-15
+199,1098,"widget b",CLOTHING,"Warehouse 2","Aisle 1",150,49.99,"Supplier A","In Stock",NULL
+200,1957,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 3",300,29.99,"Supplier A","In Stock",2023-04-25
+201,1891,"widget c",CLOTHING,"Warehouse 2","Aisle 5",50,NULL,"Supplier B","Low Stock",NULL
+202,1744,"gadget z",TOYS,"Warehouse 1","Aisle 3",150,NULL,"Supplier A","In Stock",2023-03-05
+203,1036,"widget b",TOYS,"Warehouse 3","Aisle 4",50,29.99,"Supplier A","Low Stock",2023-03-05
+204,1279,"widget b",FURNITURE,"Warehouse 1","Aisle 3",150,19.99,"Supplier A","In Stock",NULL
+205,1348,"widget c",CLOTHING,"Warehouse 1","Aisle 5",NULL,19.99,"Supplier C","Out of Stock",2023-04-25
+206,1496,"widget b",TOYS,"Warehouse 2","Aisle 1",200,NULL,"Supplier C","In Stock",2023-03-05
+207,1301,"widget c",ELECTRONICS,"Warehouse 2","Aisle 5",NULL,19.99,"Supplier C","Out of Stock",NULL
+208,1180,"widget a",CLOTHING,"Warehouse 2","Aisle 2",300,NULL,"Supplier B","In Stock",2023-01-15
+209,1623,"widget b",FURNITURE,"Warehouse 2","Aisle 4",300,29.99,"Supplier B","In Stock",2023-04-25
+210,1606,"widget c",FURNITURE,"Warehouse 2","Aisle 2",100,49.99,"Supplier D","In Stock",2023-04-25
+211,1647,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 1",150,49.99,"Supplier A","In Stock",2022-12-20
+212,1571,"gadget x",CLOTHING,"Warehouse 3","Aisle 1",150,49.99,"Supplier C","In Stock",2023-01-15
+213,1098,"widget c",FURNITURE,"Warehouse 3","Aisle 4",200,29.99,"Supplier C","In Stock",2022-12-20
+214,1880,"gadget y",CLOTHING,"Warehouse 1","Aisle 1",100,49.99,"Supplier B","In Stock",NULL
+215,1471,"widget a",ELECTRONICS,"Warehouse 3","Aisle 4",100,29.99,"Supplier A","In Stock",2023-01-15
+216,1699,"gadget x",FURNITURE,"Warehouse 3","Aisle 5",NULL,9.99,"Supplier B","Out of Stock",NULL
+217,1001,"widget a",FURNITURE,"Warehouse 2","Aisle 5",300,19.99,"Supplier A","In Stock",NULL
+218,1062,"gadget y",CLOTHING,"Warehouse 1","Aisle 5",150,9.99,"Supplier B","In Stock",2023-01-15
+219,1330,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 3",100,49.99,"Supplier A","In Stock",2023-01-15
+220,1896,"gadget x",TOYS,"Warehouse 2","Aisle 4",150,49.99,"Supplier A","In Stock",NULL
+221,1138,"widget a",TOYS,"Warehouse 2","Aisle 3",200,29.99,"Supplier B","In Stock",2022-12-20
+222,1639,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 2",50,NULL,"Supplier D","Low Stock",2023-01-15
+223,1303,"gadget z",FURNITURE,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier D","Out of Stock",2023-04-25
+224,1498,"gadget x",TOYS,"Warehouse 2","Aisle 5",150,19.99,"Supplier C","In Stock",2023-01-15
+225,1505,"gadget z",FURNITURE,"Warehouse 3","Aisle 2",NULL,19.99,"Supplier D","Out of Stock",2023-04-25
+226,1592,"widget b",FURNITURE,"Warehouse 2","Aisle 2",300,49.99,"Supplier D","In Stock",2022-12-20
+227,1253,"widget c",CLOTHING,"Warehouse 1","Aisle 3",150,19.99,"Supplier A","In Stock",2022-12-20
+228,1992,"widget c",ELECTRONICS,"Warehouse 3","Aisle 4",300,29.99,"Supplier C","In Stock",NULL
+229,1391,"gadget z",FURNITURE,"Warehouse 2","Aisle 3",NULL,9.99,"Supplier B","Out of Stock",2022-12-20
+230,1651,"gadget x",FURNITURE,"Warehouse 1","Aisle 4",200,19.99,"Supplier A","In Stock",2023-03-05
+231,1452,"gadget y",TOYS,"Warehouse 1","Aisle 5",300,29.99,"Supplier B","In Stock",2023-01-15
+232,1674,"widget b",CLOTHING,"Warehouse 3","Aisle 4",200,19.99,"Supplier A","In Stock",2022-12-20
+233,1036,"gadget z",FURNITURE,"Warehouse 3","Aisle 2",150,29.99,"Supplier A","In Stock",2023-03-05
+234,1418,"widget a",TOYS,"Warehouse 1","Aisle 3",300,19.99,"Supplier A","In Stock",NULL
+235,1159,"widget a",TOYS,"Warehouse 3","Aisle 1",50,49.99,"Supplier A","Low Stock",2022-12-20
+236,1288,"gadget z",TOYS,"Warehouse 1","Aisle 5",300,9.99,"Supplier B","In Stock",2023-01-15
+237,1008,"widget a",TOYS,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier C","Out of Stock",2022-12-20
+238,1378,"widget b",ELECTRONICS,"Warehouse 1","Aisle 1",300,19.99,"Supplier B","In Stock",2023-03-05
+239,1772,"gadget y",CLOTHING,"Warehouse 2","Aisle 3",100,9.99,"Supplier B","In Stock",2022-12-20
+240,1232,"gadget y",FURNITURE,"Warehouse 2","Aisle 4",300,49.99,"Supplier A","In Stock",2023-04-25
+241,1098,"gadget y",FURNITURE,"Warehouse 3","Aisle 1",200,29.99,"Supplier C","In Stock",NULL
+242,1489,"widget c",CLOTHING,"Warehouse 2","Aisle 4",300,9.99,"Supplier C","In Stock",2023-01-15
+243,1230,"widget a",ELECTRONICS,"Warehouse 1","Aisle 2",100,NULL,"Supplier A","In Stock",2023-04-25
+244,1347,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 1",50,49.99,"Supplier D","Low Stock",NULL
+245,1472,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 3",300,NULL,"Supplier A","In Stock",2022-12-20
+246,1040,"widget b",CLOTHING,"Warehouse 2","Aisle 1",300,29.99,"Supplier C","In Stock",2022-12-20
+247,1230,"gadget z",CLOTHING,"Warehouse 1","Aisle 1",100,49.99,"Supplier B","In Stock",NULL
+248,1027,"widget a",CLOTHING,"Warehouse 1","Aisle 2",50,19.99,"Supplier C","Low Stock",2022-12-20
+249,1134,"widget a",FURNITURE,"Warehouse 1","Aisle 3",200,19.99,"Supplier D","In Stock",2023-03-05
+250,1115,"widget c",TOYS,"Warehouse 2","Aisle 4",100,NULL,"Supplier C","In Stock",2023-04-25
+251,1200,"gadget z",TOYS,"Warehouse 1","Aisle 5",50,NULL,"Supplier A","Low Stock",NULL
+252,1189,"widget c",FURNITURE,"Warehouse 1","Aisle 4",300,29.99,"Supplier C","In Stock",2023-03-05
+253,1190,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 2",300,NULL,"Supplier A","In Stock",2023-03-05
+254,1658,"widget c",ELECTRONICS,"Warehouse 1","Aisle 3",150,9.99,"Supplier A","In Stock",NULL
+255,1252,"widget a",CLOTHING,"Warehouse 2","Aisle 4",50,29.99,"Supplier A","Low Stock",2023-03-05
+256,1815,"widget a",CLOTHING,"Warehouse 2","Aisle 2",NULL,9.99,"Supplier A","Out of Stock",2022-12-20
+257,1224,"gadget z",FURNITURE,"Warehouse 3","Aisle 1",150,29.99,"Supplier C","In Stock",2023-03-05
+258,1980,"gadget x",FURNITURE,"Warehouse 3","Aisle 2",50,NULL,"Supplier A","Low Stock",2023-03-05
+259,1207,"gadget z",TOYS,"Warehouse 3","Aisle 3",300,49.99,"Supplier D","In Stock",2023-04-25
+260,1384,"gadget z",TOYS,"Warehouse 2","Aisle 5",50,29.99,"Supplier C","Low Stock",2023-03-05
+261,1927,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 1",150,19.99,"Supplier B","In Stock",2022-12-20
+262,1130,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 4",NULL,29.99,"Supplier D","Out of Stock",2023-04-25
+263,1376,"gadget z",FURNITURE,"Warehouse 3","Aisle 1",50,29.99,"Supplier D","Low Stock",2023-04-25
+264,1982,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 5",200,19.99,"Supplier D","In Stock",2023-04-25
+265,1282,"widget a",FURNITURE,"Warehouse 2","Aisle 5",200,9.99,"Supplier A","In Stock",2023-01-15
+266,1160,"widget a",TOYS,"Warehouse 1","Aisle 4",50,NULL,"Supplier D","Low Stock",2023-04-25
+267,1957,"widget c",TOYS,"Warehouse 3","Aisle 5",100,NULL,"Supplier D","In Stock",NULL
+268,1403,"gadget z",FURNITURE,"Warehouse 2","Aisle 1",200,29.99,"Supplier C","In Stock",2023-01-15
+269,1255,"widget a",TOYS,"Warehouse 2","Aisle 2",300,NULL,"Supplier B","In Stock",2023-03-05
+270,1151,"widget b",CLOTHING,"Warehouse 2","Aisle 4",150,19.99,"Supplier A","In Stock",NULL
+271,1322,"gadget y",FURNITURE,"Warehouse 1","Aisle 3",200,19.99,"Supplier C","In Stock",2023-03-05
+272,1839,"gadget z",CLOTHING,"Warehouse 1","Aisle 5",300,NULL,"Supplier A","In Stock",NULL
+273,1053,"widget b",ELECTRONICS,"Warehouse 2","Aisle 1",NULL,NULL,"Supplier B","Out of Stock",2022-12-20
+274,1632,"widget c",FURNITURE,"Warehouse 1","Aisle 5",150,NULL,"Supplier B","In Stock",2022-12-20
+275,1127,"widget c",ELECTRONICS,"Warehouse 1","Aisle 4",50,NULL,"Supplier B","Low Stock",2023-01-15
+276,1779,"widget c",FURNITURE,"Warehouse 1","Aisle 4",200,NULL,"Supplier B","In Stock",2022-12-20
+277,1627,"gadget y",FURNITURE,"Warehouse 2","Aisle 4",50,29.99,"Supplier A","Low Stock",2023-03-05
+278,1017,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 1",150,NULL,"Supplier C","In Stock",2023-01-15
+279,1929,"gadget y",TOYS,"Warehouse 1","Aisle 5",200,49.99,"Supplier B","In Stock",2023-01-15
+280,1119,"gadget y",TOYS,"Warehouse 3","Aisle 5",NULL,49.99,"Supplier D","Out of Stock",2023-03-05
+281,1672,"widget c",ELECTRONICS,"Warehouse 3","Aisle 2",100,NULL,"Supplier B","In Stock",NULL
+282,1919,"widget b",TOYS,"Warehouse 3","Aisle 5",NULL,NULL,"Supplier D","Out of Stock",2023-01-15
+283,1032,"widget a",ELECTRONICS,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier D","Out of Stock",2023-04-25
+284,1047,"widget b",FURNITURE,"Warehouse 2","Aisle 5",50,49.99,"Supplier C","Low Stock",2023-04-25
+285,1627,"widget a",FURNITURE,"Warehouse 1","Aisle 5",100,49.99,"Supplier D","In Stock",2023-04-25
+286,1502,"gadget x",FURNITURE,"Warehouse 1","Aisle 4",NULL,9.99,"Supplier B","Out of Stock",2023-01-15
+287,1586,"gadget z",CLOTHING,"Warehouse 3","Aisle 4",150,29.99,"Supplier A","In Stock",2022-12-20
+288,1624,"gadget z",CLOTHING,"Warehouse 2","Aisle 2",300,49.99,"Supplier D","In Stock",NULL
+289,1967,"gadget y",CLOTHING,"Warehouse 3","Aisle 1",300,NULL,"Supplier B","In Stock",2023-03-05
+290,1972,"gadget x",FURNITURE,"Warehouse 3","Aisle 1",50,9.99,"Supplier C","Low Stock",NULL
+291,1744,"gadget z",FURNITURE,"Warehouse 1","Aisle 1",150,29.99,"Supplier D","In Stock",2023-03-05
+292,1419,"gadget x",FURNITURE,"Warehouse 2","Aisle 1",150,29.99,"Supplier D","In Stock",2023-01-15
+293,1258,"widget b",TOYS,"Warehouse 1","Aisle 4",300,9.99,"Supplier D","In Stock",2023-03-05
+294,1358,"gadget x",FURNITURE,"Warehouse 3","Aisle 3",300,29.99,"Supplier B","In Stock",2022-12-20
+295,1421,"gadget y",TOYS,"Warehouse 1","Aisle 3",150,9.99,"Supplier C","In Stock",2023-01-15
+296,1406,"widget a",TOYS,"Warehouse 1","Aisle 3",200,19.99,"Supplier B","In Stock",2022-12-20
+297,1709,"gadget x",FURNITURE,"Warehouse 2","Aisle 2",100,19.99,"Supplier B","In Stock",2023-04-25
+298,1103,"gadget x",FURNITURE,"Warehouse 2","Aisle 1",50,49.99,"Supplier A","Low Stock",NULL
+299,1792,"widget b",TOYS,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier B","Out of Stock",NULL
+300,1573,"widget a",ELECTRONICS,"Warehouse 2","Aisle 3",100,29.99,"Supplier A","In Stock",2023-04-25
+301,1455,"widget c",TOYS,"Warehouse 2","Aisle 1",200,19.99,"Supplier D","In Stock",2023-01-15
+302,1851,"gadget y",CLOTHING,"Warehouse 2","Aisle 4",150,49.99,"Supplier A","In Stock",2023-03-05
+303,1727,"widget c",FURNITURE,"Warehouse 2","Aisle 5",200,9.99,"Supplier A","In Stock",NULL
+304,1410,"gadget x",CLOTHING,"Warehouse 1","Aisle 2",50,49.99,"Supplier B","Low Stock",2023-04-25
+305,1253,"gadget y",FURNITURE,"Warehouse 2","Aisle 5",NULL,29.99,"Supplier C","Out of Stock",2023-01-15
+306,1804,"gadget y",CLOTHING,"Warehouse 2","Aisle 2",NULL,19.99,"Supplier B","Out of Stock",2023-01-15
+307,1226,"gadget y",FURNITURE,"Warehouse 1","Aisle 5",300,9.99,"Supplier C","In Stock",2022-12-20
+308,1111,"gadget x",FURNITURE,"Warehouse 3","Aisle 5",200,9.99,"Supplier C","In Stock",2023-01-15
+309,1648,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 4",200,29.99,"Supplier C","In Stock",NULL
+310,1317,"gadget z",CLOTHING,"Warehouse 2","Aisle 3",300,NULL,"Supplier B","In Stock",2023-04-25
+311,1098,"gadget x",CLOTHING,"Warehouse 1","Aisle 3",50,19.99,"Supplier A","Low Stock",2023-03-05
+312,1676,"widget a",TOYS,"Warehouse 2","Aisle 3",300,49.99,"Supplier B","In Stock",NULL
+313,1683,"gadget z",CLOTHING,"Warehouse 3","Aisle 5",300,NULL,"Supplier D","In Stock",2022-12-20
+314,1734,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 3",150,9.99,"Supplier B","In Stock",NULL
+315,1224,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,19.99,"Supplier D","Out of Stock",NULL
+316,1565,"widget b",ELECTRONICS,"Warehouse 3","Aisle 2",100,19.99,"Supplier B","In Stock",2023-04-25
+317,1818,"gadget z",TOYS,"Warehouse 3","Aisle 4",100,29.99,"Supplier D","In Stock",2023-01-15
+318,1871,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 4",300,NULL,"Supplier B","In Stock",2023-01-15
+319,1233,"widget c",TOYS,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier A","Out of Stock",2022-12-20
+320,1725,"widget b",FURNITURE,"Warehouse 2","Aisle 5",50,9.99,"Supplier A","Low Stock",2023-04-25
+321,1683,"gadget z",FURNITURE,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier A","Out of Stock",2023-01-15
+322,1986,"gadget x",CLOTHING,"Warehouse 3","Aisle 3",300,NULL,"Supplier D","In Stock",2022-12-20
+323,1509,"gadget x",TOYS,"Warehouse 3","Aisle 2",300,29.99,"Supplier D","In Stock",2023-03-05
+324,1569,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 4",50,29.99,"Supplier D","Low Stock",2023-04-25
+325,1546,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 4",300,19.99,"Supplier A","In Stock",NULL
+326,1322,"widget a",TOYS,"Warehouse 1","Aisle 2",100,9.99,"Supplier A","In Stock",2022-12-20
+327,1960,"widget b",CLOTHING,"Warehouse 1","Aisle 5",NULL,NULL,"Supplier A","Out of Stock",2022-12-20
+328,1663,"widget a",ELECTRONICS,"Warehouse 1","Aisle 2",NULL,19.99,"Supplier D","Out of Stock",2023-04-25
+329,1871,"widget a",FURNITURE,"Warehouse 2","Aisle 1",100,NULL,"Supplier B","In Stock",2022-12-20
+330,1974,"widget b",FURNITURE,"Warehouse 3","Aisle 5",100,49.99,"Supplier B","In Stock",NULL
+331,1685,"gadget x",CLOTHING,"Warehouse 1","Aisle 2",300,NULL,"Supplier D","In Stock",2023-01-15
+332,1738,"gadget y",TOYS,"Warehouse 3","Aisle 1",50,49.99,"Supplier A","Low Stock",2022-12-20
+333,1791,"widget a",FURNITURE,"Warehouse 3","Aisle 1",200,29.99,"Supplier A","In Stock",NULL
+334,1826,"widget c",ELECTRONICS,"Warehouse 2","Aisle 5",100,19.99,"Supplier B","In Stock",2023-03-05
+335,1373,"widget b",TOYS,"Warehouse 2","Aisle 3",150,9.99,"Supplier A","In Stock",2023-03-05
+336,1612,"widget b",FURNITURE,"Warehouse 1","Aisle 4",150,NULL,"Supplier B","In Stock",NULL
+337,1625,"widget a",CLOTHING,"Warehouse 3","Aisle 2",300,NULL,"Supplier A","In Stock",2023-01-15
+338,1671,"widget c",TOYS,"Warehouse 3","Aisle 3",200,19.99,"Supplier A","In Stock",NULL
+339,1942,"gadget z",FURNITURE,"Warehouse 3","Aisle 1",100,19.99,"Supplier C","In Stock",NULL
+340,1472,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 1",100,19.99,"Supplier A","In Stock",2023-04-25
+341,1287,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 3",50,49.99,"Supplier B","Low Stock",2023-01-15
+342,1607,"gadget y",CLOTHING,"Warehouse 3","Aisle 2",200,29.99,"Supplier A","In Stock",2023-01-15
+343,1461,"widget c",ELECTRONICS,"Warehouse 1","Aisle 2",100,9.99,"Supplier A","In Stock",2022-12-20
+344,1098,"widget b",ELECTRONICS,"Warehouse 2","Aisle 4",300,49.99,"Supplier C","In Stock",2023-04-25
+345,1942,"gadget z",FURNITURE,"Warehouse 3","Aisle 5",100,29.99,"Supplier C","In Stock",NULL
+346,1471,"gadget x",ELECTRONICS,"Warehouse 1","Aisle 1",150,NULL,"Supplier C","In Stock",2022-12-20
+347,1642,"widget c",ELECTRONICS,"Warehouse 3","Aisle 4",300,29.99,"Supplier D","In Stock",NULL
+348,1152,"widget c",FURNITURE,"Warehouse 3","Aisle 2",50,49.99,"Supplier D","Low Stock",NULL
+349,1853,"gadget z",CLOTHING,"Warehouse 3","Aisle 3",NULL,9.99,"Supplier C","Out of Stock",2022-12-20
+350,1768,"widget c",FURNITURE,"Warehouse 1","Aisle 1",100,NULL,"Supplier B","In Stock",2023-01-15
+351,1662,"gadget x",TOYS,"Warehouse 2","Aisle 3",100,29.99,"Supplier C","In Stock",NULL
+352,1961,"gadget y",TOYS,"Warehouse 3","Aisle 5",NULL,19.99,"Supplier B","Out of Stock",2023-03-05
+353,1004,"gadget z",CLOTHING,"Warehouse 1","Aisle 3",50,19.99,"Supplier B","Low Stock",NULL
+354,1638,"widget a",FURNITURE,"Warehouse 3","Aisle 5",300,29.99,"Supplier C","In Stock",2023-03-05
+355,1154,"widget a",FURNITURE,"Warehouse 3","Aisle 4",300,NULL,"Supplier D","In Stock",2023-03-05
+356,1217,"widget c",CLOTHING,"Warehouse 3","Aisle 3",50,29.99,"Supplier D","Low Stock",NULL
+357,1489,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 4",200,NULL,"Supplier D","In Stock",2023-04-25
+358,1502,"gadget x",TOYS,"Warehouse 1","Aisle 2",200,29.99,"Supplier A","In Stock",2022-12-20
+359,1385,"gadget z",FURNITURE,"Warehouse 2","Aisle 3",100,49.99,"Supplier D","In Stock",2022-12-20
+360,1766,"gadget y",CLOTHING,"Warehouse 1","Aisle 4",200,49.99,"Supplier C","In Stock",2023-01-15
+361,1985,"widget c",ELECTRONICS,"Warehouse 2","Aisle 3",150,49.99,"Supplier D","In Stock",2022-12-20
+362,1860,"widget c",ELECTRONICS,"Warehouse 1","Aisle 3",150,NULL,"Supplier C","In Stock",2023-03-05
+363,1397,"widget b",ELECTRONICS,"Warehouse 1","Aisle 4",100,29.99,"Supplier A","In Stock",2023-03-05
+364,1913,"widget c",ELECTRONICS,"Warehouse 3","Aisle 4",150,29.99,"Supplier B","In Stock",2023-01-15
+365,1870,"widget b",ELECTRONICS,"Warehouse 3","Aisle 4",150,19.99,"Supplier D","In Stock",2023-03-05
+366,1895,"gadget x",FURNITURE,"Warehouse 1","Aisle 4",300,NULL,"Supplier B","In Stock",2023-01-15
+367,1794,"gadget z",CLOTHING,"Warehouse 3","Aisle 2",200,19.99,"Supplier B","In Stock",2023-04-25
+368,1232,"gadget y",FURNITURE,"Warehouse 1","Aisle 2",150,19.99,"Supplier C","In Stock",2023-01-15
+369,1392,"widget c",ELECTRONICS,"Warehouse 1","Aisle 4",200,NULL,"Supplier C","In Stock",NULL
+370,1691,"gadget z",CLOTHING,"Warehouse 3","Aisle 2",300,NULL,"Supplier A","In Stock",NULL
+371,1112,"widget b",CLOTHING,"Warehouse 2","Aisle 4",NULL,9.99,"Supplier B","Out of Stock",NULL
+372,1829,"gadget z",CLOTHING,"Warehouse 1","Aisle 4",150,49.99,"Supplier A","In Stock",2022-12-20
+373,1206,"widget c",FURNITURE,"Warehouse 1","Aisle 3",50,NULL,"Supplier B","Low Stock",NULL
+374,1496,"gadget x",FURNITURE,"Warehouse 1","Aisle 2",50,49.99,"Supplier C","Low Stock",2023-04-25
+375,1014,"widget a",FURNITURE,"Warehouse 3","Aisle 1",150,NULL,"Supplier D","In Stock",2023-01-15
+376,1441,"widget c",CLOTHING,"Warehouse 2","Aisle 2",200,NULL,"Supplier B","In Stock",2023-04-25
+377,1857,"gadget y",CLOTHING,"Warehouse 3","Aisle 3",300,29.99,"Supplier A","In Stock",2023-03-05
+378,1563,"gadget x",FURNITURE,"Warehouse 1","Aisle 2",150,49.99,"Supplier C","In Stock",2022-12-20
+379,1553,"gadget x",FURNITURE,"Warehouse 1","Aisle 3",100,29.99,"Supplier C","In Stock",2023-04-25
+380,1891,"widget b",FURNITURE,"Warehouse 1","Aisle 1",200,49.99,"Supplier B","In Stock",2023-01-15
+381,1460,"widget a",TOYS,"Warehouse 1","Aisle 3",150,NULL,"Supplier B","In Stock",NULL
+382,1690,"widget a",TOYS,"Warehouse 2","Aisle 2",150,9.99,"Supplier B","In Stock",2023-03-05
+383,1574,"gadget z",FURNITURE,"Warehouse 3","Aisle 1",100,49.99,"Supplier A","In Stock",2023-04-25
+384,1863,"widget b",CLOTHING,"Warehouse 2","Aisle 3",150,9.99,"Supplier C","In Stock",2022-12-20
+385,1742,"gadget z",TOYS,"Warehouse 3","Aisle 5",150,29.99,"Supplier A","In Stock",2023-03-05
+386,1240,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 3",150,49.99,"Supplier A","In Stock",2023-04-25
+387,1563,"widget a",ELECTRONICS,"Warehouse 3","Aisle 2",200,49.99,"Supplier A","In Stock",2023-01-15
+388,1095,"widget a",ELECTRONICS,"Warehouse 3","Aisle 4",100,19.99,"Supplier D","In Stock",2022-12-20
+389,1899,"gadget y",CLOTHING,"Warehouse 3","Aisle 3",150,29.99,"Supplier D","In Stock",2023-04-25
+390,1784,"widget c",ELECTRONICS,"Warehouse 2","Aisle 1",300,49.99,"Supplier A","In Stock",2023-04-25
+391,1057,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 5",150,19.99,"Supplier D","In Stock",2023-04-25
+392,1950,"widget c",FURNITURE,"Warehouse 1","Aisle 2",300,9.99,"Supplier D","In Stock",NULL
+393,1345,"gadget x",FURNITURE,"Warehouse 2","Aisle 4",NULL,29.99,"Supplier D","Out of Stock",2023-01-15
+394,1103,"widget c",TOYS,"Warehouse 1","Aisle 1",300,9.99,"Supplier D","In Stock",2023-01-15
+395,1740,"widget b",CLOTHING,"Warehouse 3","Aisle 2",200,NULL,"Supplier C","In Stock",2022-12-20
+396,1928,"gadget z",TOYS,"Warehouse 1","Aisle 4",200,49.99,"Supplier C","In Stock",2023-03-05
+397,1473,"gadget z",FURNITURE,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier C","Out of Stock",NULL
+398,1392,"gadget z",CLOTHING,"Warehouse 2","Aisle 4",NULL,9.99,"Supplier B","Out of Stock",2023-03-05
+399,1116,"gadget x",TOYS,"Warehouse 3","Aisle 5",100,29.99,"Supplier D","In Stock",NULL
+400,1810,"gadget y",TOYS,"Warehouse 1","Aisle 1",200,49.99,"Supplier C","In Stock",2023-01-15
+401,1245,"widget a",TOYS,"Warehouse 2","Aisle 1",100,9.99,"Supplier D","In Stock",NULL
+402,1829,"widget a",FURNITURE,"Warehouse 3","Aisle 3",NULL,29.99,"Supplier A","Out of Stock",2023-04-25
+403,1175,"gadget y",FURNITURE,"Warehouse 1","Aisle 2",50,29.99,"Supplier A","Low Stock",NULL
+404,1790,"widget b",FURNITURE,"Warehouse 1","Aisle 1",150,29.99,"Supplier A","In Stock",2023-01-15
+405,1038,"gadget y",TOYS,"Warehouse 3","Aisle 2",50,29.99,"Supplier D","Low Stock",2022-12-20
+406,1476,"gadget z",CLOTHING,"Warehouse 3","Aisle 1",NULL,NULL,"Supplier B","Out of Stock",2023-04-25
+407,1681,"widget c",FURNITURE,"Warehouse 2","Aisle 2",300,9.99,"Supplier C","In Stock",2022-12-20
+408,1758,"widget b",CLOTHING,"Warehouse 1","Aisle 5",NULL,19.99,"Supplier B","Out of Stock",NULL
+409,1537,"widget a",TOYS,"Warehouse 1","Aisle 4",300,NULL,"Supplier B","In Stock",2023-01-15
+410,1866,"gadget z",CLOTHING,"Warehouse 3","Aisle 4",300,29.99,"Supplier B","In Stock",2022-12-20
+411,1817,"widget c",FURNITURE,"Warehouse 3","Aisle 1",50,9.99,"Supplier C","Low Stock",2023-03-05
+412,1267,"widget a",CLOTHING,"Warehouse 2","Aisle 5",50,19.99,"Supplier B","Low Stock",2023-04-25
+413,1509,"gadget x",FURNITURE,"Warehouse 2","Aisle 4",50,NULL,"Supplier C","Low Stock",2023-03-05
+414,1806,"widget a",TOYS,"Warehouse 2","Aisle 2",50,29.99,"Supplier B","Low Stock",2023-04-25
+415,1385,"gadget x",TOYS,"Warehouse 3","Aisle 3",300,19.99,"Supplier B","In Stock",2023-04-25
+416,1920,"widget b",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier D","Out of Stock",2023-03-05
+417,1386,"widget a",TOYS,"Warehouse 3","Aisle 3",300,19.99,"Supplier B","In Stock",2023-04-25
+418,1407,"widget b",CLOTHING,"Warehouse 1","Aisle 1",200,19.99,"Supplier B","In Stock",2023-01-15
+419,1112,"widget b",TOYS,"Warehouse 3","Aisle 5",50,19.99,"Supplier B","Low Stock",2023-03-05
+420,1524,"gadget z",CLOTHING,"Warehouse 1","Aisle 2",300,29.99,"Supplier C","In Stock",NULL
+421,1126,"gadget z",FURNITURE,"Warehouse 3","Aisle 5",150,19.99,"Supplier C","In Stock",2022-12-20
+422,1827,"gadget x",FURNITURE,"Warehouse 1","Aisle 3",150,NULL,"Supplier A","In Stock",2023-03-05
+423,1392,"widget c",ELECTRONICS,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier C","Out of Stock",NULL
+424,1505,"widget a",FURNITURE,"Warehouse 1","Aisle 2",150,9.99,"Supplier C","In Stock",2023-03-05
+425,1907,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 4",150,49.99,"Supplier C","In Stock",2022-12-20
+426,1612,"gadget z",TOYS,"Warehouse 2","Aisle 5",300,29.99,"Supplier D","In Stock",2023-04-25
+427,1640,"widget a",TOYS,"Warehouse 3","Aisle 5",200,49.99,"Supplier D","In Stock",2023-03-05
+428,1057,"widget b",TOYS,"Warehouse 1","Aisle 5",300,9.99,"Supplier A","In Stock",NULL
+429,1902,"widget b",CLOTHING,"Warehouse 1","Aisle 5",200,19.99,"Supplier A","In Stock",2023-04-25
+430,1633,"widget c",ELECTRONICS,"Warehouse 3","Aisle 2",NULL,19.99,"Supplier C","Out of Stock",NULL
+431,1624,"gadget z",CLOTHING,"Warehouse 2","Aisle 1",NULL,9.99,"Supplier C","Out of Stock",2023-03-05
+432,1824,"gadget z",TOYS,"Warehouse 2","Aisle 2",150,9.99,"Supplier C","In Stock",2022-12-20
+433,1512,"widget a",TOYS,"Warehouse 3","Aisle 4",200,19.99,"Supplier C","In Stock",2023-03-05
+434,1951,"gadget y",CLOTHING,"Warehouse 3","Aisle 1",50,49.99,"Supplier C","Low Stock",2022-12-20
+435,1877,"gadget x",FURNITURE,"Warehouse 2","Aisle 4",200,NULL,"Supplier A","In Stock",2023-04-25
+436,1750,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 1",300,19.99,"Supplier B","In Stock",2023-04-25
+437,1080,"gadget z",CLOTHING,"Warehouse 1","Aisle 1",NULL,NULL,"Supplier D","Out of Stock",2023-01-15
+438,1035,"gadget z",CLOTHING,"Warehouse 1","Aisle 5",100,49.99,"Supplier D","In Stock",NULL
+439,1801,"widget a",CLOTHING,"Warehouse 1","Aisle 3",300,49.99,"Supplier D","In Stock",NULL
+440,1698,"widget c",FURNITURE,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier B","Out of Stock",2022-12-20
+441,1684,"widget c",FURNITURE,"Warehouse 3","Aisle 5",300,NULL,"Supplier B","In Stock",2022-12-20
+442,1095,"widget b",FURNITURE,"Warehouse 1","Aisle 2",200,29.99,"Supplier B","In Stock",2022-12-20
+443,1112,"gadget x",FURNITURE,"Warehouse 1","Aisle 5",50,NULL,"Supplier B","Low Stock",2023-01-15
+444,1019,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 2",200,9.99,"Supplier D","In Stock",NULL
+445,1637,"gadget y",FURNITURE,"Warehouse 1","Aisle 3",50,NULL,"Supplier A","Low Stock",2023-01-15
+446,1320,"widget a",ELECTRONICS,"Warehouse 1","Aisle 2",NULL,29.99,"Supplier C","Out of Stock",2023-03-05
+447,1117,"widget a",TOYS,"Warehouse 3","Aisle 1",NULL,49.99,"Supplier B","Out of Stock",2022-12-20
+448,1001,"gadget y",FURNITURE,"Warehouse 1","Aisle 5",200,49.99,"Supplier C","In Stock",2022-12-20
+449,1559,"widget a",ELECTRONICS,"Warehouse 1","Aisle 1",300,19.99,"Supplier B","In Stock",2023-04-25
+450,1641,"widget c",FURNITURE,"Warehouse 2","Aisle 3",50,29.99,"Supplier D","Low Stock",2023-01-15
+451,1600,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 5",300,49.99,"Supplier B","In Stock",2023-01-15
+452,1775,"gadget y",TOYS,"Warehouse 3","Aisle 5",300,NULL,"Supplier B","In Stock",2023-04-25
+453,1487,"gadget z",TOYS,"Warehouse 3","Aisle 1",150,9.99,"Supplier D","In Stock",2022-12-20
+454,1511,"widget c",CLOTHING,"Warehouse 2","Aisle 3",200,29.99,"Supplier A","In Stock",2022-12-20
+455,1236,"widget c",ELECTRONICS,"Warehouse 2","Aisle 3",300,19.99,"Supplier A","In Stock",2022-12-20
+456,1399,"widget b",ELECTRONICS,"Warehouse 3","Aisle 5",50,9.99,"Supplier C","Low Stock",2023-03-05
+457,1219,"widget c",TOYS,"Warehouse 2","Aisle 5",50,19.99,"Supplier B","Low Stock",2023-01-15
+458,1337,"widget b",CLOTHING,"Warehouse 3","Aisle 5",200,9.99,"Supplier D","In Stock",2023-04-25
+459,1884,"gadget z",CLOTHING,"Warehouse 2","Aisle 4",200,9.99,"Supplier B","In Stock",2023-03-05
+460,1565,"widget a",TOYS,"Warehouse 1","Aisle 3",300,19.99,"Supplier B","In Stock",NULL
+461,1896,"gadget x",FURNITURE,"Warehouse 2","Aisle 4",300,19.99,"Supplier D","In Stock",2023-04-25
+462,1854,"gadget z",TOYS,"Warehouse 1","Aisle 1",50,29.99,"Supplier B","Low Stock",2023-01-15
+463,1653,"widget b",CLOTHING,"Warehouse 1","Aisle 4",NULL,NULL,"Supplier B","Out of Stock",NULL
+464,1271,"widget b",TOYS,"Warehouse 2","Aisle 5",50,49.99,"Supplier A","Low Stock",2023-03-05
+465,1996,"widget b",ELECTRONICS,"Warehouse 3","Aisle 1",200,9.99,"Supplier A","In Stock",2023-01-15
+466,1188,"widget b",TOYS,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier C","Out of Stock",2023-01-15
+467,1705,"widget c",ELECTRONICS,"Warehouse 1","Aisle 4",50,49.99,"Supplier B","Low Stock",2022-12-20
+468,1998,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier B","Out of Stock",2023-03-05
+469,1821,"widget c",TOYS,"Warehouse 3","Aisle 1",100,NULL,"Supplier B","In Stock",2023-04-25
+470,1735,"widget b",CLOTHING,"Warehouse 3","Aisle 1",300,9.99,"Supplier D","In Stock",NULL
+471,1703,"gadget y",TOYS,"Warehouse 3","Aisle 1",300,9.99,"Supplier A","In Stock",2023-04-25
+472,1162,"gadget y",FURNITURE,"Warehouse 3","Aisle 4",300,9.99,"Supplier D","In Stock",2022-12-20
+473,1446,"widget b",CLOTHING,"Warehouse 1","Aisle 3",100,49.99,"Supplier B","In Stock",NULL
+474,1719,"gadget x",CLOTHING,"Warehouse 3","Aisle 5",150,29.99,"Supplier C","In Stock",2023-01-15
+475,1971,"widget c",FURNITURE,"Warehouse 1","Aisle 5",50,29.99,"Supplier A","Low Stock",2022-12-20
+476,1956,"widget c",TOYS,"Warehouse 3","Aisle 4",300,NULL,"Supplier D","In Stock",2022-12-20
+477,1882,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 3",300,49.99,"Supplier A","In Stock",2022-12-20
+478,1680,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 3",50,49.99,"Supplier C","Low Stock",2022-12-20
+479,1995,"widget b",CLOTHING,"Warehouse 2","Aisle 3",NULL,NULL,"Supplier B","Out of Stock",NULL
+480,1470,"widget b",TOYS,"Warehouse 1","Aisle 4",NULL,49.99,"Supplier D","Out of Stock",2023-03-05
+481,1580,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 2",100,29.99,"Supplier C","In Stock",NULL
+482,1160,"gadget z",FURNITURE,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier B","Out of Stock",2023-04-25
+483,1142,"gadget x",FURNITURE,"Warehouse 2","Aisle 1",150,9.99,"Supplier C","In Stock",2022-12-20
+484,1789,"widget c",ELECTRONICS,"Warehouse 3","Aisle 1",200,49.99,"Supplier A","In Stock",2023-01-15
+485,1579,"gadget z",TOYS,"Warehouse 1","Aisle 1",50,NULL,"Supplier B","Low Stock",2022-12-20
+486,1091,"widget a",TOYS,"Warehouse 2","Aisle 1",200,NULL,"Supplier A","In Stock",2023-04-25
+487,1860,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 2",100,9.99,"Supplier D","In Stock",NULL
+488,1353,"gadget x",FURNITURE,"Warehouse 3","Aisle 3",300,19.99,"Supplier B","In Stock",2023-04-25
+489,1246,"widget b",ELECTRONICS,"Warehouse 3","Aisle 5",200,NULL,"Supplier A","In Stock",2023-03-05
+490,1962,"gadget y",CLOTHING,"Warehouse 2","Aisle 4",150,49.99,"Supplier D","In Stock",2023-01-15
+491,1833,"widget b",ELECTRONICS,"Warehouse 1","Aisle 5",100,NULL,"Supplier A","In Stock",2023-03-05
+492,1075,"widget b",ELECTRONICS,"Warehouse 1","Aisle 5",200,19.99,"Supplier A","In Stock",2023-04-25
+493,1153,"gadget x",TOYS,"Warehouse 1","Aisle 4",100,29.99,"Supplier D","In Stock",2023-01-15
+494,1224,"gadget y",FURNITURE,"Warehouse 2","Aisle 2",100,NULL,"Supplier B","In Stock",2023-04-25
+495,1655,"widget a",CLOTHING,"Warehouse 3","Aisle 5",300,49.99,"Supplier C","In Stock",2023-01-15
+496,1384,"widget b",FURNITURE,"Warehouse 3","Aisle 2",100,29.99,"Supplier A","In Stock",2023-04-25
+497,1434,"gadget z",FURNITURE,"Warehouse 1","Aisle 3",150,29.99,"Supplier C","In Stock",2022-12-20
+498,1996,"widget b",FURNITURE,"Warehouse 3","Aisle 2",100,19.99,"Supplier C","In Stock",2022-12-20
+499,1085,"widget a",TOYS,"Warehouse 1","Aisle 4",200,NULL,"Supplier A","In Stock",2023-01-15
+500,1402,"gadget x",TOYS,"Warehouse 3","Aisle 4",NULL,9.99,"Supplier D","Out of Stock",NULL
+501,1696,"gadget y",TOYS,"Warehouse 2","Aisle 1",50,NULL,"Supplier C","Low Stock",NULL
+502,1637,"widget b",FURNITURE,"Warehouse 3","Aisle 4",NULL,29.99,"Supplier B","Out of Stock",2023-03-05
+503,1284,"widget a",CLOTHING,"Warehouse 2","Aisle 2",NULL,19.99,"Supplier B","Out of Stock",2022-12-20
+504,1129,"gadget y",FURNITURE,"Warehouse 3","Aisle 4",200,49.99,"Supplier C","In Stock",2023-01-15
+505,1973,"gadget z",FURNITURE,"Warehouse 2","Aisle 1",100,29.99,"Supplier C","In Stock",2023-04-25
+506,1219,"widget b",FURNITURE,"Warehouse 2","Aisle 2",200,49.99,"Supplier D","In Stock",2023-03-05
+507,1068,"gadget x",FURNITURE,"Warehouse 3","Aisle 2",150,19.99,"Supplier D","In Stock",2022-12-20
+508,1046,"gadget y",FURNITURE,"Warehouse 1","Aisle 5",100,9.99,"Supplier D","In Stock",2023-01-15
+509,1800,"widget b",FURNITURE,"Warehouse 1","Aisle 1",150,49.99,"Supplier A","In Stock",2023-01-15
+510,1093,"widget b",FURNITURE,"Warehouse 3","Aisle 4",100,29.99,"Supplier A","In Stock",NULL
+511,1749,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 4",NULL,NULL,"Supplier B","Out of Stock",2023-03-05
+512,1957,"gadget y",TOYS,"Warehouse 3","Aisle 2",200,19.99,"Supplier C","In Stock",2022-12-20
+513,1397,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 2",50,9.99,"Supplier A","Low Stock",2023-03-05
+514,1799,"gadget y",TOYS,"Warehouse 3","Aisle 2",NULL,49.99,"Supplier A","Out of Stock",NULL
+515,1052,"widget b",CLOTHING,"Warehouse 1","Aisle 2",150,19.99,"Supplier A","In Stock",2023-01-15
+516,1276,"widget c",TOYS,"Warehouse 3","Aisle 5",150,49.99,"Supplier A","In Stock",2022-12-20
+517,1683,"gadget x",TOYS,"Warehouse 2","Aisle 2",100,19.99,"Supplier A","In Stock",NULL
+518,1729,"widget a",CLOTHING,"Warehouse 3","Aisle 4",NULL,19.99,"Supplier B","Out of Stock",NULL
+519,1452,"widget c",ELECTRONICS,"Warehouse 1","Aisle 3",50,NULL,"Supplier B","Low Stock",NULL
+520,1671,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 4",100,29.99,"Supplier B","In Stock",2023-03-05
+521,1726,"widget a",TOYS,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier D","Out of Stock",2023-03-05
+522,1203,"widget a",FURNITURE,"Warehouse 3","Aisle 3",150,29.99,"Supplier B","In Stock",NULL
+523,1815,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 4",200,9.99,"Supplier D","In Stock",2023-04-25
+524,1958,"widget a",FURNITURE,"Warehouse 1","Aisle 4",300,19.99,"Supplier D","In Stock",2023-04-25
+525,1911,"gadget z",CLOTHING,"Warehouse 1","Aisle 1",200,NULL,"Supplier D","In Stock",NULL
+526,1915,"widget b",ELECTRONICS,"Warehouse 3","Aisle 5",50,19.99,"Supplier B","Low Stock",NULL
+527,1853,"widget c",TOYS,"Warehouse 1","Aisle 4",300,9.99,"Supplier B","In Stock",2023-01-15
+528,1709,"widget a",ELECTRONICS,"Warehouse 1","Aisle 5",200,29.99,"Supplier A","In Stock",2023-04-25
+529,1217,"widget c",CLOTHING,"Warehouse 3","Aisle 1",150,19.99,"Supplier D","In Stock",2023-01-15
+530,1503,"gadget y",CLOTHING,"Warehouse 2","Aisle 2",150,49.99,"Supplier B","In Stock",2023-01-15
+531,1050,"widget c",FURNITURE,"Warehouse 2","Aisle 1",50,19.99,"Supplier D","Low Stock",2023-01-15
+532,1415,"widget a",ELECTRONICS,"Warehouse 1","Aisle 4",200,NULL,"Supplier C","In Stock",2022-12-20
+533,1895,"gadget z",FURNITURE,"Warehouse 3","Aisle 5",50,49.99,"Supplier D","Low Stock",NULL
+534,1664,"gadget y",FURNITURE,"Warehouse 2","Aisle 4",150,9.99,"Supplier A","In Stock",2022-12-20
+535,1246,"widget a",TOYS,"Warehouse 3","Aisle 5",150,19.99,"Supplier C","In Stock",2023-04-25
+536,1835,"widget c",FURNITURE,"Warehouse 3","Aisle 3",150,NULL,"Supplier D","In Stock",2023-01-15
+537,1697,"gadget z",FURNITURE,"Warehouse 2","Aisle 3",50,19.99,"Supplier A","Low Stock",2022-12-20
+538,1391,"widget b",TOYS,"Warehouse 2","Aisle 5",50,29.99,"Supplier A","Low Stock",2023-03-05
+539,1438,"gadget z",TOYS,"Warehouse 2","Aisle 2",300,19.99,"Supplier B","In Stock",NULL
+540,1134,"widget a",ELECTRONICS,"Warehouse 3","Aisle 2",150,NULL,"Supplier D","In Stock",2022-12-20
+541,1202,"widget c",TOYS,"Warehouse 3","Aisle 4",200,NULL,"Supplier C","In Stock",2023-03-05
+542,1194,"widget a",ELECTRONICS,"Warehouse 3","Aisle 1",150,9.99,"Supplier A","In Stock",2022-12-20
+543,1574,"widget a",FURNITURE,"Warehouse 2","Aisle 4",50,9.99,"Supplier D","Low Stock",2023-01-15
+544,1183,"gadget z",FURNITURE,"Warehouse 3","Aisle 2",NULL,NULL,"Supplier D","Out of Stock",2023-04-25
+545,1189,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 3",150,9.99,"Supplier A","In Stock",2023-04-25
+546,1124,"widget c",FURNITURE,"Warehouse 1","Aisle 2",100,19.99,"Supplier A","In Stock",2022-12-20
+547,1400,"gadget x",TOYS,"Warehouse 1","Aisle 4",100,9.99,"Supplier B","In Stock",2023-04-25
+548,1149,"widget c",CLOTHING,"Warehouse 2","Aisle 1",50,19.99,"Supplier B","Low Stock",2023-03-05
+549,1122,"widget a",CLOTHING,"Warehouse 1","Aisle 2",100,49.99,"Supplier C","In Stock",2023-03-05
+550,1639,"widget c",ELECTRONICS,"Warehouse 2","Aisle 2",50,29.99,"Supplier C","Low Stock",2022-12-20
+551,1313,"widget a",TOYS,"Warehouse 1","Aisle 4",50,9.99,"Supplier D","Low Stock",2023-03-05
+552,1032,"gadget x",CLOTHING,"Warehouse 1","Aisle 3",NULL,29.99,"Supplier A","Out of Stock",2023-01-15
+553,1569,"gadget x",CLOTHING,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier A","Out of Stock",2023-04-25
+554,1400,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 2",50,NULL,"Supplier B","Low Stock",2023-04-25
+555,1766,"gadget z",CLOTHING,"Warehouse 3","Aisle 3",150,29.99,"Supplier D","In Stock",2023-01-15
+556,1293,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 1",50,NULL,"Supplier D","Low Stock",2022-12-20
+557,1473,"widget b",FURNITURE,"Warehouse 1","Aisle 5",100,29.99,"Supplier D","In Stock",2023-04-25
+558,1341,"widget b",ELECTRONICS,"Warehouse 2","Aisle 5",150,19.99,"Supplier D","In Stock",2022-12-20
+559,1431,"gadget x",FURNITURE,"Warehouse 1","Aisle 2",NULL,9.99,"Supplier A","Out of Stock",NULL
+560,1304,"widget c",CLOTHING,"Warehouse 2","Aisle 1",200,NULL,"Supplier B","In Stock",2023-03-05
+561,1340,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",NULL,19.99,"Supplier B","Out of Stock",2023-03-05
+562,1691,"gadget z",TOYS,"Warehouse 1","Aisle 2",100,29.99,"Supplier D","In Stock",2022-12-20
+563,1279,"gadget x",TOYS,"Warehouse 1","Aisle 4",NULL,19.99,"Supplier D","Out of Stock",2023-03-05
+564,1550,"widget a",ELECTRONICS,"Warehouse 1","Aisle 1",300,49.99,"Supplier B","In Stock",2022-12-20
+565,1681,"gadget z",CLOTHING,"Warehouse 2","Aisle 3",100,9.99,"Supplier A","In Stock",2022-12-20
+566,1836,"widget b",ELECTRONICS,"Warehouse 1","Aisle 1",150,NULL,"Supplier C","In Stock",2023-03-05
+567,1687,"gadget x",CLOTHING,"Warehouse 1","Aisle 1",50,NULL,"Supplier B","Low Stock",2023-03-05
+568,1611,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 2",50,19.99,"Supplier A","Low Stock",2023-03-05
+569,1837,"widget c",ELECTRONICS,"Warehouse 2","Aisle 2",150,9.99,"Supplier D","In Stock",2023-03-05
+570,1883,"gadget z",TOYS,"Warehouse 3","Aisle 1",50,9.99,"Supplier B","Low Stock",2022-12-20
+571,1459,"gadget x",CLOTHING,"Warehouse 1","Aisle 3",50,NULL,"Supplier B","Low Stock",NULL
+572,1288,"widget b",FURNITURE,"Warehouse 2","Aisle 5",NULL,29.99,"Supplier A","Out of Stock",2023-01-15
+573,1782,"gadget x",FURNITURE,"Warehouse 2","Aisle 2",300,29.99,"Supplier A","In Stock",2023-01-15
+574,1954,"gadget x",CLOTHING,"Warehouse 2","Aisle 1",150,49.99,"Supplier C","In Stock",2023-03-05
+575,1253,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 1",100,19.99,"Supplier A","In Stock",2023-01-15
+576,1882,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 4",50,19.99,"Supplier B","Low Stock",2022-12-20
+577,1733,"widget a",CLOTHING,"Warehouse 3","Aisle 5",50,9.99,"Supplier B","Low Stock",2023-03-05
+578,1053,"gadget x",CLOTHING,"Warehouse 3","Aisle 4",300,49.99,"Supplier A","In Stock",2023-03-05
+579,1356,"widget b",ELECTRONICS,"Warehouse 3","Aisle 4",200,9.99,"Supplier B","In Stock",2023-04-25
+580,1609,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",NULL,19.99,"Supplier D","Out of Stock",2023-03-05
+581,1022,"gadget y",FURNITURE,"Warehouse 3","Aisle 5",NULL,49.99,"Supplier D","Out of Stock",2023-01-15
+582,1197,"widget c",TOYS,"Warehouse 2","Aisle 2",100,9.99,"Supplier A","In Stock",2023-03-05
+583,1469,"gadget y",TOYS,"Warehouse 3","Aisle 4",300,NULL,"Supplier B","In Stock",NULL
+584,1761,"gadget x",CLOTHING,"Warehouse 3","Aisle 3",50,NULL,"Supplier D","Low Stock",2023-01-15
+585,1981,"widget a",CLOTHING,"Warehouse 1","Aisle 5",NULL,19.99,"Supplier B","Out of Stock",2023-04-25
+586,1443,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 4",NULL,29.99,"Supplier A","Out of Stock",2023-04-25
+587,1374,"widget b",TOYS,"Warehouse 1","Aisle 5",50,29.99,"Supplier A","Low Stock",2023-04-25
+588,1906,"widget b",FURNITURE,"Warehouse 1","Aisle 2",300,29.99,"Supplier A","In Stock",2023-04-25
+589,1612,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 3",NULL,19.99,"Supplier B","Out of Stock",NULL
+590,1510,"gadget x",FURNITURE,"Warehouse 3","Aisle 2",150,29.99,"Supplier A","In Stock",2022-12-20
+591,1992,"gadget y",TOYS,"Warehouse 2","Aisle 5",150,29.99,"Supplier D","In Stock",2023-03-05
+592,1751,"widget c",FURNITURE,"Warehouse 1","Aisle 1",200,29.99,"Supplier D","In Stock",2023-01-15
+593,1021,"widget a",TOYS,"Warehouse 3","Aisle 3",300,NULL,"Supplier A","In Stock",2023-03-05
+594,1749,"gadget x",TOYS,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier C","Out of Stock",NULL
+595,1669,"widget b",FURNITURE,"Warehouse 2","Aisle 4",150,19.99,"Supplier C","In Stock",NULL
+596,1143,"widget c",TOYS,"Warehouse 3","Aisle 2",100,9.99,"Supplier D","In Stock",2023-03-05
+597,1037,"widget a",TOYS,"Warehouse 2","Aisle 2",50,49.99,"Supplier B","Low Stock",NULL
+598,1229,"gadget z",FURNITURE,"Warehouse 2","Aisle 4",300,9.99,"Supplier A","In Stock",2023-01-15
+599,1608,"widget a",FURNITURE,"Warehouse 2","Aisle 1",50,49.99,"Supplier C","Low Stock",2023-01-15
+600,1200,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 5",150,19.99,"Supplier C","In Stock",2022-12-20
+601,1364,"widget c",FURNITURE,"Warehouse 1","Aisle 2",300,9.99,"Supplier C","In Stock",2023-03-05
+602,1123,"gadget x",CLOTHING,"Warehouse 3","Aisle 4",200,29.99,"Supplier C","In Stock",2022-12-20
+603,1186,"gadget y",CLOTHING,"Warehouse 1","Aisle 1",NULL,19.99,"Supplier B","Out of Stock",2023-04-25
+604,1325,"widget c",ELECTRONICS,"Warehouse 2","Aisle 5",200,9.99,"Supplier C","In Stock",2023-03-05
+605,1562,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",300,19.99,"Supplier C","In Stock",NULL
+606,1521,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 3",100,29.99,"Supplier B","In Stock",2023-03-05
+607,1437,"gadget z",FURNITURE,"Warehouse 1","Aisle 4",200,49.99,"Supplier D","In Stock",2023-03-05
+608,1757,"widget b",TOYS,"Warehouse 1","Aisle 5",300,29.99,"Supplier D","In Stock",2023-01-15
+609,1463,"widget a",TOYS,"Warehouse 1","Aisle 4",150,49.99,"Supplier A","In Stock",NULL
+610,1775,"widget a",ELECTRONICS,"Warehouse 3","Aisle 4",100,29.99,"Supplier C","In Stock",NULL
+611,1348,"gadget y",TOYS,"Warehouse 2","Aisle 3",150,9.99,"Supplier C","In Stock",2022-12-20
+612,1263,"gadget z",TOYS,"Warehouse 3","Aisle 3",NULL,9.99,"Supplier B","Out of Stock",2022-12-20
+613,1282,"gadget z",FURNITURE,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier B","Out of Stock",2023-04-25
+614,1052,"widget b",CLOTHING,"Warehouse 2","Aisle 5",100,29.99,"Supplier D","In Stock",2022-12-20
+615,1026,"widget c",CLOTHING,"Warehouse 3","Aisle 4",50,NULL,"Supplier A","Low Stock",2023-04-25
+616,1225,"widget a",FURNITURE,"Warehouse 1","Aisle 2",200,9.99,"Supplier C","In Stock",2023-04-25
+617,1770,"gadget z",CLOTHING,"Warehouse 3","Aisle 1",300,19.99,"Supplier D","In Stock",2023-03-05
+618,1659,"gadget x",FURNITURE,"Warehouse 3","Aisle 1",300,49.99,"Supplier C","In Stock",2023-01-15
+619,1763,"gadget z",TOYS,"Warehouse 3","Aisle 3",200,49.99,"Supplier B","In Stock",2023-04-25
+620,1954,"widget c",TOYS,"Warehouse 2","Aisle 3",NULL,9.99,"Supplier B","Out of Stock",2023-01-15
+621,1276,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 4",50,NULL,"Supplier D","Low Stock",2022-12-20
+622,1797,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 3",50,29.99,"Supplier A","Low Stock",NULL
+623,1608,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 5",150,NULL,"Supplier C","In Stock",2022-12-20
+624,1931,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 1",200,29.99,"Supplier A","In Stock",2022-12-20
+625,1283,"widget b",CLOTHING,"Warehouse 2","Aisle 2",150,49.99,"Supplier D","In Stock",2023-03-05
+626,1402,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","In Stock",2022-12-20
+627,1878,"gadget z",CLOTHING,"Warehouse 2","Aisle 3",150,NULL,"Supplier C","In Stock",2022-12-20
+628,1345,"gadget y",FURNITURE,"Warehouse 1","Aisle 2",150,NULL,"Supplier C","In Stock",2023-01-15
+629,1959,"gadget x",TOYS,"Warehouse 3","Aisle 1",200,29.99,"Supplier A","In Stock",2023-03-05
+630,1836,"gadget z",CLOTHING,"Warehouse 3","Aisle 3",150,NULL,"Supplier A","In Stock",2023-04-25
+631,1480,"gadget z",CLOTHING,"Warehouse 1","Aisle 2",50,29.99,"Supplier A","Low Stock",2023-03-05
+632,1099,"widget b",CLOTHING,"Warehouse 1","Aisle 4",150,9.99,"Supplier C","In Stock",2023-04-25
+633,1801,"gadget x",TOYS,"Warehouse 1","Aisle 2",100,9.99,"Supplier D","In Stock",2023-04-25
+634,1179,"gadget z",TOYS,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","In Stock",2022-12-20
+635,1452,"widget a",ELECTRONICS,"Warehouse 1","Aisle 5",100,29.99,"Supplier A","In Stock",2023-03-05
+636,1222,"widget c",CLOTHING,"Warehouse 2","Aisle 3",150,49.99,"Supplier D","In Stock",2023-04-25
+637,1828,"widget a",ELECTRONICS,"Warehouse 1","Aisle 5",NULL,49.99,"Supplier B","Out of Stock",2022-12-20
+638,1905,"widget a",TOYS,"Warehouse 2","Aisle 5",300,49.99,"Supplier D","In Stock",2023-04-25
+639,1815,"gadget z",CLOTHING,"Warehouse 1","Aisle 1",150,29.99,"Supplier C","In Stock",NULL
+640,1761,"widget c",FURNITURE,"Warehouse 2","Aisle 4",50,49.99,"Supplier D","Low Stock",2022-12-20
+641,1658,"widget c",FURNITURE,"Warehouse 1","Aisle 1",150,9.99,"Supplier B","In Stock",2022-12-20
+642,1658,"gadget y",FURNITURE,"Warehouse 1","Aisle 2",150,19.99,"Supplier C","In Stock",NULL
+643,1571,"widget b",FURNITURE,"Warehouse 3","Aisle 2",100,NULL,"Supplier B","In Stock",2023-03-05
+644,1515,"gadget y",CLOTHING,"Warehouse 2","Aisle 2",50,29.99,"Supplier A","Low Stock",NULL
+645,1441,"gadget x",FURNITURE,"Warehouse 3","Aisle 5",100,49.99,"Supplier A","In Stock",2023-01-15
+646,1619,"widget a",ELECTRONICS,"Warehouse 2","Aisle 1",200,19.99,"Supplier C","In Stock",NULL
+647,1825,"widget c",TOYS,"Warehouse 3","Aisle 2",100,29.99,"Supplier D","In Stock",2023-03-05
+648,1500,"widget a",TOYS,"Warehouse 2","Aisle 5",100,19.99,"Supplier D","In Stock",2022-12-20
+649,1546,"widget a",CLOTHING,"Warehouse 1","Aisle 4",50,NULL,"Supplier D","Low Stock",NULL
+650,1625,"gadget y",CLOTHING,"Warehouse 3","Aisle 1",150,NULL,"Supplier B","In Stock",2023-03-05
+651,1004,"gadget y",CLOTHING,"Warehouse 3","Aisle 3",300,29.99,"Supplier A","In Stock",2023-03-05
+652,1191,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 1",200,NULL,"Supplier C","In Stock",2023-03-05
+653,1492,"widget a",ELECTRONICS,"Warehouse 3","Aisle 3",100,29.99,"Supplier D","In Stock",2023-04-25
+654,1102,"widget c",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier A","In Stock",NULL
+655,1074,"widget b",FURNITURE,"Warehouse 1","Aisle 3",200,9.99,"Supplier D","In Stock",2023-01-15
+656,1195,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 5",50,19.99,"Supplier B","Low Stock",NULL
+657,1412,"widget a",ELECTRONICS,"Warehouse 3","Aisle 1",200,29.99,"Supplier B","In Stock",NULL
+658,1773,"widget c",FURNITURE,"Warehouse 1","Aisle 2",300,9.99,"Supplier C","In Stock",2023-04-25
+659,1048,"widget a",TOYS,"Warehouse 2","Aisle 4",200,NULL,"Supplier B","In Stock",2022-12-20
+660,1375,"widget a",FURNITURE,"Warehouse 1","Aisle 3",50,NULL,"Supplier D","Low Stock",2023-01-15
+661,1511,"widget b",ELECTRONICS,"Warehouse 2","Aisle 3",150,49.99,"Supplier C","In Stock",NULL
+662,1419,"gadget x",CLOTHING,"Warehouse 1","Aisle 4",150,NULL,"Supplier C","In Stock",2023-04-25
+663,1876,"gadget x",FURNITURE,"Warehouse 3","Aisle 2",50,49.99,"Supplier A","Low Stock",2022-12-20
+664,1016,"gadget x",TOYS,"Warehouse 3","Aisle 5",50,NULL,"Supplier D","Low Stock",2023-04-25
+665,1991,"gadget y",CLOTHING,"Warehouse 1","Aisle 5",200,NULL,"Supplier D","In Stock",2022-12-20
+666,1171,"widget a",ELECTRONICS,"Warehouse 3","Aisle 4",100,49.99,"Supplier B","In Stock",NULL
+667,1883,"gadget x",FURNITURE,"Warehouse 2","Aisle 2",200,49.99,"Supplier B","In Stock",NULL
+668,1219,"gadget y",CLOTHING,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier A","Out of Stock",2023-04-25
+669,1157,"widget b",ELECTRONICS,"Warehouse 3","Aisle 4",50,29.99,"Supplier B","Low Stock",2022-12-20
+670,1349,"widget b",FURNITURE,"Warehouse 3","Aisle 4",NULL,NULL,"Supplier A","Out of Stock",2022-12-20
+671,1476,"widget a",ELECTRONICS,"Warehouse 1","Aisle 3",50,9.99,"Supplier C","Low Stock",2022-12-20
+672,1046,"widget b",CLOTHING,"Warehouse 2","Aisle 1",200,29.99,"Supplier A","In Stock",2023-01-15
+673,1866,"widget a",FURNITURE,"Warehouse 2","Aisle 3",200,19.99,"Supplier B","In Stock",NULL
+674,1822,"gadget y",TOYS,"Warehouse 3","Aisle 1",50,29.99,"Supplier B","Low Stock",2022-12-20
+675,1935,"gadget x",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,NULL,"Supplier D","Out of Stock",2023-01-15
+676,1819,"widget c",ELECTRONICS,"Warehouse 3","Aisle 4",200,NULL,"Supplier D","In Stock",2023-04-25
+677,1655,"widget b",ELECTRONICS,"Warehouse 2","Aisle 2",300,NULL,"Supplier A","In Stock",2022-12-20
+678,1268,"widget b",ELECTRONICS,"Warehouse 2","Aisle 5",200,9.99,"Supplier A","In Stock",2023-01-15
+679,1369,"widget c",CLOTHING,"Warehouse 3","Aisle 4",NULL,19.99,"Supplier B","Out of Stock",2023-03-05
+680,1728,"gadget z",CLOTHING,"Warehouse 1","Aisle 5",300,9.99,"Supplier B","In Stock",2023-04-25
+681,1607,"widget c",CLOTHING,"Warehouse 1","Aisle 5",NULL,NULL,"Supplier B","Out of Stock",2023-04-25
+682,1276,"widget c",CLOTHING,"Warehouse 2","Aisle 5",50,29.99,"Supplier D","Low Stock",2023-04-25
+683,1635,"gadget x",ELECTRONICS,"Warehouse 1","Aisle 1",150,29.99,"Supplier A","In Stock",2023-03-05
+684,1414,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 4",200,29.99,"Supplier B","In Stock",2023-03-05
+685,1760,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",200,29.99,"Supplier A","In Stock",2023-04-25
+686,1768,"widget b",TOYS,"Warehouse 1","Aisle 4",200,19.99,"Supplier C","In Stock",2023-01-15
+687,1105,"gadget x",ELECTRONICS,"Warehouse 1","Aisle 5",NULL,29.99,"Supplier A","Out of Stock",2023-01-15
+688,1675,"widget a",FURNITURE,"Warehouse 1","Aisle 3",50,9.99,"Supplier B","Low Stock",2022-12-20
+689,1786,"gadget y",CLOTHING,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier D","Out of Stock",NULL
+690,1324,"gadget y",TOYS,"Warehouse 1","Aisle 2",300,NULL,"Supplier B","In Stock",2023-03-05
+691,1669,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 2",50,49.99,"Supplier B","Low Stock",NULL
+692,1393,"gadget y",TOYS,"Warehouse 3","Aisle 2",150,29.99,"Supplier B","In Stock",NULL
+693,1444,"gadget z",TOYS,"Warehouse 1","Aisle 2",300,49.99,"Supplier B","In Stock",2023-01-15
+694,1515,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 4",300,19.99,"Supplier B","In Stock",2023-01-15
+695,1658,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 4",150,NULL,"Supplier A","In Stock",NULL
+696,1868,"gadget z",FURNITURE,"Warehouse 1","Aisle 2",150,9.99,"Supplier A","In Stock",2023-04-25
+697,1875,"gadget y",CLOTHING,"Warehouse 3","Aisle 2",NULL,9.99,"Supplier B","Out of Stock",2023-01-15
+698,1015,"widget c",ELECTRONICS,"Warehouse 2","Aisle 2",NULL,49.99,"Supplier B","Out of Stock",2022-12-20
+699,1456,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 3",100,19.99,"Supplier D","In Stock",2023-04-25
+700,1181,"widget c",ELECTRONICS,"Warehouse 2","Aisle 1",50,29.99,"Supplier A","Low Stock",2023-03-05
+701,1791,"widget c",TOYS,"Warehouse 2","Aisle 4",NULL,NULL,"Supplier C","Out of Stock",2023-01-15
+702,1166,"gadget y",CLOTHING,"Warehouse 2","Aisle 1",100,NULL,"Supplier B","In Stock",2023-04-25
+703,1090,"gadget z",FURNITURE,"Warehouse 2","Aisle 2",NULL,19.99,"Supplier A","Out of Stock",2022-12-20
+704,1713,"widget b",CLOTHING,"Warehouse 3","Aisle 5",300,9.99,"Supplier D","In Stock",2023-01-15
+705,1335,"gadget x",TOYS,"Warehouse 3","Aisle 5",100,NULL,"Supplier A","In Stock",2023-01-15
+706,1758,"widget a",TOYS,"Warehouse 1","Aisle 5",150,NULL,"Supplier B","In Stock",2023-01-15
+707,1919,"widget a",CLOTHING,"Warehouse 1","Aisle 2",NULL,NULL,"Supplier D","Out of Stock",2023-03-05
+708,1257,"widget c",CLOTHING,"Warehouse 3","Aisle 1",50,19.99,"Supplier A","Low Stock",NULL
+709,1191,"widget b",CLOTHING,"Warehouse 3","Aisle 1",100,19.99,"Supplier B","In Stock",NULL
+710,1496,"widget c",TOYS,"Warehouse 2","Aisle 3",300,29.99,"Supplier A","In Stock",NULL
+711,1738,"widget a",ELECTRONICS,"Warehouse 2","Aisle 1",150,49.99,"Supplier B","In Stock",2023-01-15
+712,1987,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 4",300,49.99,"Supplier D","In Stock",2023-03-05
+713,1688,"gadget x",FURNITURE,"Warehouse 3","Aisle 3",200,49.99,"Supplier D","In Stock",NULL
+714,1857,"widget c",FURNITURE,"Warehouse 3","Aisle 2",150,19.99,"Supplier B","In Stock",2023-01-15
+715,1895,"widget b",CLOTHING,"Warehouse 1","Aisle 1",NULL,NULL,"Supplier C","Out of Stock",2022-12-20
+716,1098,"widget c",TOYS,"Warehouse 1","Aisle 2",300,49.99,"Supplier D","In Stock",NULL
+717,1530,"widget b",TOYS,"Warehouse 1","Aisle 1",100,49.99,"Supplier B","In Stock",2023-03-05
+718,1547,"widget b",TOYS,"Warehouse 2","Aisle 1",200,9.99,"Supplier C","In Stock",NULL
+719,1038,"widget a",FURNITURE,"Warehouse 1","Aisle 2",200,NULL,"Supplier C","In Stock",2023-04-25
+720,1977,"widget a",ELECTRONICS,"Warehouse 3","Aisle 1",100,29.99,"Supplier B","In Stock",2023-04-25
+721,1159,"gadget z",TOYS,"Warehouse 1","Aisle 3",150,29.99,"Supplier C","In Stock",2023-01-15
+722,1125,"widget b",CLOTHING,"Warehouse 3","Aisle 2",50,NULL,"Supplier D","Low Stock",2023-04-25
+723,1998,"gadget y",TOYS,"Warehouse 3","Aisle 4",300,19.99,"Supplier B","In Stock",2023-04-25
+724,1474,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 4",300,49.99,"Supplier D","In Stock",2023-01-15
+725,1450,"widget a",ELECTRONICS,"Warehouse 2","Aisle 5",200,9.99,"Supplier D","In Stock",2023-03-05
+726,1095,"widget b",FURNITURE,"Warehouse 3","Aisle 4",150,19.99,"Supplier A","In Stock",2022-12-20
+727,1172,"widget a",FURNITURE,"Warehouse 2","Aisle 4",300,NULL,"Supplier C","In Stock",2023-01-15
+728,1663,"widget b",FURNITURE,"Warehouse 3","Aisle 1",200,19.99,"Supplier C","In Stock",2023-01-15
+729,1652,"widget b",TOYS,"Warehouse 2","Aisle 1",300,9.99,"Supplier C","In Stock",2022-12-20
+730,1851,"gadget y",CLOTHING,"Warehouse 2","Aisle 2",50,49.99,"Supplier D","Low Stock",2023-01-15
+731,1662,"widget a",ELECTRONICS,"Warehouse 3","Aisle 3",150,19.99,"Supplier D","In Stock",2023-03-05
+732,1753,"widget c",FURNITURE,"Warehouse 1","Aisle 5",200,9.99,"Supplier A","In Stock",2023-01-15
+733,1189,"widget b",FURNITURE,"Warehouse 2","Aisle 5",300,49.99,"Supplier C","In Stock",NULL
+734,1735,"gadget y",CLOTHING,"Warehouse 2","Aisle 5",300,19.99,"Supplier D","In Stock",2023-01-15
+735,1219,"gadget z",FURNITURE,"Warehouse 2","Aisle 2",100,19.99,"Supplier A","In Stock",2023-04-25
+736,1656,"gadget z",TOYS,"Warehouse 1","Aisle 5",300,NULL,"Supplier A","In Stock",2022-12-20
+737,1036,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 1",200,29.99,"Supplier D","In Stock",2023-01-15
+738,1779,"widget b",FURNITURE,"Warehouse 2","Aisle 1",150,49.99,"Supplier C","In Stock",2022-12-20
+739,1368,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 1",50,19.99,"Supplier B","Low Stock",2023-03-05
+740,1119,"gadget z",ELECTRONICS,"Warehouse 3","Aisle 4",100,NULL,"Supplier C","In Stock",2023-03-05
+741,1694,"gadget y",TOYS,"Warehouse 2","Aisle 3",150,9.99,"Supplier D","In Stock",NULL
+742,1663,"widget a",TOYS,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier A","Out of Stock",2023-01-15
+743,1524,"widget a",FURNITURE,"Warehouse 3","Aisle 4",300,NULL,"Supplier C","In Stock",2023-03-05
+744,1830,"widget a",TOYS,"Warehouse 2","Aisle 4",NULL,29.99,"Supplier D","Out of Stock",NULL
+745,1907,"widget b",TOYS,"Warehouse 2","Aisle 5",50,NULL,"Supplier B","Low Stock",NULL
+746,1278,"widget c",CLOTHING,"Warehouse 3","Aisle 1",150,NULL,"Supplier A","In Stock",2022-12-20
+747,1786,"widget b",CLOTHING,"Warehouse 1","Aisle 2",50,49.99,"Supplier B","Low Stock",NULL
+748,1689,"gadget x",TOYS,"Warehouse 2","Aisle 1",150,19.99,"Supplier C","In Stock",2023-03-05
+749,1603,"gadget y",FURNITURE,"Warehouse 2","Aisle 3",300,9.99,"Supplier C","In Stock",2023-03-05
+750,1674,"gadget x",CLOTHING,"Warehouse 1","Aisle 3",300,29.99,"Supplier B","In Stock",2023-04-25
+751,1379,"widget c",ELECTRONICS,"Warehouse 2","Aisle 3",200,29.99,"Supplier B","In Stock",2022-12-20
+752,1544,"widget c",ELECTRONICS,"Warehouse 2","Aisle 5",300,NULL,"Supplier D","In Stock",2023-01-15
+753,1637,"gadget y",FURNITURE,"Warehouse 1","Aisle 2",200,NULL,"Supplier B","In Stock",2023-01-15
+754,1216,"widget b",FURNITURE,"Warehouse 2","Aisle 1",100,NULL,"Supplier C","In Stock",2023-04-25
+755,1057,"gadget y",TOYS,"Warehouse 1","Aisle 4",NULL,9.99,"Supplier B","Out of Stock",2022-12-20
+756,1866,"widget c",ELECTRONICS,"Warehouse 3","Aisle 2",50,49.99,"Supplier A","Low Stock",2023-01-15
+757,1928,"gadget x",FURNITURE,"Warehouse 1","Aisle 4",150,49.99,"Supplier B","In Stock",2023-03-05
+758,1659,"gadget z",CLOTHING,"Warehouse 2","Aisle 1",200,19.99,"Supplier B","In Stock",NULL
+759,1872,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier D","Out of Stock",NULL
+760,1956,"widget c",TOYS,"Warehouse 1","Aisle 2",300,NULL,"Supplier A","In Stock",2023-04-25
+761,1475,"widget a",FURNITURE,"Warehouse 2","Aisle 1",50,29.99,"Supplier B","Low Stock",2023-01-15
+762,1797,"widget b",FURNITURE,"Warehouse 3","Aisle 1",100,49.99,"Supplier C","In Stock",2023-04-25
+763,1690,"widget a",FURNITURE,"Warehouse 3","Aisle 5",300,49.99,"Supplier D","In Stock",2023-03-05
+764,1455,"widget a",FURNITURE,"Warehouse 3","Aisle 3",50,19.99,"Supplier A","Low Stock",2023-03-05
+765,1272,"gadget z",CLOTHING,"Warehouse 1","Aisle 2",NULL,29.99,"Supplier C","Out of Stock",2022-12-20
+766,1828,"widget c",ELECTRONICS,"Warehouse 3","Aisle 1",150,19.99,"Supplier D","In Stock",NULL
+767,1880,"gadget x",CLOTHING,"Warehouse 1","Aisle 5",200,9.99,"Supplier A","In Stock",2023-03-05
+768,1426,"gadget z",FURNITURE,"Warehouse 2","Aisle 2",100,49.99,"Supplier B","In Stock",NULL
+769,1894,"gadget x",TOYS,"Warehouse 2","Aisle 4",50,9.99,"Supplier B","Low Stock",2023-03-05
+770,1061,"widget c",CLOTHING,"Warehouse 2","Aisle 1",NULL,9.99,"Supplier C","Out of Stock",2023-01-15
+771,1612,"widget c",ELECTRONICS,"Warehouse 1","Aisle 4",300,NULL,"Supplier D","In Stock",2023-04-25
+772,1595,"widget b",ELECTRONICS,"Warehouse 2","Aisle 1",150,NULL,"Supplier C","In Stock",NULL
+773,1267,"gadget y",CLOTHING,"Warehouse 3","Aisle 3",300,9.99,"Supplier A","In Stock",2023-03-05
+774,1879,"widget c",FURNITURE,"Warehouse 2","Aisle 2",NULL,NULL,"Supplier D","Out of Stock",2023-04-25
+775,1834,"widget c",CLOTHING,"Warehouse 3","Aisle 2",50,29.99,"Supplier A","Low Stock",NULL
+776,1728,"widget b",TOYS,"Warehouse 3","Aisle 3",300,NULL,"Supplier C","In Stock",2023-04-25
+777,1341,"widget a",ELECTRONICS,"Warehouse 2","Aisle 1",100,19.99,"Supplier B","In Stock",2023-01-15
+778,1396,"gadget z",CLOTHING,"Warehouse 1","Aisle 5",100,29.99,"Supplier A","In Stock",2023-03-05
+779,1576,"widget b",ELECTRONICS,"Warehouse 2","Aisle 1",200,49.99,"Supplier B","In Stock",2023-03-05
+780,1698,"widget c",FURNITURE,"Warehouse 3","Aisle 1",NULL,29.99,"Supplier C","Out of Stock",2022-12-20
+781,1416,"widget a",CLOTHING,"Warehouse 2","Aisle 1",50,49.99,"Supplier D","Low Stock",2023-03-05
+782,1360,"widget b",FURNITURE,"Warehouse 1","Aisle 3",200,49.99,"Supplier D","In Stock",2023-03-05
+783,1018,"gadget x",CLOTHING,"Warehouse 2","Aisle 5",100,29.99,"Supplier A","In Stock",2023-03-05
+784,1176,"gadget x",TOYS,"Warehouse 3","Aisle 4",300,29.99,"Supplier A","In Stock",2023-03-05
+785,1167,"widget b",FURNITURE,"Warehouse 3","Aisle 5",50,9.99,"Supplier B","Low Stock",2023-04-25
+786,1611,"gadget y",CLOTHING,"Warehouse 3","Aisle 4",100,NULL,"Supplier A","In Stock",2023-03-05
+787,1841,"widget b",TOYS,"Warehouse 1","Aisle 4",NULL,19.99,"Supplier B","Out of Stock",NULL
+788,1395,"widget b",CLOTHING,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier C","Out of Stock",2023-01-15
+789,1042,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 5",100,9.99,"Supplier D","In Stock",2023-01-15
+790,1555,"widget a",TOYS,"Warehouse 2","Aisle 5",50,9.99,"Supplier B","Low Stock",2022-12-20
+791,1284,"widget a",CLOTHING,"Warehouse 1","Aisle 5",150,49.99,"Supplier A","In Stock",2023-04-25
+792,1396,"widget a",TOYS,"Warehouse 1","Aisle 1",150,29.99,"Supplier D","In Stock",NULL
+793,1934,"widget a",TOYS,"Warehouse 1","Aisle 3",50,49.99,"Supplier B","Low Stock",2023-03-05
+794,1011,"widget a",CLOTHING,"Warehouse 3","Aisle 1",300,9.99,"Supplier D","In Stock",2023-03-05
+795,1000,"gadget y",FURNITURE,"Warehouse 1","Aisle 2",100,49.99,"Supplier C","In Stock",2023-01-15
+796,1606,"widget a",CLOTHING,"Warehouse 2","Aisle 5",NULL,19.99,"Supplier D","Out of Stock",NULL
+797,1386,"widget c",CLOTHING,"Warehouse 1","Aisle 2",50,19.99,"Supplier B","Low Stock",2023-04-25
+798,1301,"gadget y",FURNITURE,"Warehouse 3","Aisle 1",100,NULL,"Supplier D","In Stock",2022-12-20
+799,1972,"widget b",CLOTHING,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier B","Out of Stock",NULL
+800,1897,"widget c",CLOTHING,"Warehouse 3","Aisle 4",100,9.99,"Supplier B","In Stock",2022-12-20
+801,1347,"widget c",FURNITURE,"Warehouse 3","Aisle 3",100,NULL,"Supplier B","In Stock",2022-12-20
+802,1252,"widget b",FURNITURE,"Warehouse 3","Aisle 5",300,9.99,"Supplier B","In Stock",2023-01-15
+803,1189,"widget b",CLOTHING,"Warehouse 2","Aisle 2",150,19.99,"Supplier A","In Stock",2023-04-25
+804,1444,"widget c",TOYS,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","Low Stock",2023-01-15
+805,1498,"widget a",FURNITURE,"Warehouse 1","Aisle 1",150,19.99,"Supplier A","In Stock",2023-01-15
+806,1504,"widget b",FURNITURE,"Warehouse 3","Aisle 4",NULL,19.99,"Supplier C","Out of Stock",2023-01-15
+807,1232,"gadget y",FURNITURE,"Warehouse 1","Aisle 1",50,29.99,"Supplier A","Low Stock",2022-12-20
+808,1190,"gadget z",CLOTHING,"Warehouse 1","Aisle 2",200,9.99,"Supplier B","In Stock",2023-03-05
+809,1914,"widget c",ELECTRONICS,"Warehouse 1","Aisle 1",200,NULL,"Supplier B","In Stock",2023-03-05
+810,1507,"widget a",ELECTRONICS,"Warehouse 1","Aisle 2",200,29.99,"Supplier B","In Stock",2022-12-20
+811,1075,"widget b",FURNITURE,"Warehouse 3","Aisle 4",100,29.99,"Supplier A","In Stock",2023-01-15
+812,1368,"widget c",ELECTRONICS,"Warehouse 1","Aisle 3",200,19.99,"Supplier D","In Stock",NULL
+813,1264,"gadget x",TOYS,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier B","Out of Stock",2022-12-20
+814,1753,"widget c",FURNITURE,"Warehouse 1","Aisle 2",200,29.99,"Supplier C","In Stock",2022-12-20
+815,1408,"widget c",ELECTRONICS,"Warehouse 1","Aisle 3",NULL,29.99,"Supplier C","Out of Stock",2023-04-25
+816,1454,"widget a",CLOTHING,"Warehouse 3","Aisle 1",100,9.99,"Supplier A","In Stock",2022-12-20
+817,1034,"widget c",ELECTRONICS,"Warehouse 2","Aisle 5",NULL,9.99,"Supplier C","Out of Stock",2023-04-25
+818,1823,"gadget z",TOYS,"Warehouse 2","Aisle 5",NULL,29.99,"Supplier B","Out of Stock",2023-04-25
+819,1795,"gadget x",FURNITURE,"Warehouse 1","Aisle 1",150,49.99,"Supplier D","In Stock",2023-03-05
+820,1726,"widget b",ELECTRONICS,"Warehouse 2","Aisle 5",300,9.99,"Supplier A","In Stock",2023-04-25
+821,1928,"gadget y",TOYS,"Warehouse 1","Aisle 4",NULL,49.99,"Supplier D","Out of Stock",2022-12-20
+822,1848,"gadget y",CLOTHING,"Warehouse 3","Aisle 4",NULL,29.99,"Supplier C","Out of Stock",2023-03-05
+823,1933,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 3",100,9.99,"Supplier D","In Stock",2023-01-15
+824,1089,"gadget x",FURNITURE,"Warehouse 3","Aisle 3",150,19.99,"Supplier A","In Stock",2023-01-15
+825,1116,"widget a",TOYS,"Warehouse 1","Aisle 1",300,29.99,"Supplier A","In Stock",NULL
+826,1775,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier B","In Stock",2023-03-05
+827,1133,"widget a",CLOTHING,"Warehouse 2","Aisle 4",100,9.99,"Supplier D","In Stock",2022-12-20
+828,1057,"gadget x",FURNITURE,"Warehouse 3","Aisle 4",200,49.99,"Supplier B","In Stock",2023-03-05
+829,1604,"widget c",FURNITURE,"Warehouse 2","Aisle 4",200,29.99,"Supplier D","In Stock",2023-01-15
+830,1555,"gadget z",FURNITURE,"Warehouse 1","Aisle 3",300,9.99,"Supplier A","In Stock",NULL
+831,1684,"gadget y",FURNITURE,"Warehouse 2","Aisle 4",50,19.99,"Supplier A","Low Stock",2023-04-25
+832,1671,"widget b",ELECTRONICS,"Warehouse 3","Aisle 3",200,29.99,"Supplier B","In Stock",2022-12-20
+833,1921,"gadget z",TOYS,"Warehouse 1","Aisle 4",200,9.99,"Supplier D","In Stock",2022-12-20
+834,1172,"widget c",TOYS,"Warehouse 1","Aisle 2",150,9.99,"Supplier C","In Stock",2023-04-25
+835,1969,"gadget z",TOYS,"Warehouse 1","Aisle 4",100,NULL,"Supplier B","In Stock",2023-04-25
+836,1828,"widget a",CLOTHING,"Warehouse 1","Aisle 5",100,NULL,"Supplier D","In Stock",2023-04-25
+837,1601,"widget b",TOYS,"Warehouse 3","Aisle 3",NULL,49.99,"Supplier D","Out of Stock",2023-04-25
+838,1814,"widget c",CLOTHING,"Warehouse 1","Aisle 2",NULL,9.99,"Supplier A","Out of Stock",2023-04-25
+839,1148,"widget c",ELECTRONICS,"Warehouse 2","Aisle 3",100,29.99,"Supplier C","In Stock",2023-01-15
+840,1079,"gadget x",CLOTHING,"Warehouse 2","Aisle 3",NULL,49.99,"Supplier B","Out of Stock",2023-04-25
+841,1885,"gadget y",CLOTHING,"Warehouse 3","Aisle 2",300,49.99,"Supplier D","In Stock",2023-03-05
+842,1212,"widget a",CLOTHING,"Warehouse 2","Aisle 1",150,29.99,"Supplier D","In Stock",2023-03-05
+843,1717,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 3",300,19.99,"Supplier A","In Stock",NULL
+844,1202,"widget c",CLOTHING,"Warehouse 2","Aisle 1",300,19.99,"Supplier A","In Stock",NULL
+845,1763,"widget a",TOYS,"Warehouse 1","Aisle 1",150,19.99,"Supplier D","In Stock",2023-04-25
+846,1228,"widget b",CLOTHING,"Warehouse 1","Aisle 3",100,49.99,"Supplier D","In Stock",2023-04-25
+847,1675,"gadget x",FURNITURE,"Warehouse 1","Aisle 4",NULL,49.99,"Supplier D","Out of Stock",2022-12-20
+848,1226,"widget b",ELECTRONICS,"Warehouse 1","Aisle 3",300,29.99,"Supplier D","In Stock",2023-01-15
+849,1658,"widget a",TOYS,"Warehouse 1","Aisle 4",150,19.99,"Supplier B","In Stock",NULL
+850,1531,"widget a",CLOTHING,"Warehouse 1","Aisle 2",200,49.99,"Supplier C","In Stock",2023-04-25
+851,1440,"gadget y",TOYS,"Warehouse 1","Aisle 5",200,19.99,"Supplier B","In Stock",2022-12-20
+852,1417,"gadget x",CLOTHING,"Warehouse 3","Aisle 4",NULL,NULL,"Supplier D","Out of Stock",2022-12-20
+853,1114,"widget c",FURNITURE,"Warehouse 3","Aisle 1",150,9.99,"Supplier C","In Stock",2023-03-05
+854,1401,"widget c",CLOTHING,"Warehouse 3","Aisle 4",300,49.99,"Supplier B","In Stock",2023-01-15
+855,1616,"gadget y",TOYS,"Warehouse 3","Aisle 5",100,19.99,"Supplier B","In Stock",2023-03-05
+856,1046,"widget c",FURNITURE,"Warehouse 3","Aisle 1",NULL,9.99,"Supplier A","Out of Stock",NULL
+857,1902,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 5",300,49.99,"Supplier C","In Stock",NULL
+858,1734,"gadget z",TOYS,"Warehouse 3","Aisle 2",100,NULL,"Supplier A","In Stock",2023-03-05
+859,1383,"widget a",FURNITURE,"Warehouse 1","Aisle 4",100,19.99,"Supplier C","In Stock",NULL
+860,1195,"widget c",TOYS,"Warehouse 1","Aisle 2",NULL,NULL,"Supplier C","Out of Stock",2023-01-15
+861,1563,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 4",50,NULL,"Supplier B","Low Stock",2022-12-20
+862,1850,"widget b",TOYS,"Warehouse 3","Aisle 2",300,49.99,"Supplier D","In Stock",2023-01-15
+863,1505,"widget a",ELECTRONICS,"Warehouse 2","Aisle 1",NULL,29.99,"Supplier B","Out of Stock",2023-04-25
+864,1366,"gadget y",TOYS,"Warehouse 2","Aisle 3",100,29.99,"Supplier D","In Stock",2022-12-20
+865,1143,"widget b",CLOTHING,"Warehouse 1","Aisle 3",50,NULL,"Supplier A","Low Stock",2023-01-15
+866,1884,"gadget x",FURNITURE,"Warehouse 1","Aisle 4",200,29.99,"Supplier C","In Stock",2022-12-20
+867,1068,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 3",300,49.99,"Supplier C","In Stock",2023-03-05
+868,1098,"widget b",TOYS,"Warehouse 2","Aisle 2",50,29.99,"Supplier B","Low Stock",NULL
+869,1395,"widget c",ELECTRONICS,"Warehouse 1","Aisle 1",50,49.99,"Supplier C","Low Stock",2022-12-20
+870,1024,"widget b",ELECTRONICS,"Warehouse 1","Aisle 2",50,19.99,"Supplier B","Low Stock",2023-01-15
+871,1947,"widget b",FURNITURE,"Warehouse 1","Aisle 5",100,49.99,"Supplier B","In Stock",2023-03-05
+872,1232,"widget b",ELECTRONICS,"Warehouse 3","Aisle 3",300,NULL,"Supplier D","In Stock",NULL
+873,1304,"gadget x",CLOTHING,"Warehouse 3","Aisle 2",100,9.99,"Supplier B","In Stock",2023-04-25
+874,1525,"gadget z",CLOTHING,"Warehouse 1","Aisle 1",150,49.99,"Supplier D","In Stock",NULL
+875,1890,"gadget z",CLOTHING,"Warehouse 2","Aisle 4",100,9.99,"Supplier D","In Stock",2023-04-25
+876,1142,"widget c",CLOTHING,"Warehouse 3","Aisle 2",100,NULL,"Supplier B","In Stock",2022-12-20
+877,1468,"widget c",ELECTRONICS,"Warehouse 3","Aisle 3",200,9.99,"Supplier B","In Stock",2023-03-05
+878,1414,"gadget y",CLOTHING,"Warehouse 1","Aisle 5",200,NULL,"Supplier B","In Stock",NULL
+879,1483,"gadget y",TOYS,"Warehouse 1","Aisle 5",150,9.99,"Supplier D","In Stock",NULL
+880,1512,"widget b",ELECTRONICS,"Warehouse 3","Aisle 3",150,49.99,"Supplier A","In Stock",2023-03-05
+881,1564,"gadget y",TOYS,"Warehouse 3","Aisle 3",150,NULL,"Supplier C","In Stock",2023-03-05
+882,1372,"widget b",ELECTRONICS,"Warehouse 2","Aisle 3",300,49.99,"Supplier C","In Stock",2022-12-20
+883,1150,"widget b",CLOTHING,"Warehouse 1","Aisle 1",150,NULL,"Supplier B","In Stock",2023-04-25
+884,1565,"gadget z",FURNITURE,"Warehouse 3","Aisle 5",100,19.99,"Supplier C","In Stock",2023-01-15
+885,1885,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 3",50,49.99,"Supplier B","Low Stock",2023-01-15
+886,1258,"gadget x",CLOTHING,"Warehouse 1","Aisle 4",NULL,29.99,"Supplier A","Out of Stock",2023-04-25
+887,1655,"gadget y",FURNITURE,"Warehouse 3","Aisle 2",NULL,49.99,"Supplier D","Out of Stock",2023-04-25
+888,1470,"gadget x",FURNITURE,"Warehouse 2","Aisle 1",50,29.99,"Supplier D","Low Stock",2023-03-05
+889,1952,"gadget y",FURNITURE,"Warehouse 1","Aisle 5",200,49.99,"Supplier B","In Stock",2023-01-15
+890,1970,"gadget y",CLOTHING,"Warehouse 1","Aisle 4",150,19.99,"Supplier C","In Stock",2023-01-15
+891,1011,"widget a",TOYS,"Warehouse 3","Aisle 1",NULL,29.99,"Supplier A","Out of Stock",2023-01-15
+892,1143,"widget c",TOYS,"Warehouse 3","Aisle 1",300,NULL,"Supplier B","In Stock",2023-01-15
+893,1568,"widget c",CLOTHING,"Warehouse 2","Aisle 1",300,49.99,"Supplier A","In Stock",2022-12-20
+894,1038,"gadget z",TOYS,"Warehouse 2","Aisle 3",200,NULL,"Supplier B","In Stock",NULL
+895,1108,"gadget x",FURNITURE,"Warehouse 1","Aisle 5",300,19.99,"Supplier B","In Stock",2023-04-25
+896,1692,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 1",150,9.99,"Supplier A","In Stock",NULL
+897,1041,"gadget z",FURNITURE,"Warehouse 2","Aisle 5",150,49.99,"Supplier A","In Stock",2023-03-05
+898,1185,"widget a",ELECTRONICS,"Warehouse 1","Aisle 3",50,9.99,"Supplier C","Low Stock",NULL
+899,1934,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 5",300,NULL,"Supplier B","In Stock",2023-04-25
+900,1397,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 3",100,49.99,"Supplier C","In Stock",2022-12-20
+901,1222,"gadget y",FURNITURE,"Warehouse 2","Aisle 3",100,29.99,"Supplier C","In Stock",2022-12-20
+902,1329,"widget b",CLOTHING,"Warehouse 1","Aisle 1",50,9.99,"Supplier C","Low Stock",2023-01-15
+903,1633,"gadget x",ELECTRONICS,"Warehouse 1","Aisle 4",50,19.99,"Supplier A","Low Stock",NULL
+904,1132,"widget a",FURNITURE,"Warehouse 3","Aisle 3",50,NULL,"Supplier D","Low Stock",2023-01-15
+905,1735,"gadget y",ELECTRONICS,"Warehouse 1","Aisle 5",300,29.99,"Supplier D","In Stock",NULL
+906,1783,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 4",50,19.99,"Supplier C","Low Stock",2022-12-20
+907,1162,"gadget x",CLOTHING,"Warehouse 3","Aisle 3",50,NULL,"Supplier C","Low Stock",NULL
+908,1967,"gadget y",CLOTHING,"Warehouse 1","Aisle 1",200,29.99,"Supplier D","In Stock",2022-12-20
+909,1214,"widget a",TOYS,"Warehouse 3","Aisle 2",100,19.99,"Supplier D","In Stock",2023-03-05
+910,1357,"widget c",CLOTHING,"Warehouse 1","Aisle 1",200,49.99,"Supplier A","In Stock",2023-03-05
+911,1971,"widget b",FURNITURE,"Warehouse 1","Aisle 4",100,49.99,"Supplier A","In Stock",NULL
+912,1732,"widget b",TOYS,"Warehouse 1","Aisle 1",150,19.99,"Supplier B","In Stock",2022-12-20
+913,1234,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 4",50,29.99,"Supplier A","Low Stock",2022-12-20
+914,1407,"widget c",CLOTHING,"Warehouse 2","Aisle 3",NULL,19.99,"Supplier B","Out of Stock",2023-01-15
+915,1842,"widget a",FURNITURE,"Warehouse 1","Aisle 4",200,NULL,"Supplier B","In Stock",2022-12-20
+916,1657,"gadget x",TOYS,"Warehouse 2","Aisle 4",50,NULL,"Supplier B","Low Stock",2023-01-15
+917,1667,"widget b",FURNITURE,"Warehouse 3","Aisle 1",100,NULL,"Supplier B","In Stock",2023-01-15
+918,1372,"widget c",ELECTRONICS,"Warehouse 2","Aisle 2",50,49.99,"Supplier C","Low Stock",2023-04-25
+919,1007,"gadget y",FURNITURE,"Warehouse 1","Aisle 4",150,9.99,"Supplier A","In Stock",2023-04-25
+920,1750,"gadget y",FURNITURE,"Warehouse 3","Aisle 2",NULL,9.99,"Supplier A","Out of Stock",2023-01-15
+921,1121,"gadget y",CLOTHING,"Warehouse 1","Aisle 1",150,19.99,"Supplier A","In Stock",2023-03-05
+922,1587,"widget a",FURNITURE,"Warehouse 3","Aisle 3",50,49.99,"Supplier B","Low Stock",2023-04-25
+923,1347,"widget a",ELECTRONICS,"Warehouse 3","Aisle 5",200,29.99,"Supplier B","In Stock",2023-01-15
+924,1008,"gadget z",ELECTRONICS,"Warehouse 2","Aisle 1",100,49.99,"Supplier A","In Stock",NULL
+925,1073,"widget a",TOYS,"Warehouse 2","Aisle 5",300,9.99,"Supplier D","In Stock",NULL
+926,1675,"gadget z",TOYS,"Warehouse 2","Aisle 2",150,29.99,"Supplier D","In Stock",2023-03-05
+927,1953,"widget c",ELECTRONICS,"Warehouse 1","Aisle 3",50,49.99,"Supplier B","Low Stock",2023-03-05
+928,1089,"widget c",FURNITURE,"Warehouse 3","Aisle 1",150,9.99,"Supplier C","In Stock",NULL
+929,1491,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 2",300,19.99,"Supplier A","In Stock",2022-12-20
+930,1647,"gadget x",ELECTRONICS,"Warehouse 2","Aisle 2",150,49.99,"Supplier C","In Stock",2022-12-20
+931,1912,"gadget z",TOYS,"Warehouse 1","Aisle 3",NULL,49.99,"Supplier C","Out of Stock",2023-01-15
+932,1697,"widget a",FURNITURE,"Warehouse 1","Aisle 2",50,19.99,"Supplier B","Low Stock",2023-01-15
+933,1252,"gadget z",TOYS,"Warehouse 1","Aisle 3",200,49.99,"Supplier B","In Stock",2023-03-05
+934,1315,"widget c",ELECTRONICS,"Warehouse 3","Aisle 3",150,9.99,"Supplier A","In Stock",NULL
+935,1229,"widget b",CLOTHING,"Warehouse 1","Aisle 2",300,9.99,"Supplier D","In Stock",2023-03-05
+936,1177,"widget c",ELECTRONICS,"Warehouse 3","Aisle 2",300,49.99,"Supplier B","In Stock",2023-01-15
+937,1518,"gadget x",CLOTHING,"Warehouse 3","Aisle 4",150,29.99,"Supplier A","In Stock",2023-01-15
+938,1539,"widget a",FURNITURE,"Warehouse 1","Aisle 3",150,19.99,"Supplier B","In Stock",2023-04-25
+939,1731,"gadget y",TOYS,"Warehouse 3","Aisle 4",150,29.99,"Supplier B","In Stock",2023-03-05
+940,1173,"widget b",FURNITURE,"Warehouse 1","Aisle 4",50,49.99,"Supplier B","Low Stock",NULL
+941,1868,"widget c",ELECTRONICS,"Warehouse 2","Aisle 3",100,19.99,"Supplier B","In Stock",2023-04-25
+942,1652,"gadget z",TOYS,"Warehouse 1","Aisle 1",NULL,49.99,"Supplier B","Out of Stock",2022-12-20
+943,1040,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 5",50,NULL,"Supplier D","Low Stock",2022-12-20
+944,1167,"gadget y",CLOTHING,"Warehouse 1","Aisle 1",NULL,29.99,"Supplier B","Out of Stock",NULL
+945,1739,"widget a",ELECTRONICS,"Warehouse 2","Aisle 1",200,19.99,"Supplier D","In Stock",2023-04-25
+946,1169,"widget a",FURNITURE,"Warehouse 1","Aisle 4",300,9.99,"Supplier D","In Stock",2023-03-05
+947,1703,"gadget y",TOYS,"Warehouse 2","Aisle 4",100,NULL,"Supplier A","In Stock",2023-01-15
+948,1392,"widget a",FURNITURE,"Warehouse 1","Aisle 5",200,29.99,"Supplier A","In Stock",2022-12-20
+949,1945,"gadget y",FURNITURE,"Warehouse 1","Aisle 3",100,9.99,"Supplier C","In Stock",2023-04-25
+950,1922,"widget b",TOYS,"Warehouse 1","Aisle 4",NULL,19.99,"Supplier B","Out of Stock",2023-04-25
+951,1501,"gadget x",CLOTHING,"Warehouse 3","Aisle 5",50,NULL,"Supplier D","Low Stock",2023-01-15
+952,1958,"widget c",FURNITURE,"Warehouse 2","Aisle 3",300,29.99,"Supplier A","In Stock",2022-12-20
+953,1144,"gadget z",TOYS,"Warehouse 1","Aisle 1",50,49.99,"Supplier B","Low Stock",2023-04-25
+954,1200,"gadget x",FURNITURE,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier C","Out of Stock",2023-03-05
+955,1928,"gadget y",CLOTHING,"Warehouse 3","Aisle 2",NULL,NULL,"Supplier D","Out of Stock",2023-03-05
+956,1723,"widget c",FURNITURE,"Warehouse 1","Aisle 3",NULL,29.99,"Supplier A","Out of Stock",2023-03-05
+957,1794,"gadget z",CLOTHING,"Warehouse 3","Aisle 5",50,19.99,"Supplier C","Low Stock",2023-03-05
+958,1460,"gadget y",TOYS,"Warehouse 1","Aisle 4",200,NULL,"Supplier C","In Stock",2023-04-25
+959,1731,"widget b",FURNITURE,"Warehouse 2","Aisle 1",150,9.99,"Supplier B","In Stock",2023-04-25
+960,1633,"widget a",TOYS,"Warehouse 1","Aisle 3",NULL,9.99,"Supplier C","Out of Stock",NULL
+961,1751,"widget a",TOYS,"Warehouse 3","Aisle 3",50,29.99,"Supplier B","Low Stock",2023-04-25
+962,1924,"widget c",FURNITURE,"Warehouse 3","Aisle 1",150,9.99,"Supplier B","In Stock",2023-01-15
+963,1193,"widget a",ELECTRONICS,"Warehouse 2","Aisle 4",200,19.99,"Supplier A","In Stock",NULL
+964,1516,"widget a",FURNITURE,"Warehouse 1","Aisle 1",150,19.99,"Supplier C","In Stock",NULL
+965,1908,"widget b",TOYS,"Warehouse 1","Aisle 1",150,29.99,"Supplier D","In Stock",2022-12-20
+966,1028,"gadget x",CLOTHING,"Warehouse 1","Aisle 1",NULL,9.99,"Supplier D","Out of Stock",2023-01-15
+967,1164,"gadget x",CLOTHING,"Warehouse 3","Aisle 5",200,NULL,"Supplier A","In Stock",2023-03-05
+968,1421,"widget c",ELECTRONICS,"Warehouse 3","Aisle 1",100,9.99,"Supplier B","In Stock",2022-12-20
+969,1557,"widget b",TOYS,"Warehouse 3","Aisle 2",300,NULL,"Supplier A","In Stock",2023-03-05
+970,1338,"widget b",ELECTRONICS,"Warehouse 2","Aisle 4",100,49.99,"Supplier D","In Stock",NULL
+971,1546,"widget c",FURNITURE,"Warehouse 2","Aisle 2",NULL,9.99,"Supplier C","Out of Stock",2023-01-15
+972,1252,"gadget y",CLOTHING,"Warehouse 3","Aisle 4",200,NULL,"Supplier A","In Stock",2023-03-05
+973,1389,"gadget z",ELECTRONICS,"Warehouse 1","Aisle 5",300,29.99,"Supplier D","In Stock",2023-01-15
+974,1593,"widget b",CLOTHING,"Warehouse 1","Aisle 1",100,NULL,"Supplier A","In Stock",2023-04-25
+975,1882,"gadget x",FURNITURE,"Warehouse 2","Aisle 5",200,9.99,"Supplier D","In Stock",2023-03-05
+976,1647,"gadget y",CLOTHING,"Warehouse 2","Aisle 5",NULL,49.99,"Supplier B","Out of Stock",NULL
+977,1495,"gadget y",TOYS,"Warehouse 3","Aisle 3",NULL,NULL,"Supplier C","Out of Stock",2023-01-15
+978,1364,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 1",300,19.99,"Supplier D","In Stock",2022-12-20
+979,1832,"widget c",CLOTHING,"Warehouse 1","Aisle 2",50,NULL,"Supplier A","Low Stock",2023-03-05
+980,1341,"gadget x",ELECTRONICS,"Warehouse 3","Aisle 1",200,49.99,"Supplier D","In Stock",2023-04-25
+981,1499,"gadget z",TOYS,"Warehouse 2","Aisle 3",NULL,NULL,"Supplier B","Out of Stock",2023-01-15
+982,1656,"gadget z",FURNITURE,"Warehouse 1","Aisle 5",50,9.99,"Supplier A","Low Stock",2023-03-05
+983,1510,"widget c",ELECTRONICS,"Warehouse 2","Aisle 3",300,NULL,"Supplier D","In Stock",2023-04-25
+984,1326,"gadget z",TOYS,"Warehouse 1","Aisle 2",50,19.99,"Supplier D","Low Stock",NULL
+985,1216,"gadget y",CLOTHING,"Warehouse 3","Aisle 4",NULL,9.99,"Supplier D","Out of Stock",NULL
+986,1300,"widget b",ELECTRONICS,"Warehouse 2","Aisle 1",100,29.99,"Supplier D","In Stock",2022-12-20
+987,1131,"widget a",ELECTRONICS,"Warehouse 1","Aisle 5",200,49.99,"Supplier A","In Stock",2023-04-25
+988,1803,"gadget x",CLOTHING,"Warehouse 1","Aisle 4",200,49.99,"Supplier B","In Stock",NULL
+989,1069,"gadget x",FURNITURE,"Warehouse 3","Aisle 3",100,NULL,"Supplier D","In Stock",NULL
+990,1251,"widget c",CLOTHING,"Warehouse 3","Aisle 5",NULL,9.99,"Supplier A","Out of Stock",2022-12-20
+991,1255,"widget b",CLOTHING,"Warehouse 2","Aisle 4",150,9.99,"Supplier B","In Stock",2023-04-25
+992,1708,"gadget z",TOYS,"Warehouse 3","Aisle 1",200,NULL,"Supplier C","In Stock",2023-03-05
+993,1814,"gadget y",ELECTRONICS,"Warehouse 3","Aisle 1",NULL,19.99,"Supplier B","Out of Stock",NULL
+994,1920,"gadget y",FURNITURE,"Warehouse 1","Aisle 5",100,29.99,"Supplier A","In Stock",2023-01-15
+995,1449,"gadget x",FURNITURE,"Warehouse 2","Aisle 3",NULL,29.99,"Supplier B","Out of Stock",NULL
+996,1009,"widget b",FURNITURE,"Warehouse 2","Aisle 2",100,NULL,"Supplier C","In Stock",2023-01-15
+997,1823,"gadget y",ELECTRONICS,"Warehouse 2","Aisle 3",300,19.99,"Supplier B","In Stock",2022-12-20
+998,1797,"gadget z",TOYS,"Warehouse 3","Aisle 5",150,9.99,"Supplier C","In Stock",2023-03-05
+999,1241,"widget c",FURNITURE,"Warehouse 2","Aisle 2",100,49.99,"Supplier C","In Stock",2022-12-20
+1000,1250,"widget a",CLOTHING,"Warehouse 1","Aisle 3",100,49.99,"Supplier B","In Stock",2022-12-20
